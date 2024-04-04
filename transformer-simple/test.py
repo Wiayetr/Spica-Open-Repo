@@ -43,11 +43,11 @@ def test_bleu(data, model):
     timestamp = time.time()
 
     with torch.no_grad():
-        for i in range(len(data.dev_en)):
-            en_sent = " ".join([data.en_index_dict[w] for w in data.dev_en[i]])
-            cn_sent = " ".join([data.cn_index_dict[w] for w in data.dev_cn[i]])
+        for i in range(len(data.test_en)):
+            en_sent = " ".join([data.en_index_dict[w] for w in data.test_en[i]])
+            cn_sent = " ".join([data.cn_index_dict[w] for w in data.test_cn[i]])
 
-            src = torch.from_numpy(np.array(data.dev_en[i])).long().to(args.device)
+            src = torch.from_numpy(np.array(data.test_en[i])).long().to(args.device)
             src = src.unsqueeze(0)
             src_mask = (src != 0).unsqueeze(-2)
 

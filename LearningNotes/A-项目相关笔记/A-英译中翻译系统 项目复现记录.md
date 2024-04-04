@@ -116,7 +116,7 @@ lib库没有明显报错。直接去看model
 
 2. 尝试添加encoding方式，变为更大范围的gb18030：
 
-   ![image-20240324205901677](D:\python\TranslationTask\LearningNotes\image-add-encoding)
+   ![image-20240324205901677](D:\python\TranslationTask\LearningNotes\image-add-encoding.jpg)
 
 3. 尝试使用utf-8编码，成功引发下一个报错。
 
@@ -143,7 +143,7 @@ nltk.download('punkt')
 
 **问题5**：
 
-![image-20240324211238261](D:\python\TranslationTask\LearningNotes\image-cuda-error)
+![image-20240324211238261](D:\python\TranslationTask\LearningNotes\image-cuda-error.jpg)
 
 **解决方法**：
 
@@ -236,4 +236,4 @@ BLEU分数跑出来实在是太低了。现在有若干解决方法：
 
 BLEU分数显著提高，基本上稳定在0.5左右。如图。
 
-![image-20240326150406506](D:\python\TranslationTask\LearningNotes\image-0.5BLEU)
+![image-20240326150406506](D:\python\TranslationTask\LearningNotes\image-0.5BLEU.jpg)

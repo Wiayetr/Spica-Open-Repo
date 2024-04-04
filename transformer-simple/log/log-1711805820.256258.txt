@@ -1,0 +1,7268 @@
+BOS UNK ! EOS
+BOS 乾 杯 ! EOS
+Translation: ！
+
+BOS listen . EOS
+BOS 听 着 。 EOS
+Translation: 聽 。
+
+BOS try it . EOS
+BOS 试 试 吧 。 EOS
+Translation: 试 试 试 。
+
+BOS no way ! EOS
+BOS 不 可 能 ！ EOS
+Translation: 没 走 ！
+
+BOS drive safely . EOS
+BOS 安 全 地 駕 駛 。 EOS
+Translation: 开 车 平 点 。
+
+BOS wood UNK . EOS
+BOS 木 头 会 漂 浮 。 EOS
+Translation: 木 。
+
+BOS be calm . EOS
+BOS 冷 静 点 。 EOS
+Translation: 冷 。
+
+BOS thanks UNK . EOS
+BOS 还 是 要 说 谢 谢 的 。 EOS
+Translation: 谢 谢 你 。
+
+BOS no way ! EOS
+BOS 没 门 ！ EOS
+Translation: 没 有 车 站 ！
+
+BOS shut up ! EOS
+BOS 閉 嘴 ！ EOS
+Translation: 不 要 开 心 点 。
+
+BOS no problem ! EOS
+BOS 没 问 题 ！ EOS
+Translation: 没 有 什 么 问 题 。
+
+BOS come along . EOS
+BOS 快 点 。 EOS
+Translation: 隨 時 來 。
+
+BOS why not ? EOS
+BOS 为 什 么 不 ？ EOS
+Translation: 为 什 么 不 浪 费 呢 ？
+
+BOS move quietly . EOS
+BOS 轻 轻 地 移 动 。 EOS
+Translation: 声 动 地 发 现 了 。
+
+BOS nobody asked . EOS
+BOS 没 人 问 过 。 EOS
+Translation: 没 人 跟 。
+
+BOS someone called . EOS
+BOS 有 人 打 電 話 來 。 EOS
+Translation: 有 人 打 電 話 給 你 。
+
+BOS many thanks . EOS
+BOS 非 常 感 谢 ！ EOS
+Translation: 許 多 谢 谢 谢 。
+
+BOS stop reading . EOS
+BOS 别 再 念 了 。 EOS
+Translation: 停 止 。
+
+BOS stop UNK . EOS
+BOS 别 再 埋 怨 了 。 EOS
+Translation: 停 止 。
+
+BOS get real . EOS
+BOS 醒 醒 吧 。 EOS
+Translation: 什 麼 都 是 錯 的 。
+
+BOS stop UNK . EOS
+BOS 别 再 傻 看 着 。 EOS
+Translation: 停 止 了 。
+
+BOS feel this . EOS
+BOS 来 感 受 一 下 这 个 。 EOS
+Translation: 这 个 。
+
+BOS everybody lies . EOS
+BOS 每 个 人 都 会 说 谎 。 EOS
+Translation: 谁 家 。
+
+BOS get down ! EOS
+BOS 趴 下 ！ EOS
+Translation: 趴 着 ！
+
+BOS god exists . EOS
+BOS 上 帝 存 在 。 EOS
+Translation: 上 帝 握 动 。
+
+BOS we know . EOS
+BOS 我 们 知 道 。 EOS
+Translation: 我 们 知 道 。
+
+BOS she felt blue . EOS
+BOS 她 感 到 UNK UNK 不 乐 的 。 EOS
+Translation: 她 感 觉 成 为 了 蓝 色 的 。
+
+BOS how are you ? EOS
+BOS 你 們 好 嗎 ？ EOS
+Translation: 你 怎 麼 樣 ？
+
+BOS clean your room . EOS
+BOS 清 掃 你 的 房 間 。 EOS
+Translation: 打 掃 你 的 房 間 。
+
+BOS let me think . EOS
+BOS 讓 我 想 一 想 。 EOS
+Translation: 想 我 要 。
+
+BOS the phone rang . EOS
+BOS 電 話 正 在 響 。 EOS
+Translation: 电 话 响 了 。
+
+BOS can anyone drive ? EOS
+BOS 有 人 会 开 车 吗 ？ EOS
+Translation: 有 人 可 以 开 车 吗 ？
+
+BOS jesus loves you . EOS
+BOS 耶 穌 愛 你 。 EOS
+Translation: 愛 你 之 前 愛 過 得 。
+
+BOS tom UNK approval . EOS
+BOS 汤 姆 点 头 同 意 。 EOS
+Translation: 汤 姆 更 加 想 动 。
+
+BOS enjoy your holidays . EOS
+BOS 度 假 愉 快 ！ EOS
+Translation: 假 期 一 假 。
+
+BOS no one came . EOS
+BOS 没 有 人 来 了 。 EOS
+Translation: 没 有 人 来 。
+
+BOS you must choose . EOS
+BOS 你 必 须 选 择 。 EOS
+Translation: 你 一 定 要 從 。
+
+BOS are you ready ? EOS
+BOS 您 准 备 好 了 吗 ？ EOS
+Translation: 你 们 准 备 好 了 吗 ？
+
+BOS tom was full . EOS
+BOS 汤 姆 饱 了 。 EOS
+Translation: 汤 姆 睡 着 了 。
+
+BOS he is poor . EOS
+BOS 他 很 穷 。 EOS
+Translation: 他 不 好 。
+
+BOS she turned eighty-one . EOS
+BOS 她 八 十 一 歲 了 。 EOS
+Translation: 她 入 一 入 睡 下 了 。
+
+BOS keep the change ! EOS
+BOS 不 用 找 零 钱 了 。 EOS
+Translation: 换 种 方 式 对 走 吧 ！
+
+BOS we 're UNK . EOS
+BOS 我 们 很 保 守 。 EOS
+Translation: 我 们 是 到 的 。
+
+BOS i 'm ill . EOS
+BOS 我 生 病 了 。 EOS
+Translation: 我 生 病 了 。
+
+BOS is tom well ? EOS
+BOS 汤 姆 还 好 吧 ？ EOS
+Translation: T o m 好 吗 ？
+
+BOS he just arrived . EOS
+BOS 他 刚 到 。 EOS
+Translation: 他 剛 請 。
+
+BOS is everybody ready ? EOS
+BOS 所 有 人 都 准 备 好 了 吗 ？ EOS
+Translation: 大 家 都 快 好 么 了 ？
+
+BOS i often hiccup . EOS
+BOS 我 经 常 打 嗝 。 EOS
+Translation: 我 经 常 打 嗝 。
+
+BOS she likes oranges . EOS
+BOS 她 喜 欢 橙 子 。 EOS
+Translation: 她 喜 歡 柳 橙 。
+
+BOS nobody was injured . EOS
+BOS 沒 有 人 受 傷 。 EOS
+Translation: 没 有 受 伤 的 。
+
+BOS who likes beans ? EOS
+BOS 谁 喜 欢 豆 子 ？ EOS
+Translation: 谁 喜 歡 提 供 给 谁 ？
+
+BOS tom runs fast . EOS
+BOS 汤 姆 跑 得 快 。 EOS
+Translation: 湯 姆 跑 快 。
+
+BOS they want more . EOS
+BOS 他 們 想 要 更 多 。 EOS
+Translation: 他 们 想 要 更 多 。
+
+BOS tom was bullied . EOS
+BOS 汤 姆 被 欺 负 了 。 EOS
+Translation: 汤 姆 是 人 欺 騙 的 。
+
+BOS that 's life . EOS
+BOS 這 就 是 生 活 。 EOS
+Translation: 就 生 是 如 此 。
+
+BOS see you around . EOS
+BOS 再 见 ！ EOS
+Translation: 再 见 ！
+
+BOS now i remember . EOS
+BOS 现 在 我 想 起 来 了 。 EOS
+Translation: 现 在 我 记 得 面 。
+
+BOS she hated him . EOS
+BOS 她 恨 他 。 EOS
+Translation: 她 恨 他 。
+
+BOS tell me again . EOS
+BOS 重 新 告 訴 我 。 EOS
+Translation: 告 訴 我 再 多 一 次 。
+
+BOS tom follows orders . EOS
+BOS 汤 姆 服 从 命 令 。 EOS
+Translation: 汤 姆 首 歌 后 ， 后 主 意 。
+
+BOS do it now . EOS
+BOS 現 在 就 做 。 EOS
+Translation: 现 在 已 经 做 。
+
+BOS foxes eat UNK . EOS
+BOS 狐 狸 吃 母 鸡 。 EOS
+Translation: 狐 狸 殺 害 。
+
+BOS i almost won . EOS
+BOS 我 几 乎 赢 了 。 EOS
+Translation: 我 几 乎 能 赢 了 。
+
+BOS shake my hand . EOS
+BOS 和 我 握 手 。 EOS
+Translation: 我 的 手 友 握 了 我 的 。
+
+BOS we 're hiding . EOS
+BOS 我 们 在 藏 着 。 EOS
+Translation: 我 们 在 失 去 。
+
+BOS i 'm italian . EOS
+BOS 我 是 義 大 利 人 。 EOS
+Translation: 我 是 義 大 利 人 。
+
+BOS they hated tom . EOS
+BOS 他 們 恨 湯 姆 。 EOS
+Translation: 他 们 恨 汤 姆 。
+
+BOS i 'm innocent . EOS
+BOS 我 是 清 白 的 。 EOS
+Translation: 我 是 無 辜 的 。
+
+BOS prices went up . EOS
+BOS 物 價 上 漲 。 EOS
+Translation: 物 价 上 涨 了 。
+
+BOS that 's great . EOS
+BOS 那 真 是 太 好 了 。 EOS
+Translation: 那 是 一 件 好 的 。
+
+BOS no one knows . EOS
+BOS 沒 有 人 知 道 。 EOS
+Translation: 沒 有 人 知 道 。
+
+BOS words express thoughts . EOS
+BOS 語 言 表 達 思 想 。 EOS
+Translation: 語 詞 表 達 思 想 。
+
+BOS do n't cry . EOS
+BOS 别 哭 。 EOS
+Translation: 别 哭 。
+
+BOS he wears glasses . EOS
+BOS 他 戴 眼 鏡 。 EOS
+Translation: 他 穿 着 好 眼 睛 。
+
+BOS the system worked . EOS
+BOS 系 统 运 行 起 来 了 。 EOS
+Translation: 售 用 功 。
+
+BOS take your time . EOS
+BOS 你 可 以 慢 慢 来 。 EOS
+Translation: 走 吧 。
+
+BOS he UNK me . EOS
+BOS 他 向 我 施 压 。 EOS
+Translation: 他 让 我 来 。
+
+BOS i know tom . EOS
+BOS 我 认 识 汤 姆 。 EOS
+Translation: 我 知 道 汤 姆 。
+
+BOS everything went black . EOS
+BOS 一 切 都 變 成 了 黑 色 。 EOS
+Translation: 一 切 都 坐 下 了 。
+
+BOS let them decide . EOS
+BOS 讓 他 們 決 定 。 EOS
+Translation: 让 他 们 来 决 定 。
+
+BOS are you finished ? EOS
+BOS 你 结 束 了 吗 ？ EOS
+Translation: 你 完 成 了 嗎 ?
+
+BOS i feel lonely . EOS
+BOS 我 觉 得 很 孤 独 。 EOS
+Translation: 我 觉 得 冷 。
+
+BOS has anything changed ? EOS
+BOS 有 任 何 事 情 改 變 了 嗎 ？ EOS
+Translation: 發 生 了 什 麼 東 西 ？
+
+BOS every minute UNK . EOS
+BOS 分 UNK 必 争 。 EOS
+Translation: 每 次 走 。
+
+BOS what a surprise ! EOS
+BOS 太 惊 喜 了 ! EOS
+Translation: 多 麼 惊 !
+
+BOS who built it ? EOS
+BOS 这 是 谁 建 的 ？ EOS
+Translation: 它 建 造 成 了 那 個 誰 寫 字 ？
+
+BOS he got angry . EOS
+BOS 他 生 气 了 。 EOS
+Translation: 他 生 气 了 。
+
+BOS she UNK him . EOS
+BOS 她 看 不 起 他 。 EOS
+Translation: 她 爱 他 。
+
+BOS i hate mosquitoes . EOS
+BOS 我 恨 蚊 子 。 EOS
+Translation: 我 讨 厌 倦 了 。
+
+BOS he acts quickly . EOS
+BOS 他 行 动 迅 速 。 EOS
+Translation: 他 好 吃 。
+
+BOS are they students ? EOS
+BOS 他 們 是 學 生 嗎 ？ EOS
+Translation: 他 们 是 学 生 们 的 学 生 吗 ？
+
+BOS do you understand ? EOS
+BOS 你 明 白 了 嗎 ? EOS
+Translation: 你 明 白 嗎 ？
+
+BOS knowledge is power . EOS
+BOS 知 识 就 是 力 量 。 EOS
+Translation: 無 論 是 大 量 這 個 段 量 量 。
+
+BOS what should i bring ? EOS
+BOS 我 该 带 些 什 么 ？ EOS
+Translation: 我 应 该 带 带 来 加 什 么 ？
+
+BOS he is no fool . EOS
+BOS 他 没 疯 。 EOS
+Translation: 他 不 是 傻 子 。
+
+BOS she went there yesterday . EOS
+BOS 她 昨 天 去 那 裡 。 EOS
+Translation: 她 昨 天 去 了 那 儿 。
+
+BOS he climbed the stairs . EOS
+BOS 他 爬 上 了 樓 梯 。 EOS
+Translation: 他 爬 上 了 一 棵 黑 。
+
+BOS i just heard something . EOS
+BOS 我 只 是 听 到 了 一 些 消 息 。 EOS
+Translation: 我 就 听 到 了 点 东 西 。
+
+BOS i am from UNK . EOS
+BOS 我 來 自 四 國 。 EOS
+Translation: 我 来 自 从 。
+
+BOS you broke the rules . EOS
+BOS 你 触 犯 了 规 则 。 EOS
+Translation: 你 坏 了 规 矩 。
+
+BOS do n't be shy . EOS
+BOS 不 要 害 羞 。 EOS
+Translation: 别 害 羞 。
+
+BOS i called her up . EOS
+BOS 我 叫 她 起 来 。 EOS
+Translation: 我 打 電 話 給 她 。
+
+BOS let 's not UNK . EOS
+BOS 我 們 別 吵 了 。 EOS
+Translation: 我 们 不 要 吧 。
+
+BOS he cleared his throat . EOS
+BOS 他 清 了 清 喉 嚨 。 EOS
+Translation: 他 清 理 了 他 的 喉 嚨 。
+
+BOS it 's your turn . EOS
+BOS 輪 到 你 了 。 EOS
+Translation: 你 在 看 你 的 。
+
+BOS those are their books . EOS
+BOS 这 是 他 们 的 书 。 EOS
+Translation: 那 些 書 的 預 約 。
+
+BOS speaking english is useful . EOS
+BOS 说 英 语 很 有 用 。 EOS
+Translation: 說 英 語 是 用 英 語 。
+
+BOS where are my books ? EOS
+BOS 我 的 書 在 哪 ？ EOS
+Translation: 我 的 書 在 哪 ？
+
+BOS he UNK the lady . EOS
+BOS 他 向 那 位 女 士 问 好 。 EOS
+Translation: 他 是 那 位 女 士 上 那 个 女 夫 。
+
+BOS he does speak well . EOS
+BOS 他 真 的 說 得 很 好 。 EOS
+Translation: 他 说 话 很 好 。
+
+BOS tom watched tv yesterday . EOS
+BOS T o m 昨 天 看 了 电 视 。 EOS
+Translation: 汤 姆 昨 天 看 电 视 了 。
+
+BOS it 's not practical . EOS
+BOS 这 不 实 用 。 EOS
+Translation: 这 没 有 一 个 固 定 的 人 确 重 要 。
+
+BOS UNK of the dog ! EOS
+BOS 小 心 狗 ！ EOS
+Translation: 這 隻 狗 叫 了 ！
+
+BOS do you speak chinese ? EOS
+BOS 你 會 說 中 文 嗎 ？ EOS
+Translation: 你 说 中 文 吗 ？
+
+BOS the button came off . EOS
+BOS 這 顆 鈕 扣 脫 落 了 。 EOS
+Translation: 按 下 了 按 鈕 後 ， 。
+
+BOS that 's the point . EOS
+BOS 这 正 是 问 题 的 关 UNK 。 EOS
+Translation: 那 是 一 點 甜 的 。
+
+BOS the fire alarm rang . EOS
+BOS 火 警 警 报 响 了 。 EOS
+Translation: 风 声 音 满 了 东 西 。
+
+BOS which is your book ? EOS
+BOS 哪 本 是 你 們 的 書 ？ EOS
+Translation: 哪 本 是 你 的 书 ？
+
+BOS has something good happened ? EOS
+BOS 發 生 了 什 麼 好 事 嗎 ？ EOS
+Translation: 發 生 了 什 麼 好 嗎 ？
+
+BOS i 'm not sure . EOS
+BOS 我 不 确 定 。 EOS
+Translation: 我 不 确 定 。
+
+BOS i 've gotten better . EOS
+BOS 我 已 經 變 得 好 多 了 。 EOS
+Translation: 我 已 經 好 了 。
+
+BOS UNK you 're me . EOS
+BOS 假 装 你 是 我 。 EOS
+Translation: 你 是 我 。
+
+BOS is n't that mine ? EOS
+BOS 那 是 我 的 吗 ？ EOS
+Translation: 那 不 是 我 的 吗 ？
+
+BOS do you want more ? EOS
+BOS 你 想 要 更 多 嗎 ？ EOS
+Translation: 你 想 再 多 吃 點 嗎 ？
+
+BOS come if you can . EOS
+BOS 如 果 你 能 就 來 吧 。 EOS
+Translation: 要 是 你 能 力 而 來 。
+
+BOS do you study english ? EOS
+BOS 您 学 英 语 吗 ？ EOS
+Translation: 你 学 英 语 吗 ？
+
+BOS did you ever try ? EOS
+BOS 你 试 过 吗 ？ EOS
+Translation: 你 试 过 去 吗 ？
+
+BOS please let me go . EOS
+BOS 請 讓 我 走 。 EOS
+Translation: 請 允 許 我 去 。
+
+BOS welcome to our home . EOS
+BOS 欢 迎 来 到 我 们 家 。 EOS
+Translation: 歡 迎 我 們 回 家 。
+
+BOS that 's my coat . EOS
+BOS 那 是 我 的 大 衣 。 EOS
+Translation: 那 就 是 我 的 大 衣 。
+
+BOS fight like a man ! EOS
+BOS 像 男 人 一 样 战 斗 ！ EOS
+Translation: 癌 症 们 像 一 个 男 人 ！
+
+BOS a UNK UNK water . EOS
+BOS 海 绵 吸 水 。 EOS
+Translation: 水 。
+
+BOS UNK ca n't fly . EOS
+BOS UNK 鳥 不 會 飛 。 EOS
+Translation: 宁 愿 意 。
+
+BOS was her story true ? EOS
+BOS 她 的 故 事 是 真 的 吗 ？ EOS
+Translation: 她 的 故 事 是 真 的 吗 ？
+
+BOS i like taking walks . EOS
+BOS 我 喜 欢 散 步 。 EOS
+Translation: 我 喜 歡 走 路 。
+
+BOS you 're quite right . EOS
+BOS 你 是 對 的 。 EOS
+Translation: 你 真 是 對 的 。
+
+BOS this is my daughter . EOS
+BOS 這 是 我 女 兒 。 EOS
+Translation: 这 是 我 女 儿 。
+
+BOS he was elected president . EOS
+BOS 他 被 选 为 总 统 。 EOS
+Translation: 他 被 選 為 一 根 架 。
+
+BOS we played soccer yesterday . EOS
+BOS 我 们 昨 天 踢 了 足 球 。 EOS
+Translation: 我 們 昨 天 打 電 球 。
+
+BOS could you tell me ? EOS
+BOS 您 会 告 诉 我 吗 ？ EOS
+Translation: 你 能 告 诉 我 吗 ？
+
+BOS they will not pass ! EOS
+BOS 他 們 不 會 通 過 的 ! EOS
+Translation: 他 们 不 会 通 过 门 吗 ？
+
+BOS tom is my grandfather . EOS
+BOS T o m 是 我 爺 爺 。 EOS
+Translation: 湯 姆 的 祖 父 。
+
+BOS does anyone speak english ? EOS
+BOS 有 人 會 說 英 語 嗎 ？ EOS
+Translation: 有 人 说 英 语 吗 ？
+
+BOS i like to travel . EOS
+BOS 我 喜 歡 旅 行 。 EOS
+Translation: 我 喜 歡 旅 行 。
+
+BOS the UNK flew away . EOS
+BOS 這 隻 烏 UNK 飛 走 了 。 EOS
+Translation: 這 批 逃 走 了 。
+
+BOS no problem at all ! EOS
+BOS 没 有 任 何 问 题 ! EOS
+Translation: 一 点 问 题 都 没 有 ！
+
+BOS he entered the army . EOS
+BOS 他 加 入 了 陸 軍 。 EOS
+Translation: 他 摘 下 餐 。
+
+BOS he must love you . EOS
+BOS 他 一 定 很 愛 你 。 EOS
+Translation: 他 一 定 要 爱 你 。
+
+BOS my pen is new . EOS
+BOS 我 的 钢 笔 是 新 的 。 EOS
+Translation: 我 的 笔 是 新 。
+
+BOS can you find it ? EOS
+BOS 你 能 找 到 它 嗎 ？ EOS
+Translation: 你 能 找 到 吗 ？
+
+BOS clearly you are mistaken . EOS
+BOS 顯 然 的 ， 你 錯 了 。 EOS
+Translation: 你 雨 还 是 被 车 。
+
+BOS we 're old friends . EOS
+BOS 我 们 是 老 朋 友 了 。 EOS
+Translation: 我 們 是 朋 友 。
+
+BOS turn to the left . EOS
+BOS 向 左 转 。 EOS
+Translation: 向 左 转 。
+
+BOS my UNK still hurts . EOS
+BOS 我 的 UNK 子 还 疼 。 EOS
+Translation: 我 還 在 痛 。
+
+BOS he is very tall . EOS
+BOS 他 很 高 。 EOS
+Translation: 他 非 常 高 。
+
+BOS when was she born ? EOS
+BOS 她 是 什 么 时 候 出 生 的 ？ EOS
+Translation: 她 出 生 什 麼 時 候 會 生 長 ？
+
+BOS you have beautiful legs . EOS
+BOS 你 有 着 漂 亮 的 腿 。 EOS
+Translation: 你 有 一 双 美 腿 。
+
+BOS tom is going crazy . EOS
+BOS 汤 姆 要 发 疯 。 EOS
+Translation: 汤 姆 快 要 疯 了 。
+
+BOS speaking english is difficult . EOS
+BOS 說 英 語 很 難 。 EOS
+Translation: 說 英 語 很 困 難 。
+
+BOS no one will talk . EOS
+BOS 没 人 会 讲 。 EOS
+Translation: 沒 有 一 个 人 能 管 。
+
+BOS let 's discuss it . EOS
+BOS 来 商 量 吧 。 EOS
+Translation: 让 我 们 想 讨 论 它 。
+
+BOS UNK is a UNK . EOS
+BOS 创 造 主 义 是 一 种 伪 科 学 。 EOS
+Translation: 一 个 赢 。
+
+BOS i accepted her invitation . EOS
+BOS 我 接 受 了 她 的 邀 請 。 EOS
+Translation: 我 接 受 了 她 的 邀 請 。
+
+BOS you 're still young . EOS
+BOS 你 仍 然 很 年 輕 。 EOS
+Translation: 你 還 年 輕 。
+
+BOS i burned the paper . EOS
+BOS 我 燒 了 紙 。 EOS
+Translation: 我 烧 了 紙 。
+
+BOS there were two cakes . EOS
+BOS 那 有 两 块 蛋 糕 。 EOS
+Translation: 那 里 有 两 个 州 。
+
+BOS i want much more . EOS
+BOS 我 要 多 很 多 。 EOS
+Translation: 我 要 更 多 。
+
+BOS lincoln died in UNK . EOS
+BOS 林 肯 於 1 8 6 5 年 去 世 。 EOS
+Translation: 林 肯 釋 放 了 。
+
+BOS i like red roses . EOS
+BOS 我 喜 歡 紅 色 的 玫 瑰 。 EOS
+Translation: 我 喜 歡 紅 玫 瑰 。
+
+BOS you 've been had . EOS
+BOS 您 被 骗 了 。 EOS
+Translation: 你 们 被 骗 了 。
+
+BOS are you busy now ? EOS
+BOS 現 在 你 們 忙 嗎 ？ EOS
+Translation: 現 在 您 忙 嗎 ？
+
+BOS i still love her . EOS
+BOS 我 仍 然 爱 着 她 。 EOS
+Translation: 我 依 旧 爱 着 她 。
+
+BOS he told the truth . EOS
+BOS 他 說 了 實 話 。 EOS
+Translation: 他 告 訴 了 事 实 。
+
+BOS what are those numbers ? EOS
+BOS 那 些 数 字 是 什 么 ？ EOS
+Translation: 那 些 数 字 是 什 么 ？
+
+BOS his memory UNK me . EOS
+BOS 他 的 记 忆 力 使 我 惊 讶 。 EOS
+Translation: 他 的 记 忆 了 我 。
+
+BOS why are you angry ? EOS
+BOS 你 为 什 么 生 气 ？ EOS
+Translation: 你 為 什 麼 生 氣 ？
+
+BOS are you going outside ? EOS
+BOS 你 去 外 面 吗 ？ EOS
+Translation: 你 去 外 面 嗎 ？
+
+BOS this book is small . EOS
+BOS 这 本 书 小 。 EOS
+Translation: 這 本 書 很 小 。
+
+BOS please eat some cake . EOS
+BOS 请 吃 点 蛋 糕 。 EOS
+Translation: 请 吃 点 蛋 糕 。
+
+BOS there is a strike . EOS
+BOS 有 罢 工 。 EOS
+Translation: 打 牌 。
+
+BOS i know the feeling . EOS
+BOS 我 知 道 那 種 感 覺 。 EOS
+Translation: 我 觉 得 知 道 。
+
+BOS i arrived here yesterday . EOS
+BOS 我 昨 天 到 這 裡 的 。 EOS
+Translation: 我 昨 天 到 这 儿 。
+
+BOS please speak more clearly . EOS
+BOS 请 说 得 更 清 楚 些 。 EOS
+Translation: 請 更 明 白 色 的 意 思 。
+
+BOS he has three sons . EOS
+BOS 他 有 三 个 儿 子 。 EOS
+Translation: 他 有 三 個 兒 子 。
+
+BOS do you like music ? EOS
+BOS 你 喜 欢 音 乐 吗 ？ EOS
+Translation: 你 爱 音 乐 吗 ？
+
+BOS we all fell asleep . EOS
+BOS 我 们 都 睡 着 了 。 EOS
+Translation: 我 们 睡 着 了 。
+
+BOS i need a stamp . EOS
+BOS 我 需 要 一 張 郵 票 。 EOS
+Translation: 我 需 要 一 張 郵 票 。
+
+BOS they forced me out . EOS
+BOS 他 们 迫 使 我 出 来 。 EOS
+Translation: 他 们 被 偷 走 了 我 。
+
+BOS someone UNK for help . EOS
+BOS 有 人 呼 救 。 EOS
+Translation: 有 人 帮 助 。
+
+BOS this is n't spanish . EOS
+BOS 這 不 是 西 班 牙 語 。 EOS
+Translation: 這 是 外 形 西 班 牙 文 。
+
+BOS she walked very carefully . EOS
+BOS 她 小 心 翼 翼 地 走 。 EOS
+Translation: 她 非 常 走 。
+
+BOS are your hands clean ? EOS
+BOS 你 的 手 乾 淨 嗎 ? EOS
+Translation: 你 是 手 举 起 来 吗 ？
+
+BOS give me the book . EOS
+BOS 把 书 给 我 。 EOS
+Translation: 給 我 這 本 書 。
+
+BOS they did n't listen . EOS
+BOS 他 们 没 听 。 EOS
+Translation: 他 们 没 有 听 。
+
+BOS he married a stewardess . EOS
+BOS 他 娶 了 一 位 空 姐 。 EOS
+Translation: 他 娶 了 一 名 空 姐 。
+
+BOS i am from china . EOS
+BOS 我 来 自 中 国 。 EOS
+Translation: 我 是 从 中 国 来 的 。
+
+BOS mary hugged her doll . EOS
+BOS M a r y 擁 抱 她 的 娃 娃 。 EOS
+Translation: 瑪 麗 拥 有 她 的 娃 娃 娃 。
+
+BOS tom has two children . EOS
+BOS T o m 有 兩 個 孩 子 。 EOS
+Translation: 湯 姆 有 兩 個 孩 子 。
+
+BOS take whatever you like . EOS
+BOS 你 喜 歡 什 麼 就 拿 吧 。 EOS
+Translation: 你 拿 喜 歡 的 。
+
+BOS please wish me luck . EOS
+BOS 請 祝 我 好 運 。 EOS
+Translation: 請 給 我 。
+
+BOS please open the door . EOS
+BOS 請 開 門 。 EOS
+Translation: 请 开 门 。
+
+BOS are you busy today ? EOS
+BOS 你 今 天 忙 吗 ？ EOS
+Translation: 你 今 天 很 忙 ？
+
+BOS let us go home . EOS
+BOS 让 我 们 回 家 吧 。 EOS
+Translation: 我 們 回 家 吧 。
+
+BOS you speak fluent english . EOS
+BOS 你 英 语 说 得 很 流 利 。 EOS
+Translation: 你 的 英 語 說 得 很 流 。
+
+BOS i like playing sports . EOS
+BOS 我 喜 歡 運 動 。 EOS
+Translation: 我 喜 歡 在 玩 運 動 。
+
+BOS he worked very hard . EOS
+BOS 他 工 作 很 努 力 。 EOS
+Translation: 他 很 努 力 。
+
+BOS he killed that man . EOS
+BOS 他 殺 死 了 那 個 人 。 EOS
+Translation: 他 死 了 那 个 男 人 。
+
+BOS let 's get started . EOS
+BOS 讓 我 們 開 始 吧 。 EOS
+Translation: 让 我 们 开 始 吧 。
+
+BOS i know those girls . EOS
+BOS 我 認 識 那 些 女 孩 。 EOS
+Translation: 我 知 道 那 些 女 孩 。
+
+BOS tom drank some juice . EOS
+BOS T o m 喝 了 些 果 汁 。 EOS
+Translation: T o m 喝 了 點 柳 橙 汁 。
+
+BOS tom has a reservation . EOS
+BOS 汤 姆 有 预 约 。 EOS
+Translation: T o m 有 預 約 。
+
+BOS what a wonderful family . EOS
+BOS 多 美 好 的 家 庭 啊 ！ EOS
+Translation: 大 家 的 最 棒 的 家 人 家 。
+
+BOS go when you want . EOS
+BOS 你 想 走 的 时 候 就 走 吧 。 EOS
+Translation: 你 想 什 麼 時 候 。
+
+BOS there 's no water . EOS
+BOS 沒 有 水 。 EOS
+Translation: 沒 有 水 。
+
+BOS can you forgive me ? EOS
+BOS 可 以 原 谅 我 吗 ？ EOS
+Translation: 你 能 原 谅 我 吗 ？
+
+BOS there 's no doubt . EOS
+BOS 毫 无 疑 问 。 EOS
+Translation: 没 有 人 关 系 。
+
+BOS these paintings are beautiful . EOS
+BOS 這 些 畫 很 美 。 EOS
+Translation: 這 些 畫 的 很 美 。
+
+BOS the pain has gone . EOS
+BOS 疼 痛 消 失 了 。 EOS
+Translation: 疼 痛 了 。
+
+BOS express your idea clearly . EOS
+BOS 把 你 的 想 法 表 達 清 楚 。 EOS
+Translation: 你 的 意 思 表 達 意 思 。
+
+BOS it 's my treat . EOS
+BOS 我 請 客 。 EOS
+Translation: 對 我 的 。
+
+BOS do you speak french ? EOS
+BOS 你 會 講 法 語 嗎 ？ EOS
+Translation: 你 會 說 法 語 嗎 ？
+
+BOS her skin is UNK . EOS
+BOS 她 的 皮 膚 光 滑 。 EOS
+Translation: 她 的 皮 肤 很 。
+
+BOS i often catch colds . EOS
+BOS 我 常 常 感 冒 。 EOS
+Translation: 我 常 常 常 感 冒 。
+
+BOS she lost a book . EOS
+BOS 她 弄 丟 了 一 本 書 。 EOS
+Translation: 她 在 一 本 書 上 迷 了 。
+
+BOS what are my UNK ? EOS
+BOS 我 的 责 任 是 什 么 ？ EOS
+Translation: 我 的 ？
+
+BOS what is your name ? EOS
+BOS 你 叫 什 么 名 字 ？ EOS
+Translation: 叫 什 麼 名 字 ?
+
+BOS what do you think ? EOS
+BOS 你 認 為 如 何 ? EOS
+Translation: 你 覺 得 什 麼 ?
+
+BOS she spoke japanese well . EOS
+BOS 她 日 语 说 的 很 好 。 EOS
+Translation: 她 日 語 說 得 很 好 。
+
+BOS he married an actress . EOS
+BOS 他 和 一 个 女 演 员 结 婚 了 。 EOS
+Translation: 他 娶 了 一 個 演 員 。
+
+BOS listen and listen carefully . EOS
+BOS 听 而 且 听 仔 细 。 EOS
+Translation: 聽 清 語 實 際 上 听 。
+
+BOS this is your book . EOS
+BOS 這 是 你 的 書 。 EOS
+Translation: 這 是 你 的 書 。
+
+BOS it 's very cold . EOS
+BOS 非 常 冷 。 EOS
+Translation: 它 很 冷 。
+
+BOS get on the horse . EOS
+BOS 上 马 。 EOS
+Translation: 走 右 邊 的 。
+
+BOS when will they arrive ? EOS
+BOS 他 們 何 時 抵 達 ? EOS
+Translation: 他 们 什 么 时 候 到 ？
+
+BOS she married a musician . EOS
+BOS 她 和 一 位 音 乐 家 结 了 婚 。 EOS
+Translation: 她 嫁 給 了 一 個 奇 的 音 樂 家 。
+
+BOS come along with me . EOS
+BOS 请 跟 我 来 。 EOS
+Translation: 跟 我 一 起 来 。
+
+BOS the students have returned . EOS
+BOS 学 生 们 回 来 了 。 EOS
+Translation: 学 生 还 回 来 了 。
+
+BOS tom is n't UNK . EOS
+BOS 汤 姆 不 傻 。 EOS
+Translation: 汤 姆 不 是
+
+BOS i 'll come back . EOS
+BOS 我 会 回 来 的 。 EOS
+Translation: 我 會 回 來 。
+
+BOS he spoke very loudly . EOS
+BOS 他 说 得 很 大 声 。 EOS
+Translation: 他 说 话 了 。
+
+BOS pick up the phone . EOS
+BOS 接 一 下 电 话 。 EOS
+Translation: 接 电 话 。
+
+BOS we just moved in . EOS
+BOS 我 們 才 剛 搬 進 來 。 EOS
+Translation: 我 们 正 向 地 走 店 。
+
+BOS what are you writing ? EOS
+BOS 你 在 寫 什 麼 ？ EOS
+Translation: 你 在 写 哪 儿 ?
+
+BOS this tea tastes good . EOS
+BOS 這 茶 味 道 不 錯 。 EOS
+Translation: 这 就 是 副 好 喝 牛 奶 。
+
+BOS an UNK event occurred . EOS
+BOS 一 场 令 人 难 忘 的 事 件 发 生 了 。 EOS
+Translation: 买 生 了 一 个 。
+
+BOS what happened to him ? EOS
+BOS 他 發 生 了 什 麼 事 ？ EOS
+Translation: 他 發 生 了 什 麼 事 ？
+
+BOS it 's UNK new . EOS
+BOS 这 是 全 新 的 。 EOS
+Translation: 那 是 新 的 。
+
+BOS you 've been deceived . EOS
+BOS 你 被 騙 了 。 EOS
+Translation: 你 已 经 建 你 的 意 见 。
+
+BOS others are less optimistic . EOS
+BOS 其 他 人 不 那 么 乐 观 。 EOS
+Translation: 不 管 圖 樂 觀 。
+
+BOS why worry about tom ? EOS
+BOS 為 什 麼 要 擔 心 T o m ？ EOS
+Translation: 为 什 么 汤 姆 ？
+
+BOS they 're UNK me . EOS
+BOS 他 們 不 理 我 。 EOS
+Translation: 他 们 是 我 。
+
+BOS they sell UNK goods . EOS
+BOS 他 们 卖 体 育 产 品 。 EOS
+Translation: 他 们 賣 售 屋 。
+
+BOS they became very nervous . EOS
+BOS 他 们 变 得 很 紧 张 。 EOS
+Translation: 他 們 在 慢 汤 姆 床 上 。
+
+BOS i was quite annoyed . EOS
+BOS 我 被 烦 死 了 。 EOS
+Translation: 我 很 年 輕 。
+
+BOS the man is naked . EOS
+BOS 那 人 沒 穿 衣 服 。 EOS
+Translation: 男 人 们 光 着 。
+
+BOS has the bell rung ? EOS
+BOS 钟 响 过 了 吗 ？ EOS
+Translation: 钟 响 了 吗 ？
+
+BOS that 's a book . EOS
+BOS 那 是 一 本 書 。 EOS
+Translation: 那 是 那 本 書 。
+
+BOS write your goals down . EOS
+BOS 把 你 的 目 標 寫 下 來 。 EOS
+Translation: 把 你 的 目 标 存 下 來 。
+
+BOS i 'm using twitter . EOS
+BOS 我 在 用 T w i t t e r 。 EOS
+Translation: 我 是 T o m 的 方 向 感 。
+
+BOS you 're the prisoner . EOS
+BOS 你 是 囚 犯 。 EOS
+Translation: 你 綠 色 適 合 這 個 。
+
+BOS he was alone there . EOS
+BOS 他 獨 自 在 那 裡 。 EOS
+Translation: 他 獨 自 在 那 裡 。
+
+BOS what 's not necessary ? EOS
+BOS 什 麼 是 不 必 要 的 ? EOS
+Translation: 有 什 么 不 ？
+
+BOS you are quite right . EOS
+BOS 你 說 得 很 對 。 EOS
+Translation: 你 真 是 對 的 。
+
+BOS which cap is yours ? EOS
+BOS 哪 顶 帽 子 是 你 的 ？ EOS
+Translation: 哪 顶 帽 子 是 你 的 ？
+
+BOS UNK can climb trees . EOS
+BOS 熊 会 爬 树 。 EOS
+Translation: 你 可 以 树 上 班 。
+
+BOS that looks like blood . EOS
+BOS 那 看 起 来 像 血 。 EOS
+Translation: 那 樣 看 起 來 很 有 。
+
+BOS do n't touch these . EOS
+BOS 不 要 碰 這 些 。 EOS
+Translation: 别 浪 费 。
+
+BOS you deserve to succeed . EOS
+BOS 你 的 成 功 是 应 得 的 。 EOS
+Translation: 你 應 該 要 更 成 功 。
+
+BOS carrots cost three dollars . EOS
+BOS 胡 UNK UNK 要 三 美 元 。 EOS
+Translation: 胡 蘿 蔔 中 三 十 元 。
+
+BOS she 's in the bath . EOS
+BOS 她 在 浴 室 。 EOS
+Translation: 她 在 她 在 洗 澡 。
+
+BOS let 's UNK our watches . EOS
+BOS 讓 我 們 校 對 一 下 錶 吧 。 EOS
+Translation: 讓 我 們 看 看 看 看 看 吧 。
+
+BOS he 's my new friend . EOS
+BOS 他 是 我 新 交 的 朋 友 。 EOS
+Translation: 他 是 我 的 新 朋 友 。
+
+BOS she lives in new york . EOS
+BOS 她 住 在 纽 约 。 EOS
+Translation: 她 住 在 紐 約 。
+
+BOS i am a stranger here . EOS
+BOS 我 是 這 裡 的 外 地 人 。 EOS
+Translation: 我 在 这 儿 。
+
+BOS i 'm UNK my prices . EOS
+BOS 我 正 在 把 价 格 涨 一 倍 。 EOS
+Translation: 我 的 价 格 。
+
+BOS tom picked up the knife . EOS
+BOS 汤 姆 拿 起 了 刀 。 EOS
+Translation: 汤 姆 拿 了 刀
+
+BOS he must be about forty . EOS
+BOS 他 应 该 4 0 岁 左 右 吧 。 EOS
+Translation: 他 肯 定 更 高 地 翻 了 。
+
+BOS i was struck by lightning . EOS
+BOS 我 被 雷 UNK 了 。 EOS
+Translation: 我 被 閃 望 右 邊 。
+
+BOS this letter is UNK addressed . EOS
+BOS 这 封 信 寄 错 地 方 了 。 EOS
+Translation: 這 封 信 是 寄 了 。
+
+BOS what 's wrong , UNK ? EOS
+BOS 出 什 么 事 了 ， 宝 贝 ？ EOS
+Translation: 怎 么 了 ？
+
+BOS do n't change your mind . EOS
+BOS 不 要 改 變 你 的 心 意 。 EOS
+Translation: 别 的 意 思 要 。
+
+BOS i just cut my finger . EOS
+BOS 我 剛 剛 切 到 手 指 了 。 EOS
+Translation: 我 只 是 支 持 了 我 的 手 指 。
+
+BOS he asked me two questions . EOS
+BOS 他 問 了 我 兩 個 問 題 。 EOS
+Translation: 他 問 了 我 兩 個 問 題 。
+
+BOS they made fun of mary . EOS
+BOS 他 們 取 笑 瑪 麗 。 EOS
+Translation: 他 们 有 趣 的 事 。
+
+BOS he complained about the noise . EOS
+BOS 他 抱 怨 這 個 噪 音 。 EOS
+Translation: 他 抱 怨 。
+
+BOS you 'll never be alone . EOS
+BOS 你 们 永 远 不 会 一 个 人 的 。 EOS
+Translation: 你 永 远 不 会 一 个 人 的 。
+
+BOS he took off his UNK . EOS
+BOS 他 脫 掉 了 大 衣 。 EOS
+Translation: 他 摘 下 了 他 的 休 息 。
+
+BOS there are almost no books . EOS
+BOS 幾 乎 沒 有 任 何 書 籍 。 EOS
+Translation: 几 乎 没 有 书 。
+
+BOS i have a big dog . EOS
+BOS 我 有 条 大 狗 。 EOS
+Translation: 我 有 一 条 大 狗 。
+
+BOS have you finished breakfast yet ? EOS
+BOS 你 吃 完 早 飯 了 嗎 ？ EOS
+Translation: 你 吃 完 早 飯 了 嗎 ？
+
+BOS we are at school together . EOS
+BOS 我 们 一 起 在 学 校 。 EOS
+Translation: 我 們 一 起 飛 行 在 一 起 。
+
+BOS they called off their engagement . EOS
+BOS 他 們 解 除 了 婚 約 。 EOS
+Translation: 他 們 打 了 他 們 的 婚 。
+
+BOS tom is a true man . EOS
+BOS 汤 姆 是 个 真 男 人 。 EOS
+Translation: 汤 姆 是 个 是 一 个 真 的 男 人 。
+
+BOS we have a great team . EOS
+BOS 我 们 有 个 好 极 了 的 团 队 。 EOS
+Translation: 我 们 有 一 个 很 棒 的 隊 。
+
+BOS this is a strange sentence . EOS
+BOS 這 是 一 個 奇 怪 的 句 子 。 EOS
+Translation: 这 是 一 個 奇 怪 的 句 子 。
+
+BOS do you study every day ? EOS
+BOS 你 每 天 都 学 习 吗 ？ EOS
+Translation: 你 每 天 读 书 吗 ？
+
+BOS a dolphin is a mammal . EOS
+BOS 海 豚 是 哺 乳 動 物 。 EOS
+Translation: 海 豚 是 一 種 哺 乳 動 物 。
+
+BOS i do n't like kids . EOS
+BOS 我 不 喜 欢 小 孩 。 EOS
+Translation: 我 不 喜 歡 孩 子 。
+
+BOS tom used to work here . EOS
+BOS 汤 姆 过 去 在 这 里 工 作 。 EOS
+Translation: 汤 姆 以 前 在 这 里 工 作 。
+
+BOS you must clear the table . EOS
+BOS 你 必 须 把 桌 子 清 理 干 净 。 EOS
+Translation: 你 应 该 一 直 很 晴 朗 的 桌 子 。
+
+BOS let 's get together again ! EOS
+BOS 讓 我 們 再 聚 在 一 起 ! EOS
+Translation: 讓 我 們 再 一 次 吧 ！
+
+BOS the job is half done . EOS
+BOS 這 項 工 作 已 經 完 成 了 一 半 。 EOS
+Translation: 這 份 工 作 是 必 須 取 半 的 。
+
+BOS facebook is blocked in china . EOS
+BOS F a c e b o o k 在 中 國 是 被 封 鎖 的 。 EOS
+Translation: F a c e b o o k 被 中 支 持 o k 放 在 中 。
+
+BOS i have n't finished this . EOS
+BOS 我 做 不 了 這 個 。 EOS
+Translation: 我 没 有 完 成 。
+
+BOS i 'll see to it . EOS
+BOS 由 我 来 做 . EOS
+Translation: 我 會 看 它 。
+
+BOS he wrote to me yesterday . EOS
+BOS 昨 天 他 寫 信 給 我 。 EOS
+Translation: 他 昨 天 寫 了 我 。
+
+BOS it makes no sense UNK . EOS
+BOS 无 论 如 何 说 不 通 。 EOS
+Translation: 这 没 有 任 何 意 义 。
+
+BOS how much does it cost ? EOS
+BOS 多 少 錢 ? EOS
+Translation: 這 多 少 錢 ?
+
+BOS he came to see me . EOS
+BOS 他 來 看 我 了 。 EOS
+Translation: 他 来 看 看 我 。
+
+BOS mom is getting dinner ready . EOS
+BOS 媽 媽 快 把 晚 餐 準 備 好 了 。 EOS
+Translation: 媽 媽 正 在 吃 午 飯 。
+
+BOS i have lost my wallet . EOS
+BOS 我 掉 了 我 的 钱 包 。 EOS
+Translation: 我 錢 已 經 失 去 了 我 的 钱 。
+
+BOS did you accomplish your goals ? EOS
+BOS 你 達 成 你 的 目 標 了 嗎 ？ EOS
+Translation: 你 的 體 重 得 到 了 嗎 ？
+
+BOS i worked hard last month . EOS
+BOS 我 上 個 月 很 努 力 工 作 。 EOS
+Translation: 上 個 月 我 很 努 力 。
+
+BOS tokyo is a big city . EOS
+BOS 东 京 是 一 个 很 大 的 城 市 。 EOS
+Translation: 東 京 是 一 個 大 城 市 。
+
+BOS i 'd like to go . EOS
+BOS 我 想 要 去 。 EOS
+Translation: 我 要 去 。
+
+BOS i agree with his opinion . EOS
+BOS 我 同 意 他 的 觀 點 。 EOS
+Translation: 我 同 意 他 的 意 見 。
+
+BOS we ca n't talk here . EOS
+BOS 我 们 不 能 在 这 里 谈 。 EOS
+Translation: 我 们 这 里 帮 不 了 。
+
+BOS i 'm very hungry now . EOS
+BOS 我 現 在 非 常 餓 。 EOS
+Translation: 我 现 在 很 饿 了 。
+
+BOS she hated him so much . EOS
+BOS 她 非 常 恨 他 。 EOS
+Translation: 她 恨 他 很 多 。
+
+BOS that was n't too bad . EOS
+BOS 那 不 太 坏 。 EOS
+Translation: 那 太 糟 糕 了 。
+
+BOS he arrived in tokyo yesterday . EOS
+BOS 他 昨 天 到 了 东 京 。 EOS
+Translation: 他 昨 天 在 東 京 了 。
+
+BOS mary looks like her mother . EOS
+BOS 瑪 麗 長 得 像 她 媽 媽 。 EOS
+Translation: 瑪 麗 看 起 來 她 的 母 親 。
+
+BOS he thinks he knows everything . EOS
+BOS 他 以 为 什 么 都 知 道 。 EOS
+Translation: 他 偶 爾 想 知 道 。
+
+BOS tom plays the violin well . EOS
+BOS 汤 姆 拉 小 提 琴 拉 得 很 好 。 EOS
+Translation: 湯 姆 小 提 琴 拉 得 很 好 。
+
+BOS he continued working all day . EOS
+BOS 他 繼 續 工 作 了 一 整 天 。 EOS
+Translation: 他 整 天 工 作 休 假 。
+
+BOS he 's new in town . EOS
+BOS 他 刚 来 这 镇 上 。 EOS
+Translation: 他 的 班 有 了 新 镇 。
+
+BOS the reservation is already made . EOS
+BOS 预 订 好 了 。 EOS
+Translation: 已 經 什 麼 了 。
+
+BOS you 're not a doctor . EOS
+BOS 您 不 是 医 生 。 EOS
+Translation: 你 不 是 醫 生 。
+
+BOS i do n't need anything . EOS
+BOS 我 不 需 要 任 何 東 西 。 EOS
+Translation: 我 什 么 都 不 需 要 做 。
+
+BOS tom lost his car keys . EOS
+BOS 汤 姆 丢 了 他 的 车 钥 匙 。 EOS
+Translation: 汤 姆 把 他 的 车 放 了 。
+
+BOS please remember what he said . EOS
+BOS 請 記 住 他 說 的 話 。 EOS
+Translation: 请 他 说 了 什 么 。
+
+BOS i love jokes about animals . EOS
+BOS 我 爱 听 有 关 动 物 的 笑 话 。 EOS
+Translation: 我 愛 情 况 。
+
+BOS how are you doing today ? EOS
+BOS 你 今 天 怎 么 样 ？ EOS
+Translation: 你 今 天 在 做 你 們 ？
+
+BOS tom may have left already . EOS
+BOS 汤 姆 可 能 已 经 走 了 。 EOS
+Translation: 汤 姆 已 经 掉 了 。
+
+BOS i watched tv this morning . EOS
+BOS 我 今 天 早 上 看 了 电 视 。 EOS
+Translation: 我 在 早 上 看 電 視 。
+
+BOS how is your business going ? EOS
+BOS 你 的 生 意 进 展 如 何 ？ EOS
+Translation: 你 的 事 要 怎 麼 去 ？
+
+BOS there 's been an accident . EOS
+BOS 曾 經 有 一 個 意 外 。 EOS
+Translation: 事 故 發 生 。
+
+BOS the door was kicked open . EOS
+BOS 门 被 踢 开 了 。 EOS
+Translation: 门 开 着 。
+
+BOS he always tells the truth . EOS
+BOS 他 總 是 說 實 話 。 EOS
+Translation: 他 老 是 事 实 不 会 对 你 。
+
+BOS tom is quite drunk now . EOS
+BOS 汤 姆 现 在 醉 UNK UNK 的 了 。 EOS
+Translation: 汤 姆 现 在 很 有 钱 。
+
+BOS not every child likes apples . EOS
+BOS 不 是 每 一 个 孩 子 喜 欢 吃 苹 果 。 EOS
+Translation: 不 是 每 個 孩 子 都 喜 歡 蘋 果 。
+
+BOS we ran after the cat . EOS
+BOS 我 們 追 著 貓 。 EOS
+Translation: 我 们 跑 着 猫 后 就 跑 了 猫 。
+
+BOS i play volleyball a lot . EOS
+BOS 我 常 打 排 球 。 EOS
+Translation: 我 很 高 。
+
+BOS tom does n't talk much . EOS
+BOS 汤 姆 说 话 不 多 。 EOS
+Translation: 汤 姆 没 跟 汤 姆 谈 多 。
+
+BOS who were you talking to ? EOS
+BOS 你 跟 誰 說 話 呢 ？ EOS
+Translation: 谁 与 你 谈 话 ？
+
+BOS you are everything to me . EOS
+BOS 你 是 我 的 一 切 。 EOS
+Translation: 你 全 都 给 我 。
+
+BOS he leaves for china tomorrow . EOS
+BOS 他 明 天 出 发 去 中 国 。 EOS
+Translation: 他 明 天 会 来 。
+
+BOS i have n't met her . EOS
+BOS 我 没 有 遇 见 她 。 EOS
+Translation: 我 没 有 遇 到 她 。
+
+BOS where did you go yesterday ? EOS
+BOS 你 昨 天 去 哪 裡 了 ？ EOS
+Translation: 你 昨 天 去 了 哪 儿 ？
+
+BOS they are having breakfast now . EOS
+BOS 他 們 現 在 正 在 吃 早 飯 。 EOS
+Translation: 他 們 现 在 正 在 吃 早 餐 。
+
+BOS do you like japanese food ? EOS
+BOS 你 喜 欢 日 本 菜 吗 ？ EOS
+Translation: 你 喜 歡 日 本 料 理 嗎 ?
+
+BOS can i ask a question ? EOS
+BOS 我 能 问 个 问 题 吗 ？ EOS
+Translation: 我 能 问 个 问 题 吗 ？
+
+BOS when are you going home ? EOS
+BOS 你 什 麼 時 候 要 回 家 ? EOS
+Translation: 你 什 麼 時 候 回 家 ？
+
+BOS it belongs to me now . EOS
+BOS 它 现 在 归 我 了 。 EOS
+Translation: 现 在 就 是 我 了 。
+
+BOS where 's my apple juice ? EOS
+BOS 我 的 蘋 果 汁 在 哪 ? EOS
+Translation: 我 的 母 親 在 哪 裡 ？
+
+BOS is it really worth it ? EOS
+BOS 这 真 的 值 得 吗 ？ EOS
+Translation: 这 样 真 的 值 得 吗 ？
+
+BOS did you not know that ? EOS
+BOS 你 了 解 它 吗 EOS
+Translation: 你 还 不 知 道 那 个 吗 ？
+
+BOS i caught three fish yesterday . EOS
+BOS 昨 天 我 釣 了 三 條 魚 。 EOS
+Translation: 我 昨 天 抓 到 了 3 条 鱼 。
+
+BOS i 'll think it over . EOS
+BOS 我 會 考 慮 一 下 。 EOS
+Translation: 我 認 為 它 會 看 過 。
+
+BOS how old is that painting ? EOS
+BOS 那 幅 画 有 多 少 年 了 ？ EOS
+Translation: 那 間 有 多 少 ？
+
+BOS UNK UNK are on sale . EOS
+BOS 毛 皮 大 衣 在 打 折 。 EOS
+Translation: 售 價 。
+
+BOS he 's a good man . EOS
+BOS 他 是 個 好 人 。 EOS
+Translation: 他 是 一 个 很 好 的 人 。
+
+BOS please take off your shoes . EOS
+BOS 請 脫 掉 你 的 鞋 子 。 EOS
+Translation: 請 你 的 鞋 子 。
+
+BOS please write with a pencil . EOS
+BOS 請 用 鉛 筆 寫 。 EOS
+Translation: 请 用 支 铅 笔 写 。
+
+BOS could you solve the problem ? EOS
+BOS 你 能 解 決 這 個 問 題 嗎 ？ EOS
+Translation: 你 能 解 決 這 個 問 題 呢 嗎 ？
+
+BOS he keeps his room clean . EOS
+BOS 他 保 持 他 的 房 間 乾 淨 。 EOS
+Translation: 他 把 他 的 房 间 保 持 打 成 了 房 间 。
+
+BOS i want more UNK information . EOS
+BOS 我 要 更 多 詳 細 的 訊 息 。 EOS
+Translation: 我 想 再 要 更 多 信 息 。
+
+BOS he looked over my report . EOS
+BOS 他 仔 細 看 了 我 的 報 告 。 EOS
+Translation: 他 一 上 了 我 的 報 告 。
+
+BOS the dog UNK the rabbit . EOS
+BOS 狗 追 兔 子 。 EOS
+Translation: 狗 只 是 罪 姑 。
+
+BOS have there been any changes ? EOS
+BOS 有 過 任 何 改 變 嗎 ？ EOS
+Translation: 玩 得 這 裡 發 生 了 什 麼 ？
+
+BOS the bus was behind schedule . EOS
+BOS 公 交 车 迟 到 了 。 EOS
+Translation: 公 車 是 走 路 的 。
+
+BOS how long did you stay ? EOS
+BOS 你 待 了 多 久 ? EOS
+Translation: 你 留 多 久 了 ？
+
+BOS tom is not easily satisfied . EOS
+BOS T o m 不 容 易 被 滿 足 。 EOS
+Translation: 汤 姆 不 容 易 感 到 羞 。
+
+BOS i found the book interesting . EOS
+BOS 我 觉 得 这 本 书 很 有 意 思 。 EOS
+Translation: 我 覺 得 這 本 書 有 很 有 趣 。
+
+BOS many small companies went bankrupt . EOS
+BOS 许 多 小 公 司 倒 闭 了 。 EOS
+Translation: 许 多 数 人 忽 爱 制 贸 。
+
+BOS are you looking for work ? EOS
+BOS 你 在 找 工 作 吗 ？ EOS
+Translation: 你 在 找 工 作 吗 ？
+
+BOS are you busy tomorrow afternoon ? EOS
+BOS 明 天 下 午 你 忙 嗎 ? EOS
+Translation: 你 明 天 下 午 忙 吗 ？
+
+BOS are you a japanese student ? EOS
+BOS 你 是 日 语 学 生 吗 ？ EOS
+Translation: 你 是 日 本 学 生 吗 ？
+
+BOS all men are created equal . EOS
+BOS 人 人 生 来 平 等 。 EOS
+Translation: 所 有 人 都 能 力 。
+
+BOS we should always obey UNK . EOS
+BOS 我 们 总 要 遵 守 法 律 。 EOS
+Translation: 我 们 应 该 收 集 听 到 会 的 。
+
+BOS try to keep from crying . EOS
+BOS 試 著 不 要 哭 。 EOS
+Translation: 走 進 哭 。
+
+BOS he found me a taxi . EOS
+BOS 他 帮 我 打 到 一 辆 出 租 车 。 EOS
+Translation: 他 叫 了 我 一 輛 計 程 車 。
+
+BOS your letter made me happy . EOS
+BOS 你 的 來 信 使 我 快 樂 。 EOS
+Translation: 你 的 来 信 让 我 很 高 兴 。
+
+BOS i 'm a night UNK . EOS
+BOS 我 是 個 夜 貓 子 。 EOS
+Translation: 我 昨 晚 睡 。
+
+BOS i like walking at night . EOS
+BOS 我 喜 歡 在 夜 晚 走 路 。 EOS
+Translation: 我 晚 上 喜 欢 夜 。
+
+BOS they killed time playing cards . EOS
+BOS 他 們 玩 牌 來 殺 時 間 。 EOS
+Translation: 他 們 在 打 牌 了 。
+
+BOS tom UNK to give UNK . EOS
+BOS 汤 姆 拒 绝 提 供 详 细 信 息 。 EOS
+Translation: 汤 姆 要 给 你 放 弃 。
+
+BOS the moon is already out . EOS
+BOS 月 亮 已 經 出 來 了 。 EOS
+Translation: 月 光 在 下 雨 了 。
+
+BOS i could hardly hear him . EOS
+BOS 我 幾 乎 聽 不 到 他 的 聲 音 。 EOS
+Translation: 我 幾 乎 從 他 的 消 息 。
+
+BOS i think you understand me . EOS
+BOS 我 认 为 你 了 解 我 。 EOS
+Translation: 我 想 你 要 了 解 我 。
+
+BOS everyone i know UNK UNK . EOS
+BOS 我 认 识 的 每 个 人 都 用 谷 歌 。 EOS
+Translation: 我 所 有 人 都 知 道 。
+
+BOS animals are afraid of fire . EOS
+BOS 动 物 怕 火 。 EOS
+Translation: 動 物 是 恐 的 火 動 。
+
+BOS will you drive me home ? EOS
+BOS 你 會 開 車 送 我 回 家 嗎 ？ EOS
+Translation: 你 愿 意 載 我 回 家 嗎 ?
+
+BOS i 'm tired of dancing . EOS
+BOS 我 厭 倦 了 跳 舞 。 EOS
+Translation: 我 厌 倦 吃 祝 福 。
+
+BOS she was accepted to harvard . EOS
+BOS 她 被 哈 佛 大 學 錄 取 了 。 EOS
+Translation: 她 接 受 了 哈 佛 的 求 。
+
+BOS my father sometimes goes abroad . EOS
+BOS 我 父 親 偶 爾 出 國 。 EOS
+Translation: 我 爸 爸 偶 爾 出 国 。
+
+BOS nothing is going his way . EOS
+BOS 什 么 都 没 按 他 的 路 子 走 。 EOS
+Translation: 什 麼 都 沒 有 做 的 。
+
+BOS i do n't doubt it . EOS
+BOS 我 没 有 疑 问 。 EOS
+Translation: 我 根 本 不 是 傻 的 。
+
+BOS how old is your son ? EOS
+BOS 你 兒 子 幾 歲 ? EOS
+Translation: 你 儿 子 幾 位 子 ？
+
+BOS i prefer UNK to oranges . EOS
+BOS 我 喜 歡 UNK 子 和 橘 子 。 EOS
+Translation: 比 起 橘 子 ， 我 更 喜 歡 柳 橙 。
+
+BOS the man robbed her bag . EOS
+BOS 這 名 男 子 搶 走 了 她 的 包 包 。 EOS
+Translation: 這 個 男 人 把 她 的 袋 子 裡 。
+
+BOS he can read well enough . EOS
+BOS 他 能 讀 得 很 好 。 EOS
+Translation: 他 能 讀 得 很 好 。
+
+BOS she came home very late . EOS
+BOS 她 很 晚 回 家 。 EOS
+Translation: 她 晚 很 快 回 家 。
+
+BOS red is out of fashion . EOS
+BOS 红 色 不 流 行 了 。 EOS
+Translation: 紅 色
+
+BOS there are no UNK yet . EOS
+BOS 還 沒 有 任 何 評 論 。 EOS
+Translation: 還 沒 有 。
+
+BOS i 'm sad without you . EOS
+BOS 沒 有 你 我 很 悲 傷 。 EOS
+Translation: 我 没 有 难 过 。
+
+BOS did i miss the party ? EOS
+BOS 我 错 过 派 对 了 吗 ？ EOS
+Translation: 我 想 念 會 的 派 了 ？
+
+BOS she 's correct for sure . EOS
+BOS 她 的 確 是 正 確 的 。 EOS
+Translation: 她 确 定 一 定 当 然 。
+
+BOS it 's a real bargain . EOS
+BOS 真 是 物 美 價 廉 。 EOS
+Translation: 它 是 个 真 的 。
+
+BOS i walked up the hill . EOS
+BOS 我 走 上 山 了 。 EOS
+Translation: 我 走 進 了 山 。
+
+BOS i work best under pressure . EOS
+BOS 我 在 壓 力 之 下 工 作 表 現 最 好 。 EOS
+Translation: 我 最 好 的 工 作 。
+
+BOS english is difficult to learn . EOS
+BOS 英 語 很 難 學 。 EOS
+Translation: 英 語 在 學 習 英 語 。
+
+BOS it all seems so strange . EOS
+BOS 看 起 来 全 都 太 奇 怪 了 。 EOS
+Translation: 这 么 看 情 很 奇 。
+
+BOS do you want to know ? EOS
+BOS 你 想 知 道 嗎 ？ EOS
+Translation: 你 想 知 道 吗 ？
+
+BOS my mother hates writing letters . EOS
+BOS 我 媽 媽 討 厭 寫 信 。 EOS
+Translation: 我 媽 媽 正 在 寫 信 。
+
+BOS do n't leave the room . EOS
+BOS 别 离 开 房 间 。 EOS
+Translation: 别 留 着 房 间 。
+
+BOS tom owes us a favor . EOS
+BOS 汤 姆 欠 我 们 个 情 。 EOS
+Translation: T o m 需 要 一 個 忙 。
+
+BOS we 're almost like brothers . EOS
+BOS 我 們 幾 乎 像 兄 弟 一 樣 。 EOS
+Translation: 我 们 快 就 像 兄 弟 。
+
+BOS learning english is hard work . EOS
+BOS 學 習 英 語 很 辛 苦 。 EOS
+Translation: 學 英 語 在 這 裡 學 習 英 語 。
+
+BOS i do n't like movies . EOS
+BOS 我 不 喜 歡 電 影 。 EOS
+Translation: 我 不 喜 歡 電 影 。
+
+BOS they named their son tom . EOS
+BOS 他 们 给 他 们 的 儿 子 取 名 叫 汤 姆 。 EOS
+Translation: 他 们 叫 了 汤 姆 的 名 字 。
+
+BOS i heard him go out . EOS
+BOS 我 聽 到 他 出 去 了 。 EOS
+Translation: 我 听 见 了 他 出 去 。
+
+BOS he told us a lie . EOS
+BOS 他 對 我 們 說 了 一 個 謊 。 EOS
+Translation: 他 告 訴 我 們 說 謊 。
+
+BOS have you met her before ? EOS
+BOS 你 以 前 見 過 她 嗎 ？ EOS
+Translation: 你 见 过 她 了 吗 ？
+
+BOS someone 's been here recently . EOS
+BOS 有 人 刚 才 在 这 里 。 EOS
+Translation: 这 里 有 一 个 人 在 这 里 。
+
+BOS everybody was singing except me . EOS
+BOS 除 我 以 外 每 個 人 都 在 歌 唱 。 EOS
+Translation: 除 了 我 每 個 人 都 被 唱 歌 。
+
+BOS i fell asleep while reading . EOS
+BOS 我 看 书 的 时 候 睡 着 了 。 EOS
+Translation: 我 看 书 了 开 着 睡 觉 了 。
+
+BOS tom does n't like cheese . EOS
+BOS 湯 姆 不 喜 歡 乳 酪 。 EOS
+Translation: 汤 姆 不 喜 欢 奶 。
+
+BOS hey you ! please wait . EOS
+BOS 嘿 ， 你 ！ 請 稍 候 。 EOS
+Translation: 嘿 你 等 ！
+
+BOS he UNK in english literature . EOS
+BOS 他 主 修 英 國 文 學 。 EOS
+Translation: 他 用 英 文 學 習 。
+
+BOS you 're just a coward . EOS
+BOS 你 就 是 胆 小 鬼 。 EOS
+Translation: 您 是 个 懦 夫 。
+
+BOS mary helped her mother cook . EOS
+BOS 瑪 麗 幫 她 媽 媽 做 飯 EOS
+Translation: 瑪 麗 幫 她 做 這 個 母 親 。
+
+BOS i have finished my homework . EOS
+BOS 我 已 經 完 成 我 的 作 業 。 EOS
+Translation: 我 有 功 課 。
+
+BOS the company cancelled the meeting . EOS
+BOS 公 司 取 消 了 会 议 。 EOS
+Translation: 公 司 發 現 了 這 個 會 議 。
+
+BOS tom brought mary some juice . EOS
+BOS T o m 幫 M a r y 買 了 點 果 汁 。 EOS
+Translation: 汤 姆 给 玛 丽 后 果 汁 。
+
+BOS i UNK remember meeting him . EOS
+BOS 我 依 稀 記 得 見 過 他 。 EOS
+Translation: 我 記 得 他 想 見 到 他 。
+
+BOS these things are n't mine ! EOS
+BOS 这 些 东 西 不 是 我 的 ！ EOS
+Translation: 這 些 事 故 的 意 思 也 沒 有 ！
+
+BOS is there any salt left ? EOS
+BOS 还 有 多 余 的 盐 吗 ？ EOS
+Translation: 剩 下 點 醉 了 嗎 ？
+
+BOS i have nothing to say . EOS
+BOS 我 没 什 么 可 说 的 。 EOS
+Translation: 我 什 么 事 没 跟 。
+
+BOS i 'm able to swim . EOS
+BOS 我 會 游 泳 。 EOS
+Translation: 我 會 游 泳 。
+
+BOS when does the movie start ? EOS
+BOS 電 影 什 麼 時 候 開 始 ？ EOS
+Translation: 電 影 下 午 什 麼 時 候 出 發 ？
+
+BOS i ca n't believe it ! EOS
+BOS 我 没 法 相 信 ！ EOS
+Translation: 我 不 能 相 信 。
+
+BOS the lake is deep here . EOS
+BOS 这 个 湖 在 这 个 地 方 很 深 。 EOS
+Translation: 這 里 的 湖 邊 。
+
+BOS they are all innocent children . EOS
+BOS 他 们 都 是 天 真 的 孩 子 。 EOS
+Translation: 他 们 都 是 无 辜 的 孩 子 。
+
+BOS the traffic light turned green . EOS
+BOS 紅 綠 燈 變 成 綠 色 了 。 EOS
+Translation: 紅 綠 燈 。
+
+BOS the audience was deeply affected . EOS
+BOS 观 众 深 受 感 动 。 EOS
+Translation: 观 众 人 数 庞 大 。
+
+BOS she sang better than him . EOS
+BOS 她 唱 得 比 他 好 。 EOS
+Translation: 她 比 他 唱 歌 。
+
+BOS suddenly , i heard shouting . EOS
+BOS 突 然 ， 我 听 到 了 一 声 喊 叫 。 EOS
+Translation: 突 然 我 听 到 了 九 點 。
+
+BOS i ca n't stand him . EOS
+BOS 我 受 不 了 他 。 EOS
+Translation: 我 受 不 了 他 。
+
+BOS he could not breathe deeply . EOS
+BOS 他 無 法 深 呼 吸 。 EOS
+Translation: 他 好 嗎 ？
+
+BOS where does your uncle live ? EOS
+BOS 你 叔 叔 住 在 什 麼 地 方 ？ EOS
+Translation: 你 叔 叔 住 在 哪 裡 ？
+
+BOS i can drive a car . EOS
+BOS 我 会 开 车 。 EOS
+Translation: 我 會 開 車 。
+
+BOS please close the door quietly . EOS
+BOS 請 安 靜 地 關 門 。 EOS
+Translation: 請 關 上 門 。
+
+BOS she 's in the restroom . EOS
+BOS 她 在 上 廁 所 。 EOS
+Translation: 她 在 手 脚 下 。
+
+BOS the japanese have dark eyes . EOS
+BOS 日 本 人 有 黑 色 的 眼 睛 。 EOS
+Translation: 日 本 人 眼 睛 真 高 。
+
+BOS he slipped me a note . EOS
+BOS 他 悄 悄 地 递 给 我 一 张 纸 条 。 EOS
+Translation: 他 悄 悄 悄 给 了 我 。
+
+BOS i prefer tea to coffee . EOS
+BOS 我 喜 歡 茶 勝 過 咖 啡 。 EOS
+Translation: 我 喜 歡 茶 勝 過 咖 啡 。
+
+BOS may i see your passport ? EOS
+BOS 我 可 以 看 看 你 的 護 照 嗎 ？ EOS
+Translation: 我 可 以 看 看 你 的 护 照 片 嗎 ？
+
+BOS the entire world desires peace . EOS
+BOS 整 个 世 界 都 需 要 和 平 。 EOS
+Translation: 全 世 界 每 三 十 一 份 临 。
+
+BOS did spot go , too ? EOS
+BOS S UNK o t 也 去 了 嗎 ？ EOS
+Translation: 那 地 走 了 ， 好 了 嗎 ？
+
+BOS i always walk to school . EOS
+BOS 我 總 是 走 路 到 學 校 。 EOS
+Translation: 我 走 路 到 學 校 。
+
+BOS do you often travel abroad ? EOS
+BOS 你 经 常 出 国 吗 ？ EOS
+Translation: 你 经 常 去 国 外 旅 行 吗 ？
+
+BOS the UNK looked very beautiful . EOS
+BOS 新 娘 看 起 來 非 常 漂 亮 。 EOS
+Translation: 電 影 非 常 漂 亮 。
+
+BOS i need to take notes . EOS
+BOS 我 需 要 作 筆 記 。 EOS
+Translation: 我 需 要 笔 记 笔 。
+
+BOS what does your aunt do ? EOS
+BOS 你 姑 姑 是 做 什 麼 的 ？ EOS
+Translation: 你 姑 姑 姑 的 什 麼 ?
+
+BOS she made tea for me . EOS
+BOS 她 给 我 UNK 了 茶 。 EOS
+Translation: 她 给 我 泡 了 茶 。
+
+BOS he has a nice income . EOS
+BOS 他 收 入 可 观 。 EOS
+Translation: 他 有 一 分 不 同 的 收 入 。
+
+BOS tom asked me about you . EOS
+BOS 汤 姆 向 我 问 起 你 。 EOS
+Translation: 汤 姆 跟 我 说 话 了 。
+
+BOS he is taking a walk . EOS
+BOS 他 正 在 散 步 。 EOS
+Translation: 他 散 步 。
+
+BOS have you ever been robbed ? EOS
+BOS 你 被 抢 劫 过 吗 ？ EOS
+Translation: 你 被 外 過 了 嗎 ？
+
+BOS you should have seen it . EOS
+BOS 您 本 應 該 看 看 它 的 。 EOS
+Translation: 你 本 來 應 該 看 見 。
+
+BOS who told you the news ? EOS
+BOS 誰 告 訴 了 你 這 個 消 息 ？ EOS
+Translation: 誰 告 訴 了 這 個 消 息 ?
+
+BOS my mother was an UNK . EOS
+BOS 我 母 亲 是 个 酒 鬼 。 EOS
+Translation: 我 媽 媽 是 個 公 司 。
+
+BOS he 's running very quickly . EOS
+BOS 他 跑 得 非 常 快 。 EOS
+Translation: 他 很 快 就 行 了 。
+
+BOS his clothes always smell bad . EOS
+BOS 他 的 衣 服 總 是 很 臭 。 EOS
+Translation: 他 的 动 物 总 是 很 坏 。
+
+BOS i have n't decided yet . EOS
+BOS 我 還 沒 決 定 。 EOS
+Translation: 還 沒 有 。
+
+BOS do n't forget your money . EOS
+BOS 不 要 忘 记 你 的 钱 。 EOS
+Translation: 不 要 忘 记 好 你 的 钱 。
+
+BOS i ca n't do it . EOS
+BOS 我 無 法 做 到 這 一 點 。 EOS
+Translation: 我 做 不 太 好 了 。
+
+BOS i helped my father yesterday . EOS
+BOS 昨 天 我 帮 了 我 爸 爸 。 EOS
+Translation: 昨 天 我 帮 我 爸 爸 。
+
+BOS what were the meetings like ? EOS
+BOS 会 议 怎 么 样 ？ EOS
+Translation: 你 们 的 行 李 多 来 ？
+
+BOS he does not like us . EOS
+BOS 他 不 喜 欢 我 们 。 EOS
+Translation: 他 不 喜 歡 我 們 。
+
+BOS i 'm a little confused . EOS
+BOS 我 有 一 点 困 惑 了 。 EOS
+Translation: 我 困 了 一 些 困 。
+
+BOS please bring me my bill . EOS
+BOS 請 把 帳 單 給 我 。 EOS
+Translation: 請 把 我 手 給 我 。
+
+BOS that 's a good idea . EOS
+BOS 那 是 一 個 好 主 意 。 EOS
+Translation: 那 是 一 個 很 好 主 意 。
+
+BOS pride goes before a fall . EOS
+BOS 骄 傲 是 失 败 的 先 行 者 。 EOS
+Translation: 骄 傲 使 人 落 后 。
+
+BOS i am in tokyo today . EOS
+BOS 我 今 天 在 東 京 。 EOS
+Translation: 我 在 在 七 點 鐘 。
+
+BOS i know i heard something . EOS
+BOS 我 知 道 我 听 见 了 什 么 。 EOS
+Translation: 我 知 道 我 有 消 息 。
+
+BOS no news is good news . EOS
+BOS 没 消 息 就 是 好 消 息 。 EOS
+Translation: 没 有 好 消 息 。
+
+BOS my hobby is collecting stamps . EOS
+BOS 我 的 嗜 好 是 集 郵 。 EOS
+Translation: 我 的 嗜 好 是 集 郵 。
+
+BOS he is a famous UNK . EOS
+BOS 他 是 一 位 著 名 的 作 曲 家 。 EOS
+Translation: 他 是 一 位 著 名 的 使 他 。
+
+BOS we often hear you sing . EOS
+BOS 我 们 经 常 听 到 你 唱 歌 。 EOS
+Translation: 我 们 常 听 见 你 唱 歌 了 。
+
+BOS she is a UNK singer . EOS
+BOS 她 是 一 个 著 名 的 歌 手 。 EOS
+Translation: 她 是 歌 手 。
+
+BOS you must pay in advance . EOS
+BOS 您 必 须 预 先 付 钱 。 EOS
+Translation: 你 必 須 先 完 成 。
+
+BOS you have to have confidence . EOS
+BOS 你 必 须 得 自 信 。 EOS
+Translation: 你 有 信 用 信 用 。
+
+BOS where do you watch television ? EOS
+BOS 您 在 哪 儿 看 电 视 ？ EOS
+Translation: 你 在 哪 儿 看 报 价 ？
+
+BOS your time is running out . EOS
+BOS 你 的 时 间 快 用 完 了 。 EOS
+Translation: 你 的 時 間 出 去 了 。
+
+BOS he drinks too much beer . EOS
+BOS 他 喝 太 多 啤 酒 。 EOS
+Translation: 他 喝 酒 醉 了 太 多 啤 酒 。
+
+BOS what time does it start ? EOS
+BOS 什 么 时 候 开 始 ？ EOS
+Translation: 什 么 时 候 开 始 ？
+
+BOS he is fond of adventure . EOS
+BOS 他 喜 欢 冒 险 。 EOS
+Translation: 他 喜 歡 力 第 一 遊 的 法 國 。
+
+BOS sometimes i still miss her . EOS
+BOS 有 時 候 ， 我 還 是 會 想 起 她 。 EOS
+Translation: 有 時 候 ， 我 還 是 她 會 想 念 著 她 。
+
+BOS yes , i know it . EOS
+BOS 是 的 ， 我 知 道 。 EOS
+Translation: 是 的 ， 我 知 道 。
+
+BOS will you wait a moment ? EOS
+BOS 麻 煩 您 稍 待 一 下 。 EOS
+Translation: 你 能 等 吗 ？
+
+BOS this coat fits you perfectly . EOS
+BOS 這 件 大 衣 十 分 適 合 你 。 EOS
+Translation: 这 外 套 你 最 近 丢 一 切 。
+
+BOS he likes to read newspapers . EOS
+BOS 他 喜 欢 看 报 纸 。 EOS
+Translation: 他 喜 歡 阅 報 紙 。
+
+BOS he arrived in tokyo yesterday . EOS
+BOS 他 昨 天 抵 達 東 京 。 EOS
+Translation: 他 昨 天 到 達 了 东 京 。
+
+BOS you sound like a politician . EOS
+BOS 你 说 话 像 个 当 官 的 。 EOS
+Translation: 你 想 要 什 麼 地 區 。
+
+BOS i remember writing to her . EOS
+BOS 我 记 得 给 她 写 过 信 。 EOS
+Translation: 我 记 得 我 之 前 曾 经 接 受 她 。
+
+BOS i 'll have another beer . EOS
+BOS 我 会 再 喝 一 杯 啤 酒 。 EOS
+Translation: 我 要 再 喝 爱 啤 酒 。
+
+BOS this is tom 's umbrella . EOS
+BOS 這 是 湯 姆 的 雨 傘 。 EOS
+Translation: 這 是 汤 姆 的 傘 。
+
+BOS she wore a white dress . EOS
+BOS 她 穿 了 一 件 白 色 的 洋 裝 。 EOS
+Translation: 她 穿 了 一 件 蓝 色 的 衣 服 。
+
+BOS UNK do n't use drugs . EOS
+BOS 優 勝 者 不 使 用 藥 物 。 EOS
+Translation: 對 毒 品 逃 不 去 玩 游 。
+
+BOS we all hope for peace . EOS
+BOS 我 們 都 希 望 和 平 。 EOS
+Translation: 我 们 所 有 和 平 的 。
+
+BOS i have a sore throat . EOS
+BOS 我 喉 嚨 痛 。 EOS
+Translation: 我 有 很 難 。
+
+BOS he UNK resembles his father . EOS
+BOS 他 有 点 像 他 的 父 亲 。 EOS
+Translation: 他 面 向 他 父 親 都 像 他 的 。
+
+BOS we made UNK for breakfast . EOS
+BOS 我 们 早 餐 做 了 UNK 饼 。 EOS
+Translation: 我 们 早 饭 后 做 了 早 餐 。
+
+BOS she has been to paris . EOS
+BOS 她 去 过 巴 黎 。 EOS
+Translation: 她 已 经 巴 黎 巴 黎 。
+
+BOS i went shopping last saturday . EOS
+BOS 上 週 六 我 去 購 物 。 EOS
+Translation: 我 上 個 星 期 六 去 購 物 。
+
+BOS she 's older than tom . EOS
+BOS 她 年 紀 比 湯 姆 大 。 EOS
+Translation: 她 比 湯 姆 大 。
+
+BOS UNK have already been made . EOS
+BOS 已 经 安 排 好 了 。 EOS
+Translation: 已 经 取 得 巨 大 来 了 。
+
+BOS you are free to go . EOS
+BOS 你 可 以 走 了 。 EOS
+Translation: 你 可 以 去 。
+
+BOS come and dance with me . EOS
+BOS 过 来 和 我 跳 舞 啊 ! EOS
+Translation: 来 跳 舞 和 我 跳 难 。
+
+BOS i do n't like eggs . EOS
+BOS 我 不 喜 欢 鸡 蛋 。 EOS
+Translation: 我 不 喜 欢 吃 鸡 蛋 。
+
+BOS he brought us sad news . EOS
+BOS 他 给 我 们 带 来 了 令 人 难 过 的 消 息 。 EOS
+Translation: 他 使 我 們 面 帶 到 了 河 裡 。
+
+BOS the child will be six . EOS
+BOS 那 孩 子 要 六 歲 了 。 EOS
+Translation: 小 孩 会 在 六 点 起 床 。
+
+BOS do you believe ghosts exist ? EOS
+BOS 你 相 信 鬼 存 在 吗 ？ EOS
+Translation: 你 相 信 存 在 吗 ？
+
+BOS i 'll get some help . EOS
+BOS 我 会 需 要 帮 助 。 EOS
+Translation: 我 将 来 一 些 帮 助 。
+
+BOS who solved the hard problem ? EOS
+BOS 誰 解 決 了 這 個 難 題 ？ EOS
+Translation: 谁 努 力 地 解 释 清 楚 的 ？
+
+BOS he is fluent in chinese . EOS
+BOS 他 能 說 流 利 的 中 文 。 EOS
+Translation: 他 说 得 留 在 中 文 。
+
+BOS i 'll remember you forever . EOS
+BOS 我 會 永 遠 記 住 你 的 。 EOS
+Translation: 我 会 说 永 远 的 。
+
+BOS man can not live forever . EOS
+BOS 人 无 法 长 生 不 死 。 EOS
+Translation: 人 无 法 长 生 不 可 以 生 。
+
+BOS i got up at seven . EOS
+BOS 我 7 点 起 床 了 。 EOS
+Translation: 我 在 七 點 鐘 到 床 上 。
+
+BOS how long does it take ? EOS
+BOS 要 花 多 久 時 間 ？ EOS
+Translation: 要 多 久 ？
+
+BOS everyone except tom ate pizza . EOS
+BOS 所 有 人 除 了 汤 姆 都 吃 了 比 萨 。 EOS
+Translation: 除 了 汤 姆 尝 验 论 了 个 程 。
+
+BOS do you have a car ? EOS
+BOS 您 有 车 吗 ？ EOS
+Translation: 你 有 车 吗 ？
+
+BOS what UNK do you have ? EOS
+BOS 你 有 什 麼 症 狀 ？ EOS
+Translation: 您 有 什 么 ？
+
+BOS i think exams UNK education . EOS
+BOS 我 认 为 考 试 破 坏 教 育 。 EOS
+Translation: 我 认 为 辨 别 教 堂 国 课 。
+
+BOS how high can you jump ? EOS
+BOS 你 能 跳 多 高 ？ EOS
+Translation: 您 能 跳 多 高 ？
+
+BOS tom made fun of me . EOS
+BOS 汤 姆 拿 我 开 心 。 EOS
+Translation: 汤 姆 取 笑 了 我 。
+
+BOS they 're UNK a hole . EOS
+BOS 他 們 正 在 挖 一 個 洞 。 EOS
+Translation: 他 們 是 個 一 個 洞 。
+
+BOS well , let 's go . EOS
+BOS 好 吧 ， 我 們 走 吧 。 EOS
+Translation: 那 你 走 吧 ， 我 們 很 好 。
+
+BOS nowadays nobody believes in ghosts . EOS
+BOS 現 在 沒 有 人 相 信 有 鬼 。 EOS
+Translation: 現 在 沒 有 相 機 存 在 。
+
+BOS she finished reading the letter . EOS
+BOS 她 看 完 信 了 。 EOS
+Translation: 她 读 了 信 。
+
+BOS it is an endangered species . EOS
+BOS 这 是 一 个 濒 临 灭 绝 的 物 种 。 EOS
+Translation: 这 是 一 个 濒 临 消 失 的 物 种 。
+
+BOS i am leaving at four . EOS
+BOS 我 四 點 要 離 開 。 EOS
+Translation: 我 走 快 下 5 。
+
+BOS she has a little bread . EOS
+BOS 她 有 点 儿 面 包 。 EOS
+Translation: 她 有 点 麵 包 。
+
+BOS you 're UNK than mary . EOS
+BOS 你 比 玛 丽 可 爱 。 EOS
+Translation: 你 比 瑪 麗 還 比 瑪 麗 。
+
+BOS who are you looking at ? EOS
+BOS 你 在 看 谁 ？ EOS
+Translation: 你 在 看 什 麼 ？
+
+BOS you make life worth living . EOS
+BOS 你 讓 生 命 值 得 活 下 去 。 EOS
+Translation: 你 生 活 是 值 得 生 的 。
+
+BOS nobody is too old to learn . EOS
+BOS 沒 有 人 會 因 為 太 老 而 不 能 學 習 。 EOS
+Translation: 活 到 老 學 到 老 學 校 學 到 老 。
+
+BOS what 's the UNK for tomorrow ? EOS
+BOS 明 天 的 天 气 预 报 怎 么 说 ？ EOS
+Translation: 明 天 为 什 么 我 明 天 ？
+
+BOS i told tom i was ok . EOS
+BOS 我 对 汤 姆 说 我 很 好 。 EOS
+Translation: 我 告 诉 汤 姆 的 事 很 好 。
+
+BOS were you in america last month ? EOS
+BOS 你 上 個 月 在 美 國 嗎 ? EOS
+Translation: 你 上 個 月 在 欧 洲 吗 ？
+
+BOS we enjoyed ourselves at the party . EOS
+BOS 我 們 在 派 對 上 玩 得 很 開 心 。 EOS
+Translation: 我 們 在 聚 會 上 玩 的 玩 笑 了 。
+
+BOS the building is seven stories high . EOS
+BOS 這 棟 建 築 物 有 七 層 樓 高 。 EOS
+Translation: 該 建 筑 松 中 有 七 名 響 。
+
+BOS where 's the nearest train station ? EOS
+BOS 最 近 的 火 车 站 在 哪 里 ？ EOS
+Translation: 最 近 的 火 车 站 在 哪 里 ？
+
+BOS how about going out for lunch ? EOS
+BOS 出 去 吃 午 飯 怎 樣 ？ EOS
+Translation: 我 们 出 去 吃 饭 如 何 ？
+
+BOS has she finished the book yet ? EOS
+BOS 她 讀 完 這 本 書 了 嗎 ？ EOS
+Translation: 她 已 經 讀 完 了 這 本 書 ？
+
+BOS i 'm still angry about that . EOS
+BOS 我 还 是 为 那 生 气 。 EOS
+Translation: 我 还 饿 算 呢 。
+
+BOS i want him to read this . EOS
+BOS 想 让 他 读 这 个 。 EOS
+Translation: 我 要 他 讀 這 一 讀 。
+
+BOS tom knew how to do that . EOS
+BOS 汤 姆 知 道 怎 么 做 那 事 。 EOS
+Translation: 汤 姆 知 道 怎 么 做 。
+
+BOS please drive the car more slowly . EOS
+BOS 請 開 車 開 慢 一 點 。 EOS
+Translation: 請 車 載 得 多 麼 樣 遠 。
+
+BOS please feed the dog every day . EOS
+BOS 请 每 天 喂 一 下 狗 。 EOS
+Translation: 请 向 狗 游 明 白 。
+
+BOS he lived abroad for many years . EOS
+BOS 他 居 住 在 國 外 多 年 。 EOS
+Translation: 他 住 在 國 外 很 多 年 了 。
+
+BOS another bottle of wine , please . EOS
+BOS 麻 煩 再 一 瓶 葡 萄 酒 。 EOS
+Translation: 麻 煩 再 來 一 杯 酒 。
+
+BOS i have finished cleaning my room . EOS
+BOS 我 已 經 打 掃 完 我 的 房 間 了 。 EOS
+Translation: 我 要 回 房 间 。
+
+BOS do n't let him bite you . EOS
+BOS 別 讓 他 咬 你 。 EOS
+Translation: 别 让 他 进 来 。
+
+BOS feel free to ask any questions . EOS
+BOS 隨 時 問 任 何 問 題 都 可 以 。 EOS
+Translation: 歡 迎 隨 時 提 問 。
+
+BOS she did n't like her husband . EOS
+BOS 她 不 喜 歡 她 的 丈 夫 。 EOS
+Translation: 她 没 有 喜 欢 她 的 丈 夫 。
+
+BOS he belongs to the camera club . EOS
+BOS 他 參 加 攝 影 社 。 EOS
+Translation: 他 喜 歡 這 個 俱 機 。
+
+BOS he works from nine to UNK . EOS
+BOS 他 從 早 上 九 點 工 作 到 下 午 五 點 半 。 EOS
+Translation: 他 慢 一 點 鐘 工 作 。
+
+BOS i 'm a big football fan . EOS
+BOS 我 是 足 球 的 忠 实 粉 丝 。 EOS
+Translation: 我 是 一 個 大 險 的 大 門 的 。
+
+BOS when did you begin studying english ? EOS
+BOS 您 什 么 时 候 开 始 学 英 语 的 ？ EOS
+Translation: 你 什 麼 時 候 開 始 学 英 文 ?
+
+BOS that architect UNK very modern houses . EOS
+BOS 那 个 建 筑 师 创 建 了 非 常 现 代 的 房 屋 。 EOS
+Translation: 那 栋 楼 里 的 建 筑 师 很 可 。
+
+BOS could you do me a favor ? EOS
+BOS 請 你 幫 我 一 個 忙 好 嗎 ？ EOS
+Translation: 你 能 幫 我 一 個 忙 嗎 ？
+
+BOS school starts in september in europe . EOS
+BOS 歐 洲 的 學 校 在 九 月 開 學 。 EOS
+Translation: 學 校 在 欧 洲 的 过 扰 會 兒 学 习 。
+
+BOS my UNK is still a baby . EOS
+BOS 我 的 UNK 子 還 是 個 嬰 兒 。 EOS
+Translation: 我 的 宝 还 是 个 孩 子 。
+
+BOS he had his hair cut short . EOS
+BOS 他 把 头 发 剪 短 了 。 EOS
+Translation: 他 刮 起 了 頭 髮 。
+
+BOS i 'll see you next wednesday . EOS
+BOS 我 下 星 期 三 见 你 。 EOS
+Translation: 周 三 我 會 見 到 你 。
+
+BOS he UNK me like his slave . EOS
+BOS 他 對 待 我 就 像 他 的 奴 隸 。 EOS
+Translation: 他 和 我 很 喜 歡 的 愛 。
+
+BOS you may choose any of them . EOS
+BOS 你 可 以 選 擇 他 們 之 中 的 任 何 一 個 。 EOS
+Translation: 你 可 以 選 擇 任 何 他 们 的 。
+
+BOS may i put it down here ? EOS
+BOS 我 可 以 把 它 放 在 这 儿 吗 ？ EOS
+Translation: 我 可 以 把 它 放 在 这 儿 吗 ？
+
+BOS my father died four years ago . EOS
+BOS 我 的 父 親 四 年 前 去 世 了 。 EOS
+Translation: 我 父 親 年 前 四 5 年 了 。
+
+BOS i recognized your voice right away . EOS
+BOS 我 立 刻 認 出 了 你 的 聲 音 。 EOS
+Translation: 我 同 意 了 。
+
+BOS the school needed a new teacher . EOS
+BOS 學 校 需 要 一 個 新 的 老 師 。 EOS
+Translation: 学 校 的 是 一 个 非 常 有 才 。
+
+BOS can you do that by yourself ? EOS
+BOS 你 自 己 一 個 人 能 做 嗎 ？ EOS
+Translation: 你 可 以 自 己 做 那 樣 子 嗎 ?
+
+BOS i 'm really scared of spiders . EOS
+BOS 我 真 怕 蜘 蛛 。 EOS
+Translation: 我 真 的 太 害 怕 了 。
+
+BOS i know that she is spanish . EOS
+BOS 我 知 道 她 是 西 班 牙 人 。 EOS
+Translation: 我 知 道 她 在 白 什 么 ， 她 精 神 作 。
+
+BOS you have already eaten the cake . EOS
+BOS 你 已 经 把 蛋 糕 吃 了 。 EOS
+Translation: 你 已 经 吃 过 蛋 糕 了 。
+
+BOS a stitch in time saves nine . EOS
+BOS 小 洞 及 時 補 ， 免 遭 大 洞 苦 。 EOS
+Translation: 防 微 杜 漸 。
+
+BOS i want to buy this dictionary . EOS
+BOS 我 想 買 這 本 字 典 。 EOS
+Translation: 我 想 買 這 本 字 典 。
+
+BOS tom was unsatisfied with the UNK . EOS
+BOS 汤 姆 对 结 果 不 满 。 EOS
+Translation: 汤 姆 满 意 。
+
+BOS he died soon after the accident . EOS
+BOS 他 在 事 故 後 不 久 就 去 世 了 。 EOS
+Translation: 他 次 往 事 故 发 生 已 經 下 了 。
+
+BOS would you please open the door ? EOS
+BOS 請 你 開 門 好 嗎 ? EOS
+Translation: 請 你 打 開 門 嗎 ？
+
+BOS this meal is UNK for three . EOS
+BOS 这 饭 足 够 三 个 人 吃 。 EOS
+Translation: 這 頓 飯 後 ， 三 點 鐘 吃 三 。
+
+BOS do n't underestimate your own strength . EOS
+BOS 不 要 低 估 自 己 的 实 力 。 EOS
+Translation: 别 辞 掉 你 的 第 酒 具 。
+
+BOS tom denied having stolen the money . EOS
+BOS T o m 否 认 偷 了 钱 。 EOS
+Translation: T o m 否 認 偷 了 錢 。
+
+BOS she knows your mother very well . EOS
+BOS 她 對 你 的 母 親 很 熟 悉 。 EOS
+Translation: 她 非 常 知 道 你 的 母 親 。
+
+BOS she made jam from the apples . EOS
+BOS 她 用 蘋 果 做 了 果 醬 。 EOS
+Translation: 她 交 報 告 進 了 蘋 果 。
+
+BOS he is capable of teaching spanish . EOS
+BOS 他 有 能 力 教 授 西 班 牙 文 。 EOS
+Translation: 他 一 般 而 称 没 有 化 学 。
+
+BOS will you take a personal check ? EOS
+BOS 你 收 私 人 支 票 嗎 ? EOS
+Translation: 你 可 以 隨 時 用 電 話 ?
+
+BOS you swim better than i do . EOS
+BOS 你 游 泳 游 得 比 我 好 。 EOS
+Translation: 你 游 泳 游 得 比 我 好 。
+
+BOS he drank three bottles of beer . EOS
+BOS 他 喝 了 三 瓶 啤 酒 。 EOS
+Translation: 他 喝 两 瓶 大 啤 酒 。
+
+BOS please fill this bottle with water . EOS
+BOS 請 把 這 個 瓶 子 裝 滿 水 。 EOS
+Translation: 請 用 這 個 瓶 子 寫 。
+
+BOS have you finished reading the book ? EOS
+BOS 你 讀 完 這 本 書 了 嗎 ？ EOS
+Translation: 你 读 完 这 本 书 了 吗 ？
+
+BOS he painted the door over white . EOS
+BOS 他 把 門 漆 成 了 白 色 。 EOS
+Translation: 他 把 门 刷 成 了 白 蓝 色 的 。
+
+BOS the boat passed under the bridge . EOS
+BOS 船 從 橋 下 通 過 。 EOS
+Translation: 船 迷 人 去 了 原 因 。
+
+BOS i was mistaken for a salesman . EOS
+BOS 我 被 誤 認 為 是 推 銷 員 。 EOS
+Translation: 我 搞 丟 了 車 。
+
+BOS he was accused of stealing money . EOS
+BOS 他 被 指 控 偷 錢 。 EOS
+Translation: 他 被 指 责 任 的 交 流 。
+
+BOS only one person survived the accident . EOS
+BOS 只 有 一 人 倖 免 於 難 。 EOS
+Translation: 只 有 一 個 生 獨 身 上 。
+
+BOS i have a bath every day . EOS
+BOS 我 每 天 洗 一 次 澡 。 EOS
+Translation: 我 每 天 洗 一 次 澡 。
+
+BOS tom does n't care about money . EOS
+BOS 汤 姆 不 关 心 钱 。 EOS
+Translation: 汤 姆 不 关 心 。
+
+BOS where are you going on vacation ? EOS
+BOS 你 要 去 哪 裡 度 假 ? EOS
+Translation: 你 去 哪 裡 度 假 ？
+
+BOS we took turns with the driving . EOS
+BOS 我 們 輪 流 駕 駛 。 EOS
+Translation: 我 們 用 車 輪 流 開 車 。
+
+BOS children need a lot of sleep . EOS
+BOS 孩 子 們 需 要 大 量 的 睡 眠 。 EOS
+Translation: 孩 子 们 需 要 很 多 。
+
+BOS we soon caught up with them . EOS
+BOS 我 們 很 快 就 追 上 了 他 們 。 EOS
+Translation: 我 们 很 快 就 趕 上 了 他 們 。
+
+BOS i had some calls to make . EOS
+BOS 我 要 打 几 个 电 话 。 EOS
+Translation: 我 得 些 好 一 些 假 。
+
+BOS you look as healthy as ever . EOS
+BOS 你 看 起 来 和 以 前 一 样 健 康 。 EOS
+Translation: 你 看 起 來 健 康 如 昔 。
+
+BOS the boy had a red face . EOS
+BOS 這 個 男 孩 有 一 張 紅 UNK 的 臉 。 EOS
+Translation: 這 個 男 孩 子 有 一 座 红 脸 。
+
+BOS i intend to become a lawyer . EOS
+BOS 我 有 志 成 为 一 名 律 师 。 EOS
+Translation: 我 想 要 成 為 一 名 教 師 。
+
+BOS did you actually see the accident ? EOS
+BOS 你 真 的 看 到 了 這 起 事 故 嗎 ？ EOS
+Translation: 你 看 到 過 那 個 意 外 不 是 吗 ？
+
+BOS i asked him about the accident . EOS
+BOS 我 問 他 關 於 這 個 意 外 的 事 。 EOS
+Translation: 我 問 了 他 關 於 這 個 事 故 的 事 故 。
+
+BOS what did you open it with ? EOS
+BOS 你 用 什 么 打 开 的 ？ EOS
+Translation: 你 把 它 放 了 什 麼 ?
+
+BOS the child 's body felt UNK . EOS
+BOS 這 個 小 孩 身 體 很 UNK 。 EOS
+Translation: 这 孩 子 们 有 坚 持 联 系 。
+
+BOS you should UNK for the worst . EOS
+BOS 你 应 该 作 最 坏 的 准 备 。 EOS
+Translation: 你 本 應 該 得 做 這 個 最 壞 的 。
+
+BOS can you give me some money ? EOS
+BOS 你 能 給 我 一 些 錢 嗎 ？ EOS
+Translation: 你 能 给 我 点 钱 吗 ？
+
+BOS the bill UNK to 100 dollars . EOS
+BOS UNK 单 金 额 高 达 1 0 0 美 元 。 EOS
+Translation: 這 本 法 付 費 5 0 美 元 。
+
+BOS take off your socks , please . EOS
+BOS 請 脫 下 你 的 襪 子 。 EOS
+Translation: 請 你 把 你 的 手 弄 壞 。
+
+BOS where will you have lunch today ? EOS
+BOS 你 今 天 將 在 哪 裡 吃 午 餐 ? EOS
+Translation: 你 今 天 午 饭 什 么 时 候 ？
+
+BOS he 's leaving for china tomorrow . EOS
+BOS 他 明 天 出 发 去 中 国 。 EOS
+Translation: 他 明 天 有 離 數 學 。
+
+BOS he painted a picture of roses . EOS
+BOS 他 畫 了 一 幅 玫 瑰 的 畫 。 EOS
+Translation: 他 畫 裝 了 一 幅 任 何 玫 瑰 。
+
+BOS would you like anything to drink ? EOS
+BOS 你 要 喝 點 什 麼 嗎 ? EOS
+Translation: 你 想 要 什 麼 喝 點 嗎 ？
+
+BOS we ate curry rice last night . EOS
+BOS 我 們 昨 晚 吃 了 咖 哩 飯 。 EOS
+Translation: 我 们 晚 饭 在 咖 啡 。
+
+BOS it seems that he 's happy . EOS
+BOS 看 來 ， 他 很 快 樂 。 EOS
+Translation: 他 好 像 他 是 高 興 。
+
+BOS i 'm glad you came over . EOS
+BOS 我 很 高 兴 你 回 来 了 。 EOS
+Translation: 我 很 高 兴 你 来 了 。
+
+BOS wear whatever you want to wear . EOS
+BOS 穿 你 想 穿 的 。 EOS
+Translation: 你 想 穿 任 何 你 想 穿 的 衣 服 。
+
+BOS i want something sweet to eat . EOS
+BOS 我 想 要 吃 甜 的 東 西 。 EOS
+Translation: 我 要 吃 點 甜 的 東 西 。
+
+BOS did you visit the tokyo tower ? EOS
+BOS 您 参 观 过 东 京 塔 吗 ？ EOS
+Translation: 你 參 觀 東 京 , 旅 費 了 嗎 ?
+
+BOS he 's not breaking the law . EOS
+BOS 他 没 违 法 。 EOS
+Translation: 他 不 砸 管 這 個 購 物 。
+
+BOS i may have made a mistake . EOS
+BOS 我 可 能 搞 错 了 。 EOS
+Translation: 我 可 能 犯 了 一 個 错 。
+
+BOS fluency in english is a must . EOS
+BOS 流 利 的 英 語 是 必 須 的 。 EOS
+Translation: 流 利 的 英 語 一 直 是 一 定 。
+
+BOS does she work in this city ? EOS
+BOS 她 在 这 个 城 市 工 作 吗 ？ EOS
+Translation: 她 在 這 個 市 工 作 嗎 ?
+
+BOS the rich sometimes despise the poor . EOS
+BOS 富 人 有 时 会 看 不 起 穷 人 。 EOS
+Translation: 有 時 光 魚 都 可 樂 。
+
+BOS he sent the letter back UNK . EOS
+BOS 他 把 那 封 信 原 封 不 動 寄 回 去 了 。 EOS
+Translation: 他 送 了 一 封 信 。
+
+BOS i will be free tomorrow afternoon . EOS
+BOS 我 明 天 下 午 有 空 。 EOS
+Translation: 我 明 天 下 午 有 空 。
+
+BOS tomorrow i have to go shopping . EOS
+BOS 明 天 我 得 购 物 。 EOS
+Translation: 我 明 天 要 去 购 物 。
+
+BOS i was disappointed with his speech . EOS
+BOS 我 對 他 的 演 說 感 到 失 望 。 EOS
+Translation: 我 对 他 的 演 讲 很 失 敗 。
+
+BOS that shop sells newspapers and magazines . EOS
+BOS 那 家 店 卖 报 纸 和 杂 志 。 EOS
+Translation: 那 家 店 卖 报 纸 和 杂 志 。
+
+BOS i am sorry to trouble you . EOS
+BOS 我 很 抱 歉 打 擾 你 了 。 EOS
+Translation: 我 很 抱 歉 給 你 添 麻 煩 了 。
+
+BOS i admit that he is right . EOS
+BOS 我 承 认 他 是 对 的 。 EOS
+Translation: 我 承 認 他 是 對 的 。
+
+BOS what 's the weather like today ? EOS
+BOS 今 天 天 气 怎 么 样 ？ EOS
+Translation: 今 天 天 天 气 怎 么 样 ？
+
+BOS i could n't understand his ideas . EOS
+BOS 我 無 法 理 解 他 的 想 法 。 EOS
+Translation: 我 不 知 道 他 的 想 法 。
+
+BOS i 'd like a hotel reservation . EOS
+BOS 我 想 要 订 房 。 EOS
+Translation: 我 要 預 約 。
+
+BOS i paid $ UNK in taxes . EOS
+BOS 我 付 了 兩 百 元 含 稅 。 EOS
+Translation: 我 付 了 高 興 趣 。
+
+BOS she managed to keep up appearances . EOS
+BOS 她 設 法 保 住 面 子 。 EOS
+Translation: 她 长 得 出 来 被 外 貌 。
+
+BOS the mouse ran into the hole . EOS
+BOS 這 隻 老 鼠 跑 進 洞 裡 。 EOS
+Translation: 經 搭 飛 機 進 行 。
+
+BOS he is married with two children . EOS
+BOS 他 已 婚 並 育 有 兩 個 孩 子 。 EOS
+Translation: 他 和 她 的 孩 子 们 结 婚 了 。
+
+BOS english is taught in most countries . EOS
+BOS 英 語 在 大 部 份 的 國 家 被 教 授 。 EOS
+Translation: 大 部 份 的 國 家 都 教 英 語 。
+
+BOS how much is the bus fare ? EOS
+BOS 公 車 票 價 多 少 錢 ？ EOS
+Translation: 這 輛 公 車 多 少 錢 ？
+
+BOS UNK UNK was an excellent singer . EOS
+BOS 山 米 戴 維 斯 是 一 個 優 秀 的 歌 手 。 EOS
+Translation: 他 是 個 很 棒 的 歌 手 。
+
+BOS she left early in the morning . EOS
+BOS 她 清 晨 離 開 了 。 EOS
+Translation: 她 早 上 很 早 走 了 。
+
+BOS stop , or i 'll shoot . EOS
+BOS 停 止 ， 不 然 我 就 開 槍 了 。 EOS
+Translation: 停 止 射 了 ， 我 就 開 玩 笑 。
+
+BOS he 's good at flying kites . EOS
+BOS 他 擅 長 放 風 箏 。 EOS
+Translation: 他 放 風 箏 。
+
+BOS i smell smoke in the elevator . EOS
+BOS 我 在 电 梯 里 面 闻 到 烟 味 。 EOS
+Translation: 我 闻 到 了 酒 精 彩 的 味 。
+
+BOS i did n't get your name . EOS
+BOS 我 沒 聽 清 楚 你 的 名 字 。 EOS
+Translation: 我 沒 聽 到 你 們 叫 什 麼 。
+
+BOS my son is brushing his teeth . EOS
+BOS 我 儿 子 在 刷 牙 。 EOS
+Translation: 我 兒 子 正 在 刷 牙 。
+
+BOS they do n't have to know . EOS
+BOS 他 們 不 需 要 知 道 。 EOS
+Translation: 他 们 不 得 知 道 。
+
+BOS we got together in the park . EOS
+BOS 我 們 在 公 園 裡 聚 在 一 起 。 EOS
+Translation: 我 們 在 公 園 裡 得 到 了 一 邊 。
+
+BOS do you have a facebook account ? EOS
+BOS 你 有 F a c e b o o k 帳 號 嗎 ？ EOS
+Translation: 你 的 F a c e b o o k 上 有 一 份 用 F a c e b o k 。
+
+BOS will you lend me your dictionary ? EOS
+BOS 把 你 的 字 典 借 給 我 好 嗎 ？ EOS
+Translation: 你 会 把 你 的 字 典 借 给 好 吗 ？
+
+BOS the huge explosion killed six people . EOS
+BOS 大 爆 炸 致 死 六 人 。 EOS
+Translation: 军 队 长 且 養 了 。
+
+BOS could you show me that UNK ? EOS
+BOS 你 能 給 我 看 看 這 條 領 帶 嗎 ？ EOS
+Translation: 你 能 看 到 我 那 樣 的 ？
+
+BOS this school was founded in 1650 . EOS
+BOS 这 所 学 校 建 于 1 6 5 0 年 。 EOS
+Translation: 这 所 学 校 建 造 了 这 所 学 校 。
+
+BOS english is not difficult to learn . EOS
+BOS 英 語 並 不 難 學 。 EOS
+Translation: 英 語 不 難 學 習 。
+
+BOS that UNK cost him his reputation . EOS
+BOS 丑 闻 让 他 付 出 了 失 去 声 誉 的 代 价 。 EOS
+Translation: 那 件 事 。
+
+BOS i am taking tomorrow afternoon off . EOS
+BOS 我 明 天 下 午 休 假 。 EOS
+Translation: 我 明 天 要 休 息 。
+
+BOS i want to eat pizza tonight . EOS
+BOS 我 今 晚 想 吃 些 批 萨 。 EOS
+Translation: 我 今 晚 想 吃 比 薩 。
+
+BOS he congratulated me on my success . EOS
+BOS 他 為 我 的 成 功 恭 賀 我 。 EOS
+Translation: 他 祝 我 同 學 好 的 使 我 。
+
+BOS i 'm going to miss that . EOS
+BOS 我 要 失 去 它 了 。 EOS
+Translation: 我 要 想 念 那 個 。
+
+BOS what language is spoken in america ? EOS
+BOS 在 美 國 的 人 說 什 麼 語 言 ? EOS
+Translation: 美 国 人 们 说 哪 些 语 言 ？
+
+BOS he works from monday to friday . EOS
+BOS 他 周 一 到 周 五 上 班 。 。 EOS
+Translation: 他 星 期 一 总 飛 行 星 期 五 。
+
+BOS we furnished the refugees with UNK . EOS
+BOS 我 們 提 供 了 難 民 們 毛 毯 。 EOS
+Translation: 我 们 难 以 置 了 难 。
+
+BOS i do n't understand this sentence . EOS
+BOS 我 不 明 白 這 句 話 。 EOS
+Translation: 我 不 懂 这 个 句 子 。
+
+BOS she bought two pairs of socks . EOS
+BOS 她 買 了 兩 雙 襪 子 。 EOS
+Translation: 她 买 了 两 条 裤 子 。
+
+BOS why were you late this morning ? EOS
+BOS 今 天 早 上 你 為 什 麼 遲 到 了 呢 ? EOS
+Translation: 你 今 天 早 上 很 晚 到 ？
+
+BOS shut all the doors and windows . EOS
+BOS 關 閉 所 有 的 門 和 窗 戶 。 EOS
+Translation: 所 有 外 星 ， 放 輕 鬆 愉 快 。
+
+BOS he has more than five dictionaries . EOS
+BOS 他 有 五 本 以 上 的 字 典 。 EOS
+Translation: 他 比 馬 长 得 比 英 文 。
+
+BOS i doubt if tom is single . EOS
+BOS 我 怀 疑 汤 姆 是 单 身 。 EOS
+Translation: 我 怀 疑 汤 姆 是 在 衣 里 。
+
+BOS america is a country of immigrants . EOS
+BOS 美 國 是 一 個 移 民 國 家 。 EOS
+Translation: 美 國 小 國 。
+
+BOS i was happy to see him . EOS
+BOS 我 很 高 兴 见 到 他 。 EOS
+Translation: 我 很 快 見 到 他 。
+
+BOS my sister UNK songs very well . EOS
+BOS 我 妹 妹 唱 歌 很 好 听 。 EOS
+Translation: 我 的 姐 姐 很 好 看 。
+
+BOS london is the capital of england . EOS
+BOS 倫 敦 是 英 國 的 首 都 。 EOS
+Translation: 英 国 的 首 都 是 英 国 家 。
+
+BOS he 's popular with the students . EOS
+BOS 他 受 到 學 生 的 歡 迎 。 EOS
+Translation: 他 受 歡 迎 學 生 。
+
+BOS we made an appeal for support . EOS
+BOS 我 們 提 出 了 請 求 支 持 的 呼 UNK 。 EOS
+Translation: 我 们 所 有 离 快 的 安 全 。
+
+BOS water UNK at 100 degrees celsius . EOS
+BOS 水 在 攝 氏 1 0 0 度 沸 騰 。 EOS
+Translation: 水 在 攝 氏 3 0 度 時 。
+
+BOS we had to go there together . EOS
+BOS 我 们 必 须 一 起 去 。 EOS
+Translation: 我 们 要 去 那 儿 。
+
+BOS school begins at half past eight . EOS
+BOS 學 校 八 點 半 開 始 上 課 。 EOS
+Translation: 学 校 8 点 半 开 始 上 课 。
+
+BOS i played tennis with my brother . EOS
+BOS 我 和 我 的 兄 弟 打 網 球 。 EOS
+Translation: 我 和 我 哥 哥 打 網 球 。
+
+BOS i have to sell my house . EOS
+BOS 我 得 卖 我 的 房 子 。 EOS
+Translation: 我 必 須 把 我 的 房 子 放 在 我 的 裡 。
+
+BOS you do n't have any money . EOS
+BOS 您 沒 有 任 何 錢 。 EOS
+Translation: 你 沒 有 錢 。
+
+BOS would you please close that window ? EOS
+BOS 請 您 把 那 扇 窗 戶 關 起 來 好 嗎 ？ EOS
+Translation: 請 你 把 窗 戶 關 起 來 好 嗎 ？
+
+BOS he arrived after the bell rang . EOS
+BOS 鈴 響 後 他 就 到 了 。 EOS
+Translation: 他 按 了 九 字 彈 铃 。
+
+BOS what did you do last night ? EOS
+BOS 你 昨 晚 做 了 什 麼 ？ EOS
+Translation: 你 昨 天 晚 上 做 什 麼 ?
+
+BOS i want something to drink now . EOS
+BOS 我 現 在 想 要 喝 點 東 西 。 EOS
+Translation: 我 现 在 想 要 来 杯 喝 點 。
+
+BOS why do n't we go home ? EOS
+BOS 我 们 何 不 回 家 呢 ？ EOS
+Translation: 为 什 么 我 们 不 去 家 呢 ？
+
+BOS what she bought was very expensive . EOS
+BOS 她 買 的 東 西 很 昂 貴 。 EOS
+Translation: 她 花 了 多 少 钱 。
+
+BOS i had her UNK my room . EOS
+BOS 我 讓 她 打 掃 了 我 的 房 間 。 EOS
+Translation: 我 對 她 的 房 間 。
+
+BOS our school is across the river . EOS
+BOS 我 們 學 校 在 河 的 對 面 。 EOS
+Translation: 我 们 学 校 在 河 的 對 面 。
+
+BOS i 'll call you up tomorrow . EOS
+BOS 明 天 我 會 打 電 話 給 你 。 EOS
+Translation: 明 天 我 會 打 電 話 給 你 。
+
+BOS have you done all your homework ? EOS
+BOS 你 做 了 所 有 的 功 課 嗎 ？ EOS
+Translation: 你 做 了 所 有 的 功 課 了 吗 ？
+
+BOS tom studied french for three years . EOS
+BOS 汤 姆 学 了 三 年 法 语 。 EOS
+Translation: 汤 姆 学 法 语 交 流 两 年 了 。
+
+BOS i want a piece of candy . EOS
+BOS 我 想 要 一 颗 糖 。 EOS
+Translation: 我 要 养 一 个 助 急 助 。
+
+BOS which of these UNK is yours ? EOS
+BOS 這 些 球 拍 中 哪 一 支 是 你 的 ？ EOS
+Translation: 哪 些 是 你 的 ？
+
+BOS when did you change your address ? EOS
+BOS 你 什 麼 時 候 更 改 了 你 的 地 址 ? EOS
+Translation: 你 什 麼 時 候 換 我 的 地 址 ？
+
+BOS there are too many people there . EOS
+BOS 那 裡 太 多 人 了 。 EOS
+Translation: 有 多 人 在 那 里 太 多 的 话 了 。
+
+BOS we UNK all the major cities . EOS
+BOS 我 们 游 览 了 所 有 主 要 城 市 。 EOS
+Translation: 我 们 所 有 主 席 一 个 城 市 。
+
+BOS please fill this bucket with water . EOS
+BOS 請 把 這 個 桶 子 裝 滿 水 。 EOS
+Translation: 请 在 呼 吸 。
+
+BOS she got wet to the skin . EOS
+BOS 她 UNK 身 濕 透 了 。 EOS
+Translation: 她 为 一 摘 口 皮 。
+
+BOS everybody showed UNK toward the prisoner . EOS
+BOS 每 个 人 都 对 囚 犯 表 示 同 情 。 EOS
+Translation: 每 個 人 都 向 往 探 守 綠 。
+
+BOS the vending machines are over there . EOS
+BOS 自 动 售 货 机 在 那 边 。 EOS
+Translation: 那 裡 動 產 主 錢 的 灰 塵 。
+
+BOS i will show you some pictures . EOS
+BOS 我 會 給 你 們 看 些 照 片 。 EOS
+Translation: 我 会 给 你 看 看 图 片 。
+
+BOS please shut the door behind you . EOS
+BOS 請 隨 手 關 門 。 EOS
+Translation: 請 你 關 門 。
+
+BOS do you have any light beer ? EOS
+BOS 你 有 任 何 淡 啤 酒 嗎 ？ EOS
+Translation: 你 有 灯 爱 啤 酒 吗 ？
+
+BOS this book was UNK in england . EOS
+BOS 这 本 书 在 英 国 印 刷 。 EOS
+Translation: 這 本 書 在 英 國 。
+
+BOS i wonder why nobody told me . EOS
+BOS 不 知 道 为 什 么 没 有 人 告 诉 过 我 。 EOS
+Translation: 我 奇 怪 我 告 诉 什 么 。
+
+BOS she had the UNK to apologize . EOS
+BOS 她 大 方 地 道 歉 。 EOS
+Translation: 她 现 在 必 须 马 道 歉 。
+
+BOS i 've got to go now . EOS
+BOS 我 現 在 得 走 了 。 EOS
+Translation: 我 现 在 已 经 去 了 。
+
+BOS this UNK does n't UNK UNK . EOS
+BOS 這 拉 UNK 卡 卡 的 。 EOS
+Translation: 这 没 有 。
+
+BOS he earns his living by writing . EOS
+BOS 他 靠 寫 作 謀 生 。 EOS
+Translation: 他 的 年 龄 与 他 的 方 式 是 做 的 。
+
+BOS interest rates and UNK were high . EOS
+BOS 利 率 和 通 货 UNK UNK 很 高 。 EOS
+Translation: 利 率 和 高 高 。
+
+BOS she has broken the UNK again . EOS
+BOS 她 再 次 弄 壞 了 烤 麵 包 機 。 EOS
+Translation: 她 又 失 敗 了 。
+
+BOS this book is written in english . EOS
+BOS 這 本 書 是 用 英 文 寫 的 。 EOS
+Translation: 這 本 書 寫 了 英 文 。
+
+BOS fill in your name and address . EOS
+BOS 填 上 你 的 姓 名 和 地 址 。 EOS
+Translation: 把 你 的 姓 名 和 地 址 在 地 址 。
+
+BOS i have never thought of that . EOS
+BOS 我 從 來 沒 有 想 到 這 一 點 。 EOS
+Translation: 我 从 没 想 到 那 么 认 为 。
+
+BOS i 'm too busy to go . EOS
+BOS 我 太 忙 了 不 能 去 。 EOS
+Translation: 我 太 忙 了 不 能 去 。
+
+BOS have you read this book yet ? EOS
+BOS 你 讀 過 這 本 書 嗎 ？ EOS
+Translation: 你 讀 過 這 本 書 了 嗎 ？
+
+BOS war does n't make anybody happy . EOS
+BOS 战 争 不 会 使 任 何 人 幸 福 。 EOS
+Translation: 战 争 吵 没 有 好 高 兴 。
+
+BOS there are many earthquakes in japan . EOS
+BOS 日 本 有 许 多 地 震 。 EOS
+Translation: 日 本 被 解 忍 許 多 。
+
+BOS he convinced me of his innocence . EOS
+BOS 他 让 我 相 信 他 是 无 辜 的 。 EOS
+Translation: 他 相 信 我 是 他 的 罪 行 。
+
+BOS did you already eat at home ? EOS
+BOS 你 在 家 吃 过 了 吗 ？ EOS
+Translation: 你 已 经 吃 过 晚 饭 了 吗 ？
+
+BOS we have french in third period . EOS
+BOS 我 們 第 三 節 是 法 語 課 。 EOS
+Translation: 我 们 有 更 多 的 时 间 。
+
+BOS have you heard from her recently ? EOS
+BOS 你 最 近 有 她 的 音 訊 嗎 ？ EOS
+Translation: 你 最 近 收 到 她 的 信 了 嗎 ？
+
+BOS you are responsible for the result . EOS
+BOS 你 要 对 结 果 负 责 。 EOS
+Translation: 你 要 无 理 由 结 果 。
+
+BOS i have mixed feelings about this . EOS
+BOS 我 對 這 件 事 百 感 交 集 。 EOS
+Translation: 我 对 这 个 更 有 興 趣 。
+
+BOS even a child can understand that . EOS
+BOS 即 使 是 一 個 小 孩 子 都 能 理 解 。 EOS
+Translation: 即 使 是 小 孩 能 了 解 那 個 孩 。
+
+BOS do you want some more tea ? EOS
+BOS 你 想 再 要 点 茶 吗 ？ EOS
+Translation: 你 想 要 更 多 ？
+
+BOS when did you go to london ? EOS
+BOS 你 什 么 时 候 去 伦 敦 的 ？ EOS
+Translation: 你 什 麼 時 候 去 了 倫 敦 ？
+
+BOS my hands and legs are UNK . EOS
+BOS 我 的 手 和 腳 都 UNK 了 。 EOS
+Translation: 我 的 腿 很 戴 。
+
+BOS they all envied my new car . EOS
+BOS 他 们 都 羡 慕 我 的 新 车 。 EOS
+Translation: 他 們 天 羨 慕 我 的 新 车 。
+
+BOS you 've done a perfect job . EOS
+BOS 你 做 了 一 项 完 美 的 工 作 。 EOS
+Translation: 你 做 完 了 一 個 完 美 的 幫 助 。
+
+BOS he has all kinds of books . EOS
+BOS 他 有 各 种 各 样 的 书 。 EOS
+Translation: 他 有 各 種 的 語 。
+
+BOS we got lost in the fog . EOS
+BOS 我 们 在 雾 中 迷 了 路 。 EOS
+Translation: 我 們 在 網 球 上 了 。
+
+BOS put away your books and UNK . EOS
+BOS 把 你 的 書 和 筆 記 本 收 起 來 。 EOS
+Translation: 把 你 的 書 放 好 了 。
+
+BOS what kind of stone is this ? EOS
+BOS 这 是 什 么 石 头 ？ EOS
+Translation: 這 塊 石 頭 是 什 麼 幾 點 熱 的 ？
+
+BOS where did you go last sunday ? EOS
+BOS 上 周 日 你 去 哪 儿 了 ？ EOS
+Translation: 你 上 個 星 期 天 去 了 ？
+
+BOS will you play tennis after school ? EOS
+BOS 你 放 學 後 會 去 打 網 球 嗎 ？ EOS
+Translation: 你 放 学 后 会 打 了 吗 ？
+
+BOS when did you begin studying english ? EOS
+BOS 你 们 什 么 时 候 开 始 学 英 语 的 ？ EOS
+Translation: 你 什 么 时 候 开 始 学 英 语 的 英 语 ？
+
+BOS he even called me an idiot . EOS
+BOS 他 甚 至 骂 我 傻 瓜 。 EOS
+Translation: 他 甚 至 叫 你 傻 瓜 。
+
+BOS ask your dad to help you . EOS
+BOS 請 你 父 親 幫 你 。 EOS
+Translation: 要 你 的 父 親 幫 忙 你 。
+
+BOS he tried speaking french to us . EOS
+BOS 他 試 圖 跟 我 們 說 法 語 。 EOS
+Translation: 他 说 法 语 我 们 。
+
+BOS i will say something about it . EOS
+BOS 我 會 談 談 它 。 EOS
+Translation: 我 會 說 點 東 西 。
+
+BOS he advertised his house for sale . EOS
+BOS 他 登 廣 告 出 售 他 的 房 子 。 EOS
+Translation: 他 登 上 他 的 房 子 。
+
+BOS she does n't have any friends . EOS
+BOS 她 一 个 朋 友 都 没 有 。 EOS
+Translation: 她 一 点 朋 友 都 没 有 。
+
+BOS he was appointed UNK to britain . EOS
+BOS 他 被 任 命 為 UNK 英 國 大 使 。 EOS
+Translation: 他 被 馬 上 成 群 年 的 震 驚 中 。
+
+BOS she was reading a gardening UNK . EOS
+BOS 她 正 在 讀 一 本 園 藝 手 冊 。 EOS
+Translation: 她 在 睡 觉 像 儿 。
+
+BOS i have nothing better to do . EOS
+BOS 我 没 有 其 他 更 好 的 事 情 去 做 。 EOS
+Translation: 我 沒 有 什 麼 好 的 。
+
+BOS please be ready in UNK minutes . EOS
+BOS 请 在 1 5 分 钟 内 准 备 好 。 EOS
+Translation: 請 好 打 麻 烦 。
+
+BOS you are free to go home . EOS
+BOS 你 隨 時 可 以 回 家 。 EOS
+Translation: 你 有 空 帶 回 家 。
+
+BOS smiles do not always UNK pleasure . EOS
+BOS 微 笑 並 不 一 定 表 示 高 興 。 EOS
+Translation: 微 笑 不 總 是 幸 福 的 。
+
+BOS try to lose weight by jogging . EOS
+BOS 試 著 藉 由 慢 跑 來 減 肥 。 EOS
+Translation: 試 e s 减 肥 。
+
+BOS do you have an extra key ? EOS
+BOS 你 有 多 余 的 钥 匙 吗 ？ EOS
+Translation: 你 有 一 件 魚 训 练 吗 ？
+
+BOS let 's talk about this tomorrow . EOS
+BOS 我 们 来 讨 论 下 明 天 吧 。 EOS
+Translation: 让 我 们 谈 这 个 。
+
+BOS he invited me to his house . EOS
+BOS 他 邀 请 我 去 他 家 。 EOS
+Translation: 他 邀 請 我 把 他 的 房 子 。
+
+BOS we do n't have another choice . EOS
+BOS 我 们 没 有 别 的 选 择 。 EOS
+Translation: 我 们 别 再 失 去 了 。
+
+BOS he poured cold water over himself . EOS
+BOS 他 往 他 自 己 身 上 UNK 了 一 盆 冷 水 。 EOS
+Translation: 他 把 英 轻 人 打 碎 了 。
+
+BOS my house is near the station . EOS
+BOS 我 家 离 火 车 站 很 近 。 EOS
+Translation: 我 的 房 子 在 車 站 對 面 。
+
+BOS i wo n't see her again . EOS
+BOS 我 不 會 再 見 她 。 EOS
+Translation: 我 不 再 見 她 了 。
+
+BOS she makes all her own clothes . EOS
+BOS 她 的 衣 服 全 部 都 是 她 自 己 做 的 。 EOS
+Translation: 她 给 她 所 有 的 衣 服 。
+
+BOS should i buy something for him ? EOS
+BOS 我 應 該 買 些 東 西 給 他 嗎 ？ EOS
+Translation: 我 该 买 给 他 买 点 事 吗 ？
+
+BOS peace talks will begin next week . EOS
+BOS 和 平 會 談 將 在 下 週 開 始 。 EOS
+Translation: 每 周 开 始 下 周 开 始 。
+
+BOS my father does n't like soccer . EOS
+BOS 我 爸 爸 不 喜 欢 足 球 。 EOS
+Translation: 我 父 親 過 蘋 果 。
+
+BOS the young should respect the old . EOS
+BOS 年 轻 人 应 该 尊 敬 老 人 。 EOS
+Translation: 年 輕 人 应 该 尊 重 老 。
+
+BOS i ca n't stand this noise . EOS
+BOS 我 不 能 忍 受 這 個 噪 音 。 EOS
+Translation: 我 不 能 忍 受 這 個 噪 音 。
+
+BOS everyone was surprised to see tom . EOS
+BOS 每 個 人 看 到 T o m 都 很 驚 訝 。 EOS
+Translation: 每 个 人 都 遇 见 到 T o m 。
+
+BOS she UNK being called a coward . EOS
+BOS 她 對 被 稱 為 懦 夫 很 反 感 。 EOS
+Translation: 她 種 了 陣 子 喝 太 大 聲 。
+
+BOS the UNK live in my neighborhood . EOS
+BOS 史 密 斯 夫 婦 住 在 我 家 附 近 。 EOS
+Translation: 我 家 在 裡 住 在 我 的 附 近 。
+
+BOS the city was destroyed by fire . EOS
+BOS 這 個 城 市 毀 於 火 災 。 EOS
+Translation: 城 市 里 的 消 失 敗 了 火 。
+
+BOS he used to read at night . EOS
+BOS 他 以 前 都 在 夜 晚 看 書 。 EOS
+Translation: 他 过 了 夜 经 睡 觉 。
+
+BOS he was busy with his homework . EOS
+BOS 他 忙 於 做 功 課 。 EOS
+Translation: 他 忙 著 做 他 的 功 課 。
+
+BOS my father is retiring next spring . EOS
+BOS 我 爸 爸 明 年 春 天 就 要 退 休 了 。 EOS
+Translation: 我 的 父 親 是 一 點 一 名 電 子 。
+
+BOS he will not listen to me . EOS
+BOS 他 不 會 聽 我 的 。 EOS
+Translation: 他 不 聽 我 說 話 。
+
+BOS can you make it on time ? EOS
+BOS 你 能 准 时 做 好 吗 ？ EOS
+Translation: 你 可 以 一 下 去 嗎 ？
+
+BOS is there a supermarket near here ? EOS
+BOS 這 附 近 有 超 市 嗎 ？ EOS
+Translation: 这 里 有 一 个 礼 物 吗 ？
+
+BOS i 'm UNK that will happen . EOS
+BOS 我 希 望 那 會 發 生 。 EOS
+Translation: 我 會 那 個 事 情 在 。
+
+BOS he rarely stays home on sunday . EOS
+BOS 他 很 少 週 日 待 在 家 裡 。 EOS
+Translation: 他 很 少 週 日 在 家 裡 吸 。
+
+BOS i ate breakfast in my UNK . EOS
+BOS 我 穿 著 我 的 睡 衣 吃 早 餐 。 EOS
+Translation: 我 吃 早 餐 後 服 了 。
+
+BOS tom went there to learn french . EOS
+BOS 汤 姆 去 那 里 学 法 语 。 EOS
+Translation: 汤 姆 学 了 法 语 。
+
+BOS have n't i met you before ? EOS
+BOS 我 以 前 沒 見 過 你 嗎 ？ EOS
+Translation: 我 以 前 没 见 过 吗 ？
+
+BOS it 's a very serious illness . EOS
+BOS 这 是 很 严 重 的 病 。 EOS
+Translation: 这 是 一 个 非 常 最 好 的 。
+
+BOS all this is new to me . EOS
+BOS 这 对 我 来 说 全 是 新 的 。 EOS
+Translation: 这 就 是 我 们 。
+
+BOS it was very cold yesterday morning . EOS
+BOS 昨 天 早 上 很 冷 。 EOS
+Translation: 昨 天 早 上 很 冷 。
+
+BOS the capital of UNK is UNK . EOS
+BOS 波 蘭 的 首 都 是 華 沙 。 EOS
+Translation: 首 都 是 免 費 的 。
+
+BOS we grow vegetables in our garden . EOS
+BOS 我 們 在 我 們 的 花 園 裡 種 蔬 菜 。 EOS
+Translation: 我 们 种 了 我 们 的 花 朵 。
+
+BOS your wife is mad at you . EOS
+BOS 你 太 太 在 生 你 的 氣 。 EOS
+Translation: 你 太 壞 了 ， 而 且 然 。
+
+BOS i like going to watch baseball . EOS
+BOS 我 喜 歡 去 看 棒 球 。 EOS
+Translation: 我 喜 歡 看 棒 球 。
+
+BOS mary does n't usually wear jewelry . EOS
+BOS 玛 丽 通 常 不 戴 首 饰 。 EOS
+Translation: 瑪 麗 不 是 一 頭 髮 服 貼 著 。
+
+BOS that is how i learned english . EOS
+BOS 我 就 是 这 么 学 会 英 语 的 。 EOS
+Translation: 那 是 我 法 用 英 语 。
+
+BOS he was seen to go upstairs . EOS
+BOS 有 人 看 見 他 上 樓 。 EOS
+Translation: 他 見 到 記 得 去 上 樓 。
+
+BOS i can talk for a bit . EOS
+BOS 我 会 说 一 点 儿 。 EOS
+Translation: 我 能 老 。
+
+BOS she must be angry with me . EOS
+BOS 她 一 定 在 生 我 的 氣 。 EOS
+Translation: 她 一 定 很 生 气 和 我 。
+
+BOS english is n't easy to master . EOS
+BOS 要 精 通 英 語 是 不 容 易 的 。 EOS
+Translation: 英 語 簡 單 別 被 取 得 容 易 。
+
+BOS when did you begin playing golf ? EOS
+BOS 你 什 麼 時 候 開 始 打 高 爾 夫 球 ？ EOS
+Translation: 你 什 麼 時 候 開 始 下 午 玩 耍 。
+
+BOS i belong to the sailing club . EOS
+BOS 我 參 加 帆 船 社 。 EOS
+Translation: 我 參 加 這 個 俱 樂 部 的 機 。
+
+BOS my brother is now in australia . EOS
+BOS 我 哥 哥 現 在 在 澳 洲 。 EOS
+Translation: 我 弟 弟 現 在 在 在 澳 洲 。
+
+BOS i accompanied her on a walk . EOS
+BOS 我 陪 她 散 步 。 EOS
+Translation: 我 參 加 她 做 行 。
+
+BOS my car 's in the shop . EOS
+BOS 我 的 車 在 店 裡 修 理 中 。 EOS
+Translation: 我 的 报 纸 在 了 。
+
+BOS who 's your most interesting friend ? EOS
+BOS 你 最 有 趣 的 朋 友 是 誰 ？ EOS
+Translation: 你 最 有 趣 的 朋 友 是 誰 ？
+
+BOS that makes no sense at all . EOS
+BOS 这 没 有 任 何 意 义 。 EOS
+Translation: 那 没 有 任 何 意 义 。
+
+BOS we went to london last year . EOS
+BOS 我 们 去 年 去 了 伦 敦 。 EOS
+Translation: 去 年 她 去 了 伦 敦 。
+
+BOS it was very cold this morning . EOS
+BOS 今 天 早 上 很 冷 。 EOS
+Translation: 今 天 早 上 很 冷 。
+
+BOS i feel comfortable in his company . EOS
+BOS 我 在 他 的 公 司 裡 覺 得 很 舒 服 。 EOS
+Translation: 我 覺 得 我 舒 服 的 公 司 機 。
+
+BOS let 's go to the picnic . EOS
+BOS 讓 我 們 去 野 餐 。 EOS
+Translation: 我 们 去 野 餐 吧 。
+
+BOS what would you say to tom ? EOS
+BOS 你 要 对 汤 姆 说 些 什 么 ？ EOS
+Translation: 你 會 說 什 麼 ?
+
+BOS could you send me a UNK ? EOS
+BOS 你 能 寄 宣 傳 冊 給 我 嗎 ？ EOS
+Translation: 你 能 给 我 寄 封 信 吗 ？
+
+BOS my father began jogging last month . EOS
+BOS 我 父 親 上 個 月 開 始 慢 跑 。 EOS
+Translation: 我 爸 爸 一 名 月 亮 着 。
+
+BOS i have never been to UNK . EOS
+BOS 我 從 來 沒 有 去 過 廣 島 。 EOS
+Translation: 我 从 来 没 被 。
+
+BOS we should have taken his advice . EOS
+BOS 我 們 應 該 接 受 他 的 忠 告 的 。 EOS
+Translation: 我 们 应 该 已 经 建 的 建 议 了 。
+
+BOS tom kissed mary on the UNK . EOS
+BOS 汤 姆 亲 了 玛 丽 脸 UNK 。 EOS
+Translation: 汤 姆 在 玛 丽 。
+
+BOS the word is unfamiliar to me . EOS
+BOS 我 对 这 个 单 词 不 熟 。 EOS
+Translation: 這 個 封 信 是 我 的 了 思 。
+
+BOS the president is difficult to UNK . EOS
+BOS 总 统 很 难 接 近 。 EOS
+Translation: 总 是 很 难 。
+
+BOS what about having fish for dinner ? EOS
+BOS 晚 餐 吃 魚 怎 麼 樣 ? EOS
+Translation: 吃 饭 吃 难 么 呢 ？
+
+BOS do n't UNK in his affairs . EOS
+BOS 别 UNK 和 他 的 事 。 EOS
+Translation: 他 的 事 要 晚 上 他 的 事 。
+
+BOS i 've caught a bad cold . EOS
+BOS 我 得 了 重 感 冒 。 EOS
+Translation: 我 很 感 冒 。
+
+BOS do you believe there are ghosts ? EOS
+BOS 你 相 信 有 鬼 魂 吗 ？ EOS
+Translation: 你 相 信 那 里 有 幽 灵 吗 ？
+
+BOS this desk is UNK for children . EOS
+BOS 這 張 書 桌 是 專 門 為 兒 童 設 計 的 。 EOS
+Translation: 這 張 桌 子 底 子 是 孩 子 。
+
+BOS can your brother drive a car ? EOS
+BOS 你 弟 弟 會 開 車 嗎 ？ EOS
+Translation: 你 哥 哥 會 載 你 的 手 程 車 嗎 ?
+
+BOS she earns 30 dollars per day . EOS
+BOS 她 每 天 挣 3 0 美 元 。 EOS
+Translation: 她 一 天 花 了 5 美 元 。
+
+BOS i was barely able to work . EOS
+BOS 我 几 乎 不 能 工 作 了 。 EOS
+Translation: 我 可 以 在 工 作 。
+
+BOS that job is pretty much finished . EOS
+BOS 那 個 工 作 幾 乎 被 完 成 了 。 EOS
+Translation: 那 份 工 作 完 成 了 很 多 。
+
+BOS when does the next train leave ? EOS
+BOS 下 一 班 火 車 什 麼 時 候 開 ？ EOS
+Translation: 下 一 班 ?
+
+BOS does he study english every day ? EOS
+BOS 他 每 天 研 讀 英 語 嗎 ？ EOS
+Translation: 他 每 天 讀 英 文 嗎 ？
+
+BOS what time do you start work ? EOS
+BOS 你 什 么 时 候 开 始 工 作 ? EOS
+Translation: 你 幾 點 開 始 班 ?
+
+BOS tom is the one i want . EOS
+BOS 汤 姆 是 我 想 要 的 人 。 EOS
+Translation: T o m 是 我 想 要 的 。
+
+BOS tom is standing in the garden . EOS
+BOS 汤 姆 在 花 园 里 站 着 。 EOS
+Translation: 汤 姆 站 在 花 园 里 。
+
+BOS you gave me only fifty cents . EOS
+BOS 你 只 給 了 我 五 十 美 分 。 EOS
+Translation: 你 給 了 我 五 十 美 分 。
+
+BOS i found the bed quite comfortable . EOS
+BOS 我 覺 得 這 張 床 相 當 地 舒 適 。 EOS
+Translation: 我 早 床 睡 得 很 舒 服 。
+
+BOS will it take long to recover ? EOS
+BOS 要 很 長 的 時 間 才 能 恢 復 嗎 ？ EOS
+Translation: 復 原 需 要 花 很 長 的 時 間 嗎 ？
+
+BOS let 's play basketball after school . EOS
+BOS 讓 我 們 放 學 後 打 籃 球 。 EOS
+Translation: 讓 我 們 放 學 後 打 籃 球 。
+
+BOS pale UNK is a UNK beer . EOS
+BOS 淡 啤 酒 是 一 種 酒 精 含 量 低 的 啤 酒 。 EOS
+Translation: 多 吃 白 弱 啤 酒 了
+
+BOS it must be done more carefully . EOS
+BOS 应 该 更 谨 慎 地 处 理 它 。 EOS
+Translation: 更 小 心 以 更 早 一 切 。
+
+BOS i often play tennis after school . EOS
+BOS 我 常 常 在 放 學 後 打 網 球 。 EOS
+Translation: 我 常 常 在 放 學 後 踢 足 球 。
+
+BOS he 's out taking a walk . EOS
+BOS 他 出 去 散 步 。 EOS
+Translation: 他 出 去 散 步 。
+
+BOS what is it that you want ? EOS
+BOS 你 想 要 什 麼 ? EOS
+Translation: 你 想 要 什 麼 ？
+
+BOS her mother passed away last year . EOS
+BOS 她 的 母 親 去 年 去 世 了 。 EOS
+Translation: 她 的 母 亲 去 年 過 她 。
+
+BOS a friend 's coming over tomorrow . EOS
+BOS 一 個 朋 友 明 天 要 過 來 。 EOS
+Translation: 明 天 有 一 些 朋 友 來 。
+
+BOS you 're on the right track . EOS
+BOS 你 的 想 法 是 對 的 。 EOS
+Translation: 你 在 正 確 的 軌 道 上 。
+
+BOS we want to know the facts . EOS
+BOS 我 们 想 知 道 真 相 。 EOS
+Translation: 我 们 想 知 道 事 实 。
+
+BOS he 's much taller than you . EOS
+BOS 他 比 你 高 得 多 。 EOS
+Translation: 他 比 你 高 。
+
+BOS my father bought a new car . EOS
+BOS 我 的 父 親 買 了 一 輛 新 車 。 EOS
+Translation: 我 父 親 買 了 一 輛 新 車 給 我 。
+
+BOS lincoln was elected president in UNK . EOS
+BOS 林 肯 在 1 8 6 0 年 當 選 為 美 國 總 統 。 EOS
+Translation: 林 肯 定 继 里 。
+
+BOS here 's how we do it . EOS
+BOS 以 下 是 我 们 怎 么 做 的 。 EOS
+Translation: 我 们 这 里 有 多 少 。
+
+BOS you must not yield to temptation . EOS
+BOS 你 不 應 該 屈 服 在 誘 惑 之 下 。 EOS
+Translation: 你 不 必 要 得 到 百 面 。
+
+BOS did you leave the window open ? EOS
+BOS 你 讓 窗 戶 開 著 嗎 ? EOS
+Translation: 你 把 窗 户 留 在 了 吗 ？
+
+BOS an UNK car is almost UNK . EOS
+BOS 一 輛 車 齡 八 年 的 車 子 幾 乎 是 毫 無 價 值 的 。 EOS
+Translation: 汽 车 几 点 了 。
+
+BOS do you believe that god exists ? EOS
+BOS 你 相 信 神 存 在 嗎 ？ EOS
+Translation: 你 相 信 上 帝 存 在 吗 ？
+
+BOS when did she break the window ? EOS
+BOS 她 什 麼 時 候 打 破 了 窗 戶 ？ EOS
+Translation: 她 在 窗 戶 後 打 招 呼 ？
+
+BOS how do you spell your name ? EOS
+BOS 你 怎 麼 拼 你 的 名 字 的 ？ EOS
+Translation: 你 的 名 字 怎 麼 拼 ？
+
+BOS how many UNK do you have ? EOS
+BOS 你 有 多 少 支 球 拍 ? EOS
+Translation: 你 有 多 少 个 ？
+
+BOS i wish they would stop fighting . EOS
+BOS 我 希 望 他 們 會 停 止 戰 鬥 。 EOS
+Translation: 要 是 他 们 打 了 这 个 。
+
+BOS keep it in a cool place . EOS
+BOS 保 存 在 陰 涼 的 地 方 。 EOS
+Translation: 保 持 一 個 很 熱 的 地 方 。
+
+BOS when did you get to london ? EOS
+BOS 你 什 麼 時 候 到 倫 敦 的 ？ EOS
+Translation: 你 什 麼 時 候 過 倫 敦 ？
+
+BOS UNK burns with a blue flame . EOS
+BOS UNK UNK 燃 燒 著 藍 色 的 火 焰 。 EOS
+Translation: 一 個 火 災 貼 了 一 個 火 轉 。
+
+BOS she is working on the problem . EOS
+BOS 她 在 处 理 问 题 。 EOS
+Translation: 她 在 想 上 發 燒 。
+
+BOS tom is always playing UNK games . EOS
+BOS 湯 姆 總 是 在 玩 電 視 遊 樂 器 。 EOS
+Translation: 汤 姆 一 直 在 玩 行 。
+
+BOS i bought it for ten dollars . EOS
+BOS 我 花 1 0 美 元 买 的 。 EOS
+Translation: 我 花 了 十 美 元 買 它 。
+
+BOS this drink is on the house . EOS
+BOS 這 種 飲 料 是 免 費 招 待 的 。 EOS
+Translation: 這 房 子 在 校 上 渴 。
+
+BOS she took the entrance exam yesterday . EOS
+BOS 她 昨 天 參 加 了 入 學 考 試 。 EOS
+Translation: 她 昨 天 在 課 遲 到 。
+
+BOS it was love at first sight . EOS
+BOS 那 是 一 见 钟 情 。 EOS
+Translation: 在 看 情 况 。
+
+BOS mt . UNK is now UNK . EOS
+BOS 浅 间 山 现 在 是 寂 静 的 。 EOS
+Translation: 博 物 館 在 很 多 。
+
+BOS did you find your contact lenses ? EOS
+BOS 你 找 到 你 的 隱 形 眼 鏡 了 嗎 ？ EOS
+Translation: 你 找 到 你 的 隱 形 眼 鏡 了 嗎 ？
+
+BOS everyone hoped that she would win . EOS
+BOS 每 個 人 都 希 望 她 會 獲 勝 。 EOS
+Translation: 她 希 望 她 每 個 人 都 会 赢 。
+
+BOS i like summer better than winter . EOS
+BOS 我 喜 歡 夏 天 勝 於 冬 天 。 EOS
+Translation: 我 喜 歡 冬 天 勝 過 冬 天 。
+
+BOS you have to come with me . EOS
+BOS 你 必 須 跟 我 來 。 EOS
+Translation: 你 一 个 跟 我 来 。
+
+BOS i 'll wait until four o'clock . EOS
+BOS 我 會 等 到 四 點 。 EOS
+Translation: 我 会 等 到 四 点 。
+
+BOS may i have a bus schedule ? EOS
+BOS 我 可 以 有 張 公 車 的 時 刻 表 嗎 ？ EOS
+Translation: 我 可 能 搭 一 辆 公 交 车 吗 ？
+
+BOS he has a test next week . EOS
+BOS 他 下 禮 拜 要 考 試 。 EOS
+Translation: 他 一 周 三 次 。
+
+BOS it was a lot of fun . EOS
+BOS 它 很 好 玩 。 EOS
+Translation: 很 有 意 思 。
+
+BOS my father 's in the garden . EOS
+BOS 我 爸 爸 在 花 园 里 。 EOS
+Translation: 我 爸 爸 在 幾 站 。
+
+BOS try and do better next time . EOS
+BOS 嘗 試 在 下 一 次 做 得 更 好 。 EOS
+Translation: 尽 管 下 一 次 。
+
+BOS he 's eligible for the UNK . EOS
+BOS 他 有 資 格 當 選 總 統 。 EOS
+Translation: 他 很 适 合 这 个 。
+
+BOS drunk driving is a serious problem . EOS
+BOS 酒 驾 是 个 严 重 的 问 题 。 EOS
+Translation: 禁 止 賞 新 的 问 题 是 一 个 击 中 任 。
+
+BOS he was the first to come . EOS
+BOS 他 是 第 一 個 來 的 。 EOS
+Translation: 他 是 第 一 次 來 第 一 次 。
+
+BOS they are much taller than us . EOS
+BOS 他 們 比 我 們 高 得 多 。 EOS
+Translation: 他 們 比 我 們 高 。
+
+BOS how is your work coming along ? EOS
+BOS 你 的 工 作 進 行 得 怎 麼 樣 ？ EOS
+Translation: 你 的 工 作 如 何 要 什 麼 ?
+
+BOS i want to watch this film . EOS
+BOS 我 想 看 这 部 电 影 。 EOS
+Translation: 我 想 要 看 這 部 电 影 。
+
+BOS his new novel is worth reading . EOS
+BOS 他 的 新 小 說 值 得 一 讀 。 EOS
+Translation: 他 的 新 書 值 得 一 本 。
+
+BOS i 'm tired of watching television . EOS
+BOS 我 看 電 視 看 到 厭 煩 了 。 EOS
+Translation: 我 厌 倦 了 看 电 视 。
+
+BOS my mother left me a message . EOS
+BOS 我 媽 媽 留 了 口 信 給 我 。 EOS
+Translation: 我 媽 媽 為 我 留 了 一 個 適 合 這 個 消 息 。
+
+BOS they made us work all night . EOS
+BOS 他 們 要 我 們 整 夜 工 作 。 EOS
+Translation: 他 們 讓 我 們 工 作 了 一 整 夜 。
+
+BOS he is a very imaginative writer . EOS
+BOS 他 是 非 常 有 想 像 力 的 作 家 。 EOS
+Translation: 他 是 一 个 非 常 想 像 个 非 常 想 的 类 型 。
+
+BOS take the road on the left . EOS
+BOS 走 左 邊 的 道 路 。 EOS
+Translation: 走 右 邊 走 後 服 路 。
+
+BOS tom needs to UNK his website . EOS
+BOS 汤 姆 需 要 更 新 他 的 网 站 。 EOS
+Translation: 湯 姆 需 要 一 下 他 的 回 來 。
+
+BOS he disguised himself as a woman . EOS
+BOS 他 把 自 己 化 裝 成 一 個 女 人 。 EOS
+Translation: 他 獨 自 跑 成 人 了 一 個 女 人 。
+
+BOS she lives in a huge house . EOS
+BOS 她 住 在 一 個 很 大 的 房 子 裡 。 EOS
+Translation: 她 住 在 一 棟 可 棟 房 子 裡 。
+
+BOS the old man lived by himself . EOS
+BOS 老 人 独 自 生 活 。 EOS
+Translation: 這 位 老 人 獨 自 住 了 自 住 的 。
+
+BOS he divorced his wife last month . EOS
+BOS 上 個 月 他 和 妻 子 離 婚 了 。 EOS
+Translation: 他 离 开 了 他 的 妻 子 。
+
+BOS it is warmer today than yesterday . EOS
+BOS 今 天 比 昨 天 暖 和 。 EOS
+Translation: 今 天 是 個 熱 病 。
+
+BOS why do you study every day ? EOS
+BOS 为 什 么 你 每 天 都 学 习 呢 ？ EOS
+Translation: 你 為 什 麼 每 天 讀 書 ？
+
+BOS what do you want to know ? EOS
+BOS 你 想 知 道 什 麼 ？ EOS
+Translation: 你 想 知 道 什 麼 ？
+
+BOS is there a hospital near here ? EOS
+BOS 這 附 近 有 醫 院 嗎 ？ EOS
+Translation: 這 附 近 有 一 間 郵 醫 院 嗎 ？
+
+BOS she might be taller than you . EOS
+BOS 她 可 能 比 你 高 。 EOS
+Translation: 她 或 许 比 你 高 興 。
+
+BOS may i see the wine list ? EOS
+BOS 我 可 以 看 一 下 酒 單 嗎 ？ EOS
+Translation: 我 可 以 在 名 單 上 的 背 上 看 看 看 到 什 麼 名 字 ？
+
+BOS your team is stronger than UNK . EOS
+BOS 你 們 的 隊 伍 比 我 們 的 強 。 EOS
+Translation: 你 的 隊 強 祝 其 他 。
+
+BOS he broke in on our conversation . EOS
+BOS 他 打 斷 了 我 們 的 談 話 。 EOS
+Translation: 他 在 我 们 的 事 故 中 驚 中 受 了 我 们 。
+
+BOS i am very busy these days . EOS
+BOS 我 最 近 很 忙 。 EOS
+Translation: 我 非 常 地 忙 。
+
+BOS he can speak russian , too . EOS
+BOS 他 也 會 說 俄 語 。 EOS
+Translation: 他 會 講 清 楚 ， 這 個 是 俄 語 。
+
+BOS she is leaving for america tonight . EOS
+BOS 她 今 晚 離 開 去 美 國 。 EOS
+Translation: 她 今 晚 就 要 離 美 國 。
+
+BOS have you ever been to france ? EOS
+BOS 你 曾 經 去 過 法 國 嗎 ？ EOS
+Translation: 你 去 过 法 国 吗 ？
+
+BOS i tried to change the subject . EOS
+BOS 我 試 圖 改 變 話 題 。 EOS
+Translation: 我 試 著 改 變 主 席 。
+
+BOS we had a lot to drink . EOS
+BOS 我 们 喝 了 很 多 。 EOS
+Translation: 我 们 要 很 多 喝 。
+
+BOS he cleaned his room on sunday . EOS
+BOS 他 在 週 日 打 掃 他 的 房 間 。 EOS
+Translation: 他 週 日 清 掃 房 子 。
+
+BOS they are jealous of our success . EOS
+BOS 她 们 嫉 妒 我 们 的 成 功 。 EOS
+Translation: 他 们 嫉 妒 我 们 的 成 功 。
+
+BOS she gave me these old coins . EOS
+BOS 她 給 了 我 這 些 舊 硬 幣 。 EOS
+Translation: 她 給 了 我 一 些 錢 的 印 字 。
+
+BOS do you know who he is ? EOS
+BOS 你 知 道 他 是 誰 嗎 ？ EOS
+Translation: 你 知 道 他 是 谁 ？
+
+BOS can we go now , please ? EOS
+BOS 请 问 我 们 现 在 能 走 吗 ？ EOS
+Translation: 我 们 现 在 能 去 能 去 能 了 吗 ？
+
+BOS my camera can shoot UNK UNK . EOS
+BOS 我 的 录 像 机 可 以 拍 高 清 视 UNK 。 EOS
+Translation: 我 的 攝 影 機 可 以 打 爾 夫 球 。
+
+BOS he swims better than i do . EOS
+BOS 他 游 泳 游 得 比 我 好 。 EOS
+Translation: 他 游 泳 好 比 我 好 。
+
+BOS the game will probably be canceled . EOS
+BOS 這 場 比 賽 可 能 將 被 取 消 。 EOS
+Translation: 這 場 比 賽 將 產 取 消 費 消 失 了 。
+
+BOS please do n't speak so fast . EOS
+BOS 請 不 要 說 得 這 麼 快 。 EOS
+Translation: 请 不 要 说 得 那 么 快 。
+
+BOS you did n't tell him anything ? EOS
+BOS 你 什 么 都 没 跟 他 说 ？ EOS
+Translation: 你 什 么 都 没 告 诉 他 做 事 吗 ？
+
+BOS we gave the car a push . EOS
+BOS 我 們 推 了 車 。 EOS
+Translation: 我 們 啊 了 一 門 發 。
+
+BOS she helped him overcome his UNK . EOS
+BOS 她 幫 助 他 平 撫 了 他 的 悲 傷 。 EOS
+Translation: 她 幫 忙 地 買 了 他 的 母 親 。
+
+BOS they were alone in the library . EOS
+BOS 他 們 獨 自 在 圖 書 館 裡 。 EOS
+Translation: 他 們 在 圖 書 館 沒 有 一 個 人 在 碗 。
+
+BOS tom is leaving kobe tomorrow morning . EOS
+BOS 湯 姆 明 天 早 上 離 開 神 戶 。 EOS
+Translation: T o m 明 天 早 上 大 。
+
+BOS tom bought a rose for mary . EOS
+BOS 汤 姆 给 玛 丽 买 了 一 束 玫 瑰 花 。 EOS
+Translation: 汤 姆 给 玛 丽 买 了 一 首 玫 瑰 。
+
+BOS love makes the world go round . EOS
+BOS 爱 让 世 界 转 动 。 EOS
+Translation: 愛 世 界 第 一 個 盡 力 。
+
+BOS what subject do you like best ? EOS
+BOS 你 最 喜 歡 哪 一 個 科 目 ? EOS
+Translation: 你 最 好 的 什 麼 ?
+
+BOS i want to eat apple pie . EOS
+BOS 我 想 吃 苹 果 派 。 EOS
+Translation: 我 想 吃 个 蘋 果 。
+
+BOS would you pass me the salt ? EOS
+BOS 請 你 把 鹽 遞 給 我 好 嗎 ? EOS
+Translation: 請 你 把 鹽 遞 給 我 好 嗎 ？
+
+BOS i believe in what they said . EOS
+BOS 我 相 信 他 們 說 的 話 。 EOS
+Translation: 我 相 信 他 们 在 说 什 么 。
+
+BOS do you live with your parents ? EOS
+BOS 你 和 你 的 父 母 同 住 嗎 ？ EOS
+Translation: 你 跟 你 父 母 住 一 起 吗 ？
+
+BOS what time does the play begin ? EOS
+BOS 演 出 什 么 时 候 开 始 ？ EOS
+Translation: 什 麼 時 候 開 始 ？
+
+BOS he should have been more careful . EOS
+BOS 他 本 應 該 更 小 心 的 。 EOS
+Translation: 他 應 該 更 小 心 的 。
+
+BOS they do n't need a reason . EOS
+BOS 他 们 不 需 要 理 由 。 EOS
+Translation: 他 们 不 需 要 一 根 理 由 。
+
+BOS i have never been there myself . EOS
+BOS 我 從 來 沒 有 親 自 去 過 那 裡 。 EOS
+Translation: 我 从 没 自 己 。
+
+BOS he has to repair the clock . EOS
+BOS 他 必 須 修 理 這 個 時 鐘 。 EOS
+Translation: 他 得 走 了 這 個 時 鐘 時 鐘 。
+
+BOS i saw tom three hours ago . EOS
+BOS 我 在 三 小 时 前 见 过 汤 姆 。 EOS
+Translation: 我 看 见 汤 姆 三 个 小 时 。
+
+BOS i want to go to italy . EOS
+BOS 我 要 去 義 大 利 。 EOS
+Translation: 我 想 要 去 意 大 利 的 意 。
+
+BOS i admit that i was careless . EOS
+BOS 我 承 认 我 大 意 了 。 EOS
+Translation: 我 承 承 諾 这 是 我 的 这 个 。
+
+BOS i play the guitar after school . EOS
+BOS 我 放 學 後 彈 吉 他 。 EOS
+Translation: 我 放 學 後 彈 吉 他 。
+
+BOS she broke the window on purpose . EOS
+BOS 她 故 意 把 窗 戶 弄 壞 了 。 EOS
+Translation: 她 故 意 打 破 了 窗 戶 。
+
+BOS what do you want to do ? EOS
+BOS 你 想 做 什 麼 ？ EOS
+Translation: 你 要 做 什 麼 ?
+
+BOS well , let 's get going ! EOS
+BOS 好 吧 ， 讓 我 們 出 發 吧 ! EOS
+Translation: 那 麼 多 , 讓 我 們 開 始 吧 ？
+
+BOS take any train on track 5 . EOS
+BOS 到 5 号 轨 道 乘 随 便 什 么 火 车 。 EOS
+Translation: 全 体 冰 上 。
+
+BOS we were in london last winter . EOS
+BOS 我 們 去 年 冬 天 在 倫 敦 。 EOS
+Translation: 我 们 去 年 在 倫 敦 。
+
+BOS she does n't get UNK much . EOS
+BOS 她 沒 有 常 到 戶 外 。 EOS
+Translation: 她 不 到 底 多 。
+
+BOS where 's the nearest travel agency ? EOS
+BOS 最 近 的 旅 行 社 在 哪 裡 ？ EOS
+Translation: 最 近 的 计 划 去 哪 里 ？
+
+BOS his brother is always watching tv . EOS
+BOS 他 的 弟 弟 總 是 在 看 電 視 。 EOS
+Translation: 他 的 兄 弟 总 是 在 看 电 视 。
+
+BOS did the police ever question you ? EOS
+BOS 警 察 盘 问 你 了 吗 ？ EOS
+Translation: 這 個 警 察 過 你 去 了 問 題 嗎 ？
+
+BOS our garden was full of weeds . EOS
+BOS 我 们 的 花 园 布 满 了 杂 草 。 EOS
+Translation: 我 們 的 花 園 裡 有 很 多 煙 。
+
+BOS japan is an extremely noisy country . EOS
+BOS 日 本 是 一 個 非 常 UNK 雜 的 國 家 。 EOS
+Translation: 日 本 是 一 個 半 高 的 国 家 。
+
+BOS how often do you see him ? EOS
+BOS 您 多 久 见 他 一 次 ？ EOS
+Translation: 你 多 常 造 訪 他 ?
+
+BOS tom is n't happy at all . EOS
+BOS 汤 姆 根 本 不 高 兴 。 EOS
+Translation: 汤 姆 一 点 也 不 高 兴 。
+
+BOS i followed the deer 's UNK . EOS
+BOS 我 跟 着 鹿 的 踪 迹 。 EOS
+Translation: 我 过 了 活 铃 。
+
+BOS let 's UNK the UNK UNK . EOS
+BOS 讓 我 們 平 分 這 個 報 酬 吧 。 EOS
+Translation: 让 我 们 来 。
+
+BOS would you please shut the window ? EOS
+BOS 能 不 能 请 你 把 窗 关 了 ? EOS
+Translation: 請 你 把 窗 戶 關 上 嗎 ？
+
+BOS i 'm fed up with english . EOS
+BOS 我 受 够 英 文 了 。 EOS
+Translation: 我 受 夠 了 英 語 。
+
+BOS the teacher had a bad cold . EOS
+BOS 老 師 患 了 重 感 冒 。 EOS
+Translation: 今 年 的 廚 師 很 冷 。
+
+BOS do you study english every day ? EOS
+BOS 你 每 天 研 讀 英 語 嗎 ？ EOS
+Translation: 你 每 天 讀 英 語 嗎 ？
+
+BOS these two words are easily confused . EOS
+BOS 这 两 个 词 容 易 混 淆 。 EOS
+Translation: 這 些 花 很 容 易 感 激 。
+
+BOS he knows better than to marry her . EOS
+BOS 他 聰 明 到 不 會 娶 她 。 EOS
+Translation: 他 不 會 傻 到 去 娶 她 。
+
+BOS he said that it would probably rain . EOS
+BOS 他 說 很 可 能 會 下 雨 。 EOS
+Translation: 他 说 明 天 可 能 会 下 雨 。
+
+BOS you UNK this job yourself , right ? EOS
+BOS 你 自 己 选 择 了 这 份 工 作 ， 是 吗 ？ EOS
+Translation: 你 是 做 這 份 工 作 ， 对 你 来 说 的 吗 ？
+
+BOS i saw it with my own eyes . EOS
+BOS 我 親 眼 看 見 了 。 EOS
+Translation: 我 看 见 我 自 己 真 相 了 。
+
+BOS how much money do i owe you ? EOS
+BOS 我 欠 你 多 少 錢 ？ EOS
+Translation: 我 欠 你 多 少 钱 ？
+
+BOS where did you get your camera repaired ? EOS
+BOS 你 在 哪 儿 修 的 照 相 机 ？ EOS
+Translation: 你 的 照 相 機 在 哪 裡 ？
+
+BOS mother made us cheese sandwiches for lunch . EOS
+BOS 媽 媽 為 我 們 做 了 乳 酪 三 明 治 當 午 餐 。 EOS
+Translation: 妈 妈 给 我 们 问 题 要 三 明 治 。
+
+BOS she kept me waiting for 30 minutes . EOS
+BOS 她 让 我 等 了 3 0 分 钟 。 EOS
+Translation: 她 让 我 等 了 半 小 时 。
+
+BOS we want to clear up this problem . EOS
+BOS 我 们 像 澄 清 这 个 问 题 EOS
+Translation: 我 们 想 要 一 些 晴 朗 的 问 题 。
+
+BOS he grew up to be an engineer . EOS
+BOS 他 長 大 後 成 為 了 一 名 工 程 師 。 EOS
+Translation: 他 長 大 後 成 為 一 名 工 作 。
+
+BOS she came from canada to see me . EOS
+BOS 她 從 加 拿 大 來 看 我 。 EOS
+Translation: 她 来 跟 我 来 看 過 了 加 拿 大 。
+
+BOS do you eat it in the classroom ? EOS
+BOS 您 在 教 室 裡 吃 它 嗎 ？ EOS
+Translation: 你 把 它 放 在 错 误 吗 ？
+
+BOS he got up at five as usual . EOS
+BOS 他 像 往 常 一 樣 五 點 鐘 起 床 。 EOS
+Translation: 他 在 趕 上 大 約 五 點 年 紀 。
+
+BOS i am glad that you have succeeded . EOS
+BOS 我 很 高 兴 你 们 成 功 了 。 EOS
+Translation: 我 很 高 興 你 夠 成 功 了 。
+
+BOS i asked him what his name was . EOS
+BOS 我 問 了 他 叫 什 麼 名 字 。 EOS
+Translation: 我 問 了 他 的 名 字 。
+
+BOS she 's collecting UNK for a book . EOS
+BOS 她 为 一 本 书 收 集 材 料 。 EOS
+Translation: 她 为 一 本 书 收 集 材 料 。
+
+BOS i swear i did n't do anything . EOS
+BOS 我 发 誓 我 什 么 也 没 做 。 EOS
+Translation: 我 发 誓 了 任 何 事 会 做 任 何 事 。
+
+BOS cut the UNK and get to work . EOS
+BOS 別 閒 聊 了 ， 開 始 工 作 。 EOS
+Translation: 切 了 並 定 辭 職 。
+
+BOS eat your soup while it is hot . EOS
+BOS 趁 热 喝 你 的 汤 。 EOS
+Translation: 你 的 湯 姆 的 時 候 吃 多 。
+
+BOS i do n't know where he lives . EOS
+BOS 我 不 知 道 他 住 在 哪 裡 。 EOS
+Translation: 我 不 知 道 他 住 在 哪 裡 。
+
+BOS there is little water in the pond . EOS
+BOS 這 個 池 塘 裡 的 水 很 少 。 EOS
+Translation: 這 個 池 塘 裡 有 一 點 水 。
+
+BOS furniture made of good materials sells well . EOS
+BOS 用 优 质 材 料 做 的 家 具 卖 得 很 好 。 EOS
+Translation: 這 個 家 具 的 用 來 說 服 務 。
+
+BOS she does n't live there any more . EOS
+BOS 她 不 再 住 在 那 裡 了 。 EOS
+Translation: 她 不 再 住 在 這 裡 的 旅 生 活 。
+
+BOS she 's not as old as mary . EOS
+BOS 她 沒 有 瑪 麗 年 紀 大 。 EOS
+Translation: 她 的 年 龄 不 是 她 的 老 。
+
+BOS i suppose i 'd better phone tom . EOS
+BOS 我 想 我 给 汤 姆 打 电 话 比 较 好 。 EOS
+Translation: 我 猜 想 我 的 电 话 给 汤 姆 。
+
+BOS he paid 1,000 yen for this book . EOS
+BOS 他 花 了 1 0 0 0 日 元 買 這 本 書 。 EOS
+Translation: 他 付 了 這 本 書 。
+
+BOS tom does n't have any shoes on . EOS
+BOS 汤 姆 没 穿 鞋 。 EOS
+Translation: 汤 姆 没 有 一 双 鞋 。
+
+BOS a UNK earthquake hit the state capital . EOS
+BOS 一 場 毀 UNK 性 的 地 震 襲 擊 了 這 個 州 的 首 府 。 EOS
+Translation: 了 這 首 府 造 成 了 內 建 的 震 。
+
+BOS i need to know what you think . EOS
+BOS 我 需 要 知 道 你 怎 么 想 。 EOS
+Translation: 我 需 要 知 道 你 要 什 么 。
+
+BOS i 'm always forgetting people 's names . EOS
+BOS 我 總 是 忘 記 別 人 的 名 字 。 EOS
+Translation: 我 總 是 忘 記 別 人 的 名 字 。
+
+BOS he kept a diary during the trip . EOS
+BOS 他 旅 行 期 间 ， 写 了 旅 游 日 记 。 EOS
+Translation: 他 在 成 作 物 立 旅 行 。
+
+BOS he hit the ball with his racket . EOS
+BOS 他 用 他 的 球 拍 擊 球 。 EOS
+Translation: 他 把 球 拍 滿 了 他 的 球 。
+
+BOS i have n't seen you for ages . EOS
+BOS 我 已 經 有 很 長 的 時 間 沒 有 見 到 你 了 。 EOS
+Translation: 我 已 經 沒 有 見 到 你 來 。
+
+BOS everyone 's tired of hearing that story . EOS
+BOS 每 个 人 都 听 UNK 了 那 个 故 事 。 EOS
+Translation: 每 個 人 都 厭 倦 了 那 個 故 事 。
+
+BOS what did you do with my glasses ? EOS
+BOS 你 把 我 的 眼 鏡 怎 麼 了 ? EOS
+Translation: 你 用 我 的 眼 鏡 做 了 什 麼 ?
+
+BOS i feel like taking a walk now . EOS
+BOS 我 現 在 想 要 散 步 。 EOS
+Translation: 我 现 在 想 休 息 一 下 。
+
+BOS his store is always crowded with customers . EOS
+BOS 他 的 店 總 是 擠 滿 了 顧 客 。 EOS
+Translation: 他 的 商 店 總 是 逃 跑 了 。
+
+BOS i gave them clothing and some food . EOS
+BOS 我 給 了 他 們 衣 服 和 一 些 食 物 。 EOS
+Translation: 我 给 了 他 们 衣 服 。
+
+BOS call me when you get settled in . EOS
+BOS 你 安 頓 好 就 打 電 話 給 我 。 EOS
+Translation: 报 告 诉 我 你 们 难 倒 。
+
+BOS i 'm never coming back here again . EOS
+BOS 我 不 会 再 回 来 了 。 EOS
+Translation: 我 不 再 以 前 回 這 裡 了 。
+
+BOS the dog growled at a little boy . EOS
+BOS 這 隻 狗 對 著 一 個 小 男 孩 咆 哮 。 EOS
+Translation: 狗 對 著 一 個 國 誤 朝 不 見 的 小 男 孩 。
+
+BOS i ca n't find fault with him . EOS
+BOS 我 挑 不 出 他 的 毛 病 。 EOS
+Translation: 我 找 不 到 他 的 错 。
+
+BOS in case of fire , call 119 . EOS
+BOS 遇 到 火 灾 打 1 1 9 。 EOS
+Translation: 在 緊 急 火 ， 但 是 在 敲 风 打 3 9 2 點 。
+
+BOS i had no feeling in my fingers . EOS
+BOS 我 的 手 指 没 有 感 觉 。 EOS
+Translation: 我 没 有 感 觉 我 的 手 指 感 动 。
+
+BOS eating habits differ from country to country . EOS
+BOS 各 國 有 不 同 的 飲 食 習 慣 。 EOS
+Translation: 吃 饭 從 国 外 费 就 好 了 。
+
+BOS i 'm really concerned about your future . EOS
+BOS 我 真 的 很 關 心 你 的 未 來 。 EOS
+Translation: 我 在 你 的 未 來 看 過 你 的 未 來 。
+
+BOS everyone wants what they ca n't have . EOS
+BOS 每 个 人 都 想 要 得 到 无 法 拥 有 的 东 西 EOS
+Translation: 大 家 都 想 知 道 這 些 。
+
+BOS i take a bath almost every day . EOS
+BOS 我 幾 乎 每 天 洗 澡 。 EOS
+Translation: 我 几 乎 每 天 洗 澡 。
+
+BOS she will have to cook for everyone . EOS
+BOS 她 將 必 須 為 大 家 做 飯 。 EOS
+Translation: 她 会 需 要 做 饭 。
+
+BOS i have n't seen him for years . EOS
+BOS 我 有 些 年 没 见 过 他 了 。 EOS
+Translation: 我 已 經 沒 有 看 到 他 。
+
+BOS he 's always running short of cash . EOS
+BOS 他 總 是 缺 錢 。 EOS
+Translation: 他 的 現 金 總 是 不 夠 用 。
+
+BOS that 's the reason he became angry . EOS
+BOS 那 就 是 他 生 气 的 理 由 。 EOS
+Translation: 那 是 他 免 費 的 。
+
+BOS her father devoted his life to science . EOS
+BOS 她 父 亲 把 一 生 都 贡 献 给 科 学 事 业 了 。 EOS
+Translation: 她 的 父 親 和 生 命 中 一 樣 。
+
+BOS how much money do you owe tom ? EOS
+BOS 你 欠 湯 姆 多 少 錢 ？ EOS
+Translation: 汤 姆 多 少 钱 ？
+
+BOS i once wanted to be an UNK . EOS
+BOS 我 曾 經 想 過 當 個 太 空 物 理 學 家 。 EOS
+Translation: 我 想 一 个 单 。
+
+BOS sunday is not a workday for me . EOS
+BOS 我 在 星 期 日 不 工 作 。 EOS
+Translation: 我 周 日 不 是 工 作 的 广 告 。
+
+BOS we saw him walking across the street . EOS
+BOS 我 們 看 見 他 正 在 過 馬 路 。 。 EOS
+Translation: 我 们 看 到 他 的 街 道 。
+
+BOS the rumor turned out to be true . EOS
+BOS 這 個 傳 聞 後 來 被 證 明 是 真 的 了 。 EOS
+Translation: 谣 言 [ 的 是 真 的 。
+
+BOS will you excuse us for a moment ? EOS
+BOS 你 会 暂 时 原 谅 我 们 吗 ？ EOS
+Translation: 請 你 幫 我 們 好 嗎 ？
+
+BOS you look just like your older brother . EOS
+BOS 你 看 起 来 很 像 你 的 哥 哥 。 EOS
+Translation: 你 看 起 來 像 你 哥 。
+
+BOS i think my right arm is broken . EOS
+BOS 我 想 我 的 右 手 臂 斷 了 。 EOS
+Translation: 我 认 为 我 的 右 手 表 是 有 害 。
+
+BOS i have nothing to fall back on . EOS
+BOS 我 没 什 么 可 依 靠 的 了 。 EOS
+Translation: 我 没 什 么 可 以 回 来 的 。
+
+BOS i want you to meet my parents . EOS
+BOS 我 想 讓 你 見 見 我 的 父 母 。 EOS
+Translation: 我 想 見 你 四 里 面 。
+
+BOS my car cost more than yours did . EOS
+BOS 我 的 车 子 的 开 销 比 你 的 要 多 。 EOS
+Translation: 我 的 車 子 比 你 的 多 了 。
+
+BOS we know that all men are UNK . EOS
+BOS 我 們 知 道 人 皆 難 免 一 死 。 EOS
+Translation: 我 们 知 道 那 个 男 人 是 朋 友 。
+
+BOS here is a photograph of my family . EOS
+BOS 這 裡 有 一 張 我 全 家 的 照 片 。 EOS
+Translation: 这 儿 有 个 家 福 的 照 片 。
+
+BOS could you spare me a few minutes ? EOS
+BOS 你 能 为 我 腾 出 几 分 钟 时 间 吗 ? EOS
+Translation: 你 能 给 我 了 几 分 钟 ？
+
+BOS they came all the way from brazil . EOS
+BOS 他 们 从 巴 西 远 道 而 来 。 EOS
+Translation: 他 们 离 开 了 巴 西 。
+
+BOS i visited him a week ago today . EOS
+BOS 我 在 一 周 前 的 今 天 拜 訪 了 他 。 EOS
+Translation: 我 前 幾 天 拜 訪 了 他 。
+
+BOS i 'm looking forward to seeing him . EOS
+BOS 我 期 待 再 次 見 到 他 。 EOS
+Translation: 我 期 待 見 到 他 在 看 見 面 。
+
+BOS i could n't stand looking at it . EOS
+BOS 我 不 能 忍 受 就 這 樣 看 著 它 。 EOS
+Translation: 我 不 能 忍 受 它 。
+
+BOS she glanced UNK at the young man . EOS
+BOS 她 羞 UNK 地 看 了 一 眼 那 個 年 輕 人 。 EOS
+Translation: 她 年 轻 松 地 再 年 了 。
+
+BOS i was afraid i might be late . EOS
+BOS 我 怕 我 可 能 遲 到 了 。 EOS
+Translation: 我 怕 得 我 會 遲 到 。
+
+BOS who is the man playing the violin ? EOS
+BOS 那 個 正 在 拉 小 提 琴 的 男 人 是 誰 ? EOS
+Translation: 每 个 城 市 那 里 把 地 球 ？
+
+BOS i 'm old enough to support myself . EOS
+BOS 我 年 紀 夠 大 可 以 養 活 我 自 己 。 EOS
+Translation: 我 年 紀 夠 大 了 可 以 別 人 代 价 。
+
+BOS there were few people on the beach . EOS
+BOS 沙 灘 上 的 人 非 常 少 。 EOS
+Translation: 在 海 边 上 有 些 人 口 殺 人 。
+
+BOS we saw many ships in the harbor . EOS
+BOS 我 們 在 港 口 裡 看 到 了 許 多 船 。 EOS
+Translation: 我 们 在 须 体 养 了 比 赛 。
+
+BOS he knows how to make a radio . EOS
+BOS 他 知 道 如 何 做 收 音 机 。 EOS
+Translation: 他 知 道 如 何 打 分 手 。
+
+BOS i have a friend living in london . EOS
+BOS 我 有 一 個 住 在 倫 敦 的 朋 友 。 EOS
+Translation: 我 曾 經 生 活 。
+
+BOS the teacher made us repeat the word . EOS
+BOS 老 師 要 我 們 重 複 這 個 字 。 EOS
+Translation: 老 師 讓 我 們 重 複 了 這 個 字 相 機 。
+
+BOS please take more care in the future . EOS
+BOS 以 后 请 注 意 点 。 EOS
+Translation: 请 你 将 来 注 意 点 。
+
+BOS it will clear up in the afternoon . EOS
+BOS 今 天 下 午 天 氣 將 轉 晴 。 EOS
+Translation: 下 午 會 很 簡 單 。
+
+BOS have you finished writing the letter yet ? EOS
+BOS 你 信 寫 完 了 嗎 ？ EOS
+Translation: 你 写 信 了 吗 ？
+
+BOS she was very happy with my gift . EOS
+BOS 她 對 於 我 送 的 禮 物 感 到 很 開 心 。 EOS
+Translation: 她 很 快 地 用 我 的 禮 物 。
+
+BOS eat your soup before it gets cold . EOS
+BOS 趁 汤 没 凉 之 前 喝 下 。 EOS
+Translation: 你 的 湯 匙 媽 前 如 此 。
+
+BOS my uncle made me serve as interpreter . EOS
+BOS 我 舅 舅 讓 我 擔 任 翻 譯 。 EOS
+Translation: 我 叔 叔 讓 我 擔 任 翻 譯 。
+
+BOS i feel sad every now and then . EOS
+BOS 我 不 時 地 覺 得 難 過 。 EOS
+Translation: 我 常 覺 得 悲 傷 。
+
+BOS i 'm hearing that a lot lately . EOS
+BOS 我 最 近 听 说 了 不 少 。 EOS
+Translation: 我 已 經 接 到 了 很 多 年 的 历 。
+
+BOS be careful on your way back home . EOS
+BOS 回 家 的 路 上 注 意 安 全 。 EOS
+Translation: 当 心 你 回 家 的 。
+
+BOS i bet he does n't make it . EOS
+BOS 我 打 赌 他 没 搞 定 。 EOS
+Translation: 我 對 他 不 是 它 。
+
+BOS it is not easy to train dogs . EOS
+BOS UNK 練 狗 是 不 容 易 的 。 EOS
+Translation: 不 用 门 。
+
+BOS i want to have my own room . EOS
+BOS 我 想 要 有 我 自 己 的 房 间 。 EOS
+Translation: 我 要 我 們 自 己 的 房 間 。
+
+BOS when will it be convenient for you ? EOS
+BOS 什 麼 時 候 對 你 來 說 是 方 便 的 ？ EOS
+Translation: 你 什 么 时 候 方 便 ？
+
+BOS the road is too narrow for cars . EOS
+BOS 這 條 路 對 汽 車 來 說 太 窄 了 。 EOS
+Translation: 這 條 路 太 窄 汽 車 無 法 通 行 。
+
+BOS why did n't you follow my advice ? EOS
+BOS 你 為 什 麼 不 聽 我 的 忠 告 ？ EOS
+Translation: 为 什 么 你 不 怪 我 的 建 议 ？
+
+BOS they looked as if they would cry . EOS
+BOS 他 們 看 起 來 好 像 要 哭 了 。 EOS
+Translation: 天 他 们 哭 起 来 想 好 哭 了 。
+
+BOS i 'm really not happy about it . EOS
+BOS 我 對 此 真 不 高 興 。 EOS
+Translation: 我 真 是 不 高 兴 。
+
+BOS she has a dog and six cats . EOS
+BOS 她 有 一 只 狗 和 六 只 猫 。 EOS
+Translation: 她 有 一 条 狗 和 一 隻 貓 。
+
+BOS they say that he is very rich . EOS
+BOS 據 說 他 很 富 有 。 EOS
+Translation: 他 们 说 他 很 有 钱 。
+
+BOS one more bottle of wine , please . EOS
+BOS 麻 煩 再 來 一 瓶 葡 萄 酒 。 EOS
+Translation: 請 再 來 一 次 。
+
+BOS my house is just across the street . EOS
+BOS 我 的 房 子 就 在 對 街 。 EOS
+Translation: 我 的 房 子 就 在 街 對 面 。
+
+BOS he went away without saying a word . EOS
+BOS 他 沒 說 一 句 話 就 離 開 了 。 EOS
+Translation: 他 沒 有 遵 守 科 法 。
+
+BOS he was the first person to arrive . EOS
+BOS 他 是 第 一 個 到 達 的 人 。 EOS
+Translation: 他 是 会 第 5 人 之 前 到 达 日 本 。
+
+BOS i 'll wait here until she comes . EOS
+BOS 我 會 在 這 兒 等 著 直 到 她 來 。 EOS
+Translation: 我 会 在 这 儿 等 到 她 。
+
+BOS do you know how to speak english ? EOS
+BOS 你 知 道 怎 麼 說 英 語 嗎 ？ EOS
+Translation: 你 知 道 如 何 说 英 语 吗 ？
+
+BOS i think he 's a great writer . EOS
+BOS 我 认 为 他 是 位 伟 大 的 作 家 。 EOS
+Translation: 我 认 为 他 是 一 个 很 棒 的 作 家 。
+
+BOS he threw a rock into the pond . EOS
+BOS 他 扔 了 一 塊 石 頭 到 池 塘 裡 。 EOS
+Translation: 他 朝 养 活 一 块 酒 者 来 临 消 费 消 息 。
+
+BOS i ca n't face this life alone . EOS
+BOS 我 无 法 独 自 面 对 这 种 生 活 。 EOS
+Translation: 我 无 法 区 别 人 。
+
+BOS she 's asking how that 's possible . EOS
+BOS 她 问 这 怎 么 可 能 。 EOS
+Translation: 她 问 问 是 如 何 可 能 的 。
+
+BOS she kept him waiting half an hour . EOS
+BOS 她 讓 他 等 了 半 小 時 。 EOS
+Translation: 她 一 個 半 小 時 保 持 等 了 他 。
+
+BOS UNK deals with the stars and planets . EOS
+BOS 天 文 學 涉 及 UNK 星 和 行 星 。 EOS
+Translation: 这 与 星 期 在 星 期 一 起 飛 行 。
+
+BOS i suppose i felt a little jealous . EOS
+BOS 我 想 我 感 到 有 點 嫉 妒 。 EOS
+Translation: 我 认 为 我 感 觉 酒 抱 怨 。
+
+BOS she got on the subway at UNK . EOS
+BOS 她 在 銀 座 搭 乘 了 地 鐵 。 EOS
+Translation: 她 在 地 利 的 地 板 上 。
+
+BOS i have no idea who she is . EOS
+BOS 我 不 知 道 她 是 谁 。 EOS
+Translation: 我 没 主 意 。
+
+BOS i 've had enough of your excuses . EOS
+BOS 你 给 我 的 理 由 够 多 了 。 EOS
+Translation: 我 听 说 你 的 给 感 受 。
+
+BOS will you explain the rule to me ? EOS
+BOS 你 能 帮 我 说 明 一 下 规 则 吗 ？ EOS
+Translation: 你 能 否 請 了 我 戒 翻 譯 吗 ？
+
+BOS i know every UNK of new york . EOS
+BOS 我 对 纽 约 了 如 指 掌 。 EOS
+Translation: 我 知 道 问 题 。
+
+BOS he kicked the ball into the goal . EOS
+BOS 他 把 球 踢 進 了 球 門 。 EOS
+Translation: 他 被 這 個 會 議 演 學 習 了 。
+
+BOS they went to the station by car . EOS
+BOS 他 們 坐 車 去 車 站 。 EOS
+Translation: 他 們 開 車 去 車 站 。
+
+BOS bring me today 's paper , please . EOS
+BOS 請 幫 我 把 今 天 的 報 紙 帶 來 。 EOS
+Translation: 請 今 天 給 我 打 奶 。
+
+BOS i wish i were a good singer . EOS
+BOS 但 愿 我 是 一 个 好 歌 手 。 EOS
+Translation: 我 希 望 我 是 一 個 好 歌 手 。
+
+BOS he invented an excuse for being late . EOS
+BOS 他 为 他 的 迟 到 制 造 了 一 个 借 口 。 EOS
+Translation: 他 发 明 白 了 门 主 意 原 因 。
+
+BOS i have to be there by 7:00 . EOS
+BOS 我 七 點 鐘 必 須 在 那 裡 。 EOS
+Translation: 我 本 得 到 那 裡 大 学 。
+
+BOS she and i have nothing in common . EOS
+BOS 我 和 她 沒 有 共 同 之 處 。 EOS
+Translation: 她 跟 我 没 想 过 共 同 之 间 。
+
+BOS mary helped her mother with the cooking . EOS
+BOS 瑪 麗 幫 她 母 親 做 飯 。 EOS
+Translation: 瑪 麗 幫 忙 她 做 菜 。
+
+BOS he tried to UNK the various UNK . EOS
+BOS 他 試 著 統 一 不 同 的 團 體 。 EOS
+Translation: 他 試 任 何 冒 場 有 風 。
+
+BOS he retired at the age of 65 . EOS
+BOS 他 6 5 岁 退 了 休 。 EOS
+Translation: 他 的 第 5 岁 的 时 候 退 休 。
+
+BOS i 'd be happy to help you . EOS
+BOS 我 愿 意 帮 你 。 EOS
+Translation: 我 会 努 力 帮 你 。
+
+BOS i usually go to school by bus . EOS
+BOS 我 經 常 搭 公 車 上 學 。 EOS
+Translation: 我 通 常 上 學 。
+
+BOS tom knows how to behave in public . EOS
+BOS 汤 姆 知 道 在 公 众 场 合 怎 么 样 自 处 。 EOS
+Translation: 汤 姆 知 道 怎 么 从 众 离 开 。
+
+BOS new stamps will be UNK next month . EOS
+BOS 新 郵 票 將 於 下 個 月 發 行 。 EOS
+Translation: 一 个 新 纸 是 一 个 月 。
+
+BOS he had his car stolen last night . EOS
+BOS 昨 晚 他 的 車 被 偷 了 。 EOS
+Translation: 他 昨 晚 車 都 被 偷 了 他 的 車 。
+
+BOS i asked him to mend my shoes . EOS
+BOS 我 請 他 修 理 我 的 鞋 子 。 EOS
+Translation: 我 要 求 他 加 拿 我 的 鞋 子 。
+
+BOS my mother does n't like watching tv . EOS
+BOS 我 母 親 不 喜 歡 看 電 視 。 EOS
+Translation: 我 的 母 親 不 喜 歡 看 電 視 。
+
+BOS i helped my father wash his car . EOS
+BOS 我 幫 我 父 親 洗 他 的 車 。 EOS
+Translation: 我 幫 我 洗 他 的 车 。
+
+BOS i was very impressed by his story . EOS
+BOS 我 被 他 的 故 事 感 染 了 。 EOS
+Translation: 我 抓 到 他 的 故 事 停 留 下 来 。
+
+BOS i have to get to the hospital . EOS
+BOS 我 得 去 医 院 。 EOS
+Translation: 我 得 到 醫 院 。
+
+BOS two people can enter with this ticket . EOS
+BOS 兩 個 人 可 以 用 這 張 票 入 場 。 EOS
+Translation: 這 張 票 的 人 能 和 這 張 票 。
+
+BOS we had a good time playing cards . EOS
+BOS 我 們 打 牌 玩 得 很 開 心 。 EOS
+Translation: 我 们 有 时 打 牌 。
+
+BOS i 'm just a plain office worker . EOS
+BOS 我 只 是 一 個 普 通 的 上 班 族 。 EOS
+Translation: 我 只 是 一 场 用 的 上 班 族 。
+
+BOS i have no way of knowing that . EOS
+BOS 我 无 从 知 道 。 EOS
+Translation: 我 没 有 人 事 。
+
+BOS why ca n't he play tennis today ? EOS
+BOS 為 什 麼 他 今 天 不 能 打 網 球 呢 ？ EOS
+Translation: 他 今 天 不 会 打 网 球 ？
+
+BOS may i have a UNK , please ? EOS
+BOS 請 給 我 一 張 餐 巾 紙 好 嗎 ？ EOS
+Translation: 請 給 我 一 張 帳 嗎 ？
+
+BOS tom does n't mind helping mary occasionally . EOS
+BOS 汤 姆 不 介 意 偶 尔 给 予 玛 丽 帮 助 。 EOS
+Translation: 汤 姆 不 会 忘 记 在 玛 丽 报 告 。
+
+BOS english is studied in china , too . EOS
+BOS 在 中 國 的 人 也 研 讀 英 語 了 。 EOS
+Translation: 英 語 生 簡 直 學 習 。
+
+BOS tom does n't write to me anymore . EOS
+BOS 汤 姆 不 再 给 我 写 信 了 。 EOS
+Translation: 汤 姆 没 有 给 我 再 见 了 。
+
+BOS walk two UNK , and turn left . EOS
+BOS 走 過 兩 個 街 區 ， 然 後 左 轉 。 EOS
+Translation: 走 進 了 兩 點 ， 就 走 了 。
+
+BOS i play tennis once in a while . EOS
+BOS 我 偶 爾 打 網 球 。 EOS
+Translation: 我 每 次 打 开 门 。
+
+BOS i cut a UNK from the tree . EOS
+BOS 我 從 樹 上 砍 下 了 一 根 樹 枝 。 EOS
+Translation: 我 被 树 切 长 了 树 。
+
+BOS try to avoid making any more trouble . EOS
+BOS 盡 量 避 免 製 造 任 何 更 多 的 麻 煩 。 EOS
+Translation: 戰 爭 隨 時 戰 爭 論 。
+
+BOS i ca n't keep up with tom . EOS
+BOS 我 跟 不 上 汤 姆 。 EOS
+Translation: 我 無 法 跟 汤 姆 起 来 。
+
+BOS the old man gave the child shelter . EOS
+BOS 這 位 老 人 收 容 了 這 個 孩 子 。 EOS
+Translation: 這 位 老 師 給 了 這 個 孩 子 。
+
+BOS the boy was naked to the waist . EOS
+BOS 男 孩 赤 裸 着 上 身 。 EOS
+Translation: 這 個 男 孩 被 雪 擊 了 。
+
+BOS she does n't speak japanese at home . EOS
+BOS 她 在 家 不 說 日 語 。 EOS
+Translation: 她 不 會 說 日 語 。
+
+BOS i 'm staying at the hilton hotel . EOS
+BOS 我 留 在 希 尔 顿 宾 馆 。 EOS
+Translation: 我 在 2 字 館 裡 待 到 希 望 。
+
+BOS tom UNK the string to the kite . EOS
+BOS 湯 姆 把 繩 子 加 在 了 這 個 風 箏 上 。 EOS
+Translation: 汤 姆 给 波 士 顿 发 放 了 份 地 报 纸 。
+
+BOS do this work by tomorrow if possible . EOS
+BOS 如 果 可 能 的 话 ， 在 明 天 前 做 好 这 个 工 作 。 EOS
+Translation: 如 果 明 天 这 个 工 作 更 好 的 事 。
+
+BOS flying is the UNK way to travel . EOS
+BOS 搭 飛 機 是 最 快 的 旅 行 方 式 。 EOS
+Translation: 旅 行 最 快 的 方 式 旅 行 。
+
+BOS quite a few people have two cars . EOS
+BOS 不 少 人 有 兩 輛 汽 車 。 EOS
+Translation: 許 多 人 都 有 两 性 新 的 车 。
+
+BOS we have barely enough bread for breakfast . EOS
+BOS 我 们 早 饭 的 面 包 刚 够 吃 。 EOS
+Translation: 我 们 有 个 瓶 子 的 吃 早 餐 。
+
+BOS there 's narrow road to the village . EOS
+BOS 到 村 莊 有 條 窄 路 。 EOS
+Translation: 村 民 有 八 個 公 園 。
+
+BOS you had better not stay up late . EOS
+BOS 你 最 好 不 要 熬 夜 。 EOS
+Translation: 你 最 好 不 要 再 晚 出 。
+
+BOS i 'll leave this work to you . EOS
+BOS 我 會 把 這 個 工 作 留 給 你 。 EOS
+Translation: 我 會 把 這 個 工 作 關 於 你 的 事 。
+
+BOS you seem like a very smart person . EOS
+BOS 你 看 起 来 像 一 个 聪 明 人 。 EOS
+Translation: 你 看 起 来 像 个 一 样 聪 明 。
+
+BOS i heard tom UNK during the class . EOS
+BOS 我 聽 說 湯 姆 在 課 堂 上 打 UNK 。 EOS
+Translation: 我 听 汤 姆 在 课 堂 上 遇 。
+
+BOS we got a good price for that . EOS
+BOS 我 們 得 到 了 一 個 很 好 的 價 格 買 那 個 東 西 。 EOS
+Translation: 我 們 得 了 一 個 好 的 美 國 。
+
+BOS he could no longer stand the pain . EOS
+BOS 他 再 也 無 法 忍 受 這 種 痛 苦 。 EOS
+Translation: 他 不 再 忍 受 這 種 痛 苦 了 。
+
+BOS i could n't agree with his opinion . EOS
+BOS 我 不 同 意 他 的 看 法 。 EOS
+Translation: 我 不 同 意 他 的 看 法 。
+
+BOS he gave me a lecture on drinking . EOS
+BOS 他 因 我 喝 酒 而 UNK 斥 我 。 EOS
+Translation: 他 给 了 我 讲 块 表 。
+
+BOS she was scared to cross the road . EOS
+BOS 她 怕 過 馬 路 。 EOS
+Translation: 她 被 迫 求 當 時 過 馬 路 。
+
+BOS she is old enough to know better . EOS
+BOS 她 年 紀 夠 大 該 懂 事 了 。 EOS
+Translation: 她 年 紀 夠 大 可 以 瞭 望 她 一 切 。
+
+BOS all americans have to pay their taxes . EOS
+BOS 所 有 美 国 人 都 需 要 UNK 税 。 EOS
+Translation: 美 國 的 事 都 是 相 同 的 所 有 事 。
+
+BOS will she go to america next year ? EOS
+BOS 她 明 年 會 去 美 國 嗎 ? EOS
+Translation: 她 明 年 會 去 美 國 嗎 ？
+
+BOS he knows a lot about foreign affairs . EOS
+BOS 他 知 道 很 多 外 國 事 務 。 EOS
+Translation: 他 很 會 事 情 發 生 。
+
+BOS the UNK soon put out the fire . EOS
+BOS 消 防 隊 員 很 快 就 把 火 UNK UNK 了 。 EOS
+Translation: 很 快 就 下 地 走 了 火 。
+
+BOS i could n't stop myself from laughing . EOS
+BOS 我 不 能 忍 著 不 笑 。 EOS
+Translation: 我 阻 止 不 讓 他 們 在 笑 。
+
+BOS he got off at the next station . EOS
+BOS 他 在 下 一 站 下 車 了 。 EOS
+Translation: 他 下 一 站 的 路 。
+
+BOS riding double on a bicycle is dangerous . EOS
+BOS 腳 踏 車 雙 載 是 危 險 的 。 EOS
+Translation: 騎 腳 踏 車 是 危 險 的 。
+
+BOS i bought this watch at the store . EOS
+BOS 我 在 這 家 店 買 了 這 支 手 錶 。 EOS
+Translation: 我 在 這 家 商 店 買 了 這 頂 帽 子 。
+
+BOS we will visit our teacher next week . EOS
+BOS 下 周 我 们 要 去 看 望 我 们 的 老 师 。 EOS
+Translation: 我 們 下 週 要 去 看 我 們 的 老 師 。
+
+BOS he may be on the next train . EOS
+BOS 他 可 能 在 下 一 班 火 車 上 。 EOS
+Translation: 他 可 能 在 下 一 班 上 火 车 。
+
+BOS i 'm as tall as my father . EOS
+BOS 我 跟 我 父 親 一 樣 高 。 EOS
+Translation: 我 跟 我 爸 爸 一 樣 高 。
+
+BOS i 'm not fond of her face . EOS
+BOS 我 不 喜 歡 她 的 臉 。 EOS
+Translation: 我 不 是 她 的 臉 汽 車 。
+
+BOS excuse me . do you speak english ? EOS
+BOS 對 不 起 。 你 會 講 英 語 嗎 ？ EOS
+Translation: 對 於 你 說 英 語 嗎 ？
+
+BOS what time is it by your watch ? EOS
+BOS 你 表 上 是 几 点 ？ EOS
+Translation: 你 的 手 表 是 什 么 时 候 ？
+
+BOS you should be good to your neighbors . EOS
+BOS 你 应 该 对 邻 居 好 点 。 EOS
+Translation: 你 應 該 你 的 鄰 居 。
+
+BOS he was too young to live alone . EOS
+BOS 他 太 年 輕 了 無 法 獨 自 生 活 。 EOS
+Translation: 他 活 得 太 年 轻 了 。
+
+BOS she left her gloves in the car . EOS
+BOS 她 把 她 的 手 套 留 在 車 上 了 。 EOS
+Translation: 她 把 她 的 手 指 指 掉 了 他 的 手 套 。
+
+BOS she may be proud of her daughter . EOS
+BOS 她 可 以 为 她 的 女 儿 感 到 骄 傲 。 EOS
+Translation: 她 可 以 教 她 的 女 兒 。
+
+BOS tom did n't have dinner last night . EOS
+BOS 湯 姆 昨 晚 沒 吃 晚 餐 。 EOS
+Translation: 汤 姆 昨 晚 没 有 吃 晚 饭 。
+
+BOS i got scolded UNK by that teacher . EOS
+BOS 我 被 那 位 老 師 嚴 厲 斥 責 了 。 EOS
+Translation: 我 被 这 个 老 师 训 斥 了 。
+
+BOS he likes to smoke in the toilet . EOS
+BOS 他 喜 欢 在 厕 所 里 吸 烟 。 EOS
+Translation: 他 喜 歡 在 這 個 厕 所 所 的 厕 所 。
+
+BOS i 'm used to working all night . EOS
+BOS 我 習 慣 整 夜 工 作 。 EOS
+Translation: 我 习 惯 了 晚 工 作 。
+
+BOS what have you done with my pen ? EOS
+BOS 你 把 我 的 筆 怎 麼 了 ? EOS
+Translation: 你 把 我 的 筆 怎 麼 了 ?
+
+BOS ask at the police box over there . EOS
+BOS 問 那 邊 的 警 察 UNK 哨 。 EOS
+Translation: 在 那 里 问 题 。
+
+BOS where is the UNK tunnel in japan ? EOS
+BOS 日 本 最 长 的 隧 道 在 哪 里 ？ EOS
+Translation: 日 本 的 发 言 在 日 本 ？
+
+BOS i 'll boil the potatoes for you . EOS
+BOS 我 為 你 煮 馬 鈴 薯 。 EOS
+Translation: 我 來 靠 你 開 這 個 入 禮 物 。
+
+BOS i guess it 's only a joke . EOS
+BOS 估 计 那 就 是 个 笑 话 吧 。 EOS
+Translation: 我 猜 那 應 該 是 一 個 大 女 生 。
+
+BOS how old do you think tom is ? EOS
+BOS 你 觉 得 汤 姆 有 多 大 ？ EOS
+Translation: 你 觉 得 怎 么 样 ？
+
+BOS put the book on the top shelf . EOS
+BOS 把 書 放 在 最 上 面 的 架 子 上 。 EOS
+Translation: 把 书 放 在 了 书 架 上 。
+
+BOS i often go swimming in the river . EOS
+BOS 我 常 常 在 河 裡 游 泳 。 EOS
+Translation: 我 常 常 去 河 裡 游 泳 。
+
+BOS have you ever eaten a UNK pie ? EOS
+BOS 你 吃 过 香 蕉 派 吗 ？ EOS
+Translation: 你 吃 了 个 休 息 了 吗 ？
+
+BOS you can buy it at any bookstore . EOS
+BOS 你 可 以 在 任 何 一 家 書 店 買 到 它 。 EOS
+Translation: 你 能 以 上 发 现 任 何 书 。
+
+BOS his greatest fault is talking too much . EOS
+BOS 他 最 大 的 缺 点 就 是 话 太 多 。 EOS
+Translation: 他 的 律 乡 說 得 太 多 了 。
+
+BOS have you ever climbed mt . aso ? EOS
+BOS 你 曾 經 爬 過 阿 蘇 山 嗎 ？ EOS
+Translation: 你 曾 經 爬 過 了 繩 子 裡 的 橋 裡 。
+
+BOS kyoto is not as large as osaka . EOS
+BOS 京 都 不 如 大 阪 大 。 EOS
+Translation: 京 都 不 是 大 阪 。
+
+BOS she gave birth to a healthy baby . EOS
+BOS 她 生 下 了 一 個 健 康 的 嬰 兒 。 EOS
+Translation: 她 生 病 了 一 個 健 康 。
+
+BOS can you be ready to leave tomorrow ? EOS
+BOS 明 天 你 能 準 備 好 離 開 嗎 ？ EOS
+Translation: 你 明 天 可 以 准 备 好 嗎 ？
+
+BOS UNK food is UNK than UNK food . EOS
+BOS 台 灣 菜 比 印 度 菜 口 味 淡 。 EOS
+Translation: 美 食 物 比 做 費 多 。
+
+BOS i have no knife to cut with . EOS
+BOS 我 沒 有 刀 子 可 用 來 切 。 EOS
+Translation: 我 没 了 刀 切 切 切 。
+
+BOS i was surprised to see a lion . EOS
+BOS 我 很 驚 訝 竟 然 看 到 了 獅 子 。 EOS
+Translation: 我 很 惊 讶 。
+
+BOS i am busy cooking at the moment . EOS
+BOS 我 此 刻 正 忙 著 做 飯 。 EOS
+Translation: 我 一 边 就 忙 于 忙 饭 。
+
+BOS tom should n't have been here today . EOS
+BOS T o m 今 天 不 該 在 這 。 EOS
+Translation: 湯 姆 今 天 不 應 該 在 這 裡 的 。
+
+BOS i had my brother repair my bicycle . EOS
+BOS 我 让 我 哥 修 理 我 的 自 行 车 。 EOS
+Translation: 我 讓 我 的 哥 哥 修 理 我 的 腳 踏 車 。
+
+BOS i have no idea what to wear . EOS
+BOS 我 不 知 道 要 穿 什 麼 。 EOS
+Translation: 我 不 想 知 道 怎 麼 穿 的 事 。
+
+BOS i met him on my way home . EOS
+BOS 我 在 回 家 的 路 上 遇 到 了 他 。 EOS
+Translation: 在 我 回 家 的 路 上 ， 我 遇 見 了 他 。
+
+BOS he is likely to be late again . EOS
+BOS 他 可 能 又 遲 到 了 。 EOS
+Translation: 他 好 可 能 很 快 地 。
+
+BOS his hobby is painting pictures of flowers . EOS
+BOS 他 的 爱 好 是 画 有 花 的 图 。 EOS
+Translation: 他 的 嗜 好 是 她 的 花 。
+
+BOS she was very proud of her father . EOS
+BOS 她 為 她 的 父 親 感 到 非 常 驕 傲 。 EOS
+Translation: 她 非 常 地 以 她 父 親 為 榮 。
+
+BOS i live on the UNK of tokyo . EOS
+BOS 我 住 在 東 京 郊 區 。 EOS
+Translation: 我 住 在 東 京 。
+
+BOS how did you get to know mary ? EOS
+BOS 你 怎 麼 認 識 瑪 麗 的 ？ EOS
+Translation: 你 怎 么 认 识 她 的 ？
+
+BOS he read a book written in english . EOS
+BOS 他 讀 了 一 本 用 英 文 寫 的 書 。 EOS
+Translation: 他 用 英 文 寫 信 給 一 本 書 。
+
+BOS there are many ships in the harbor . EOS
+BOS 港 口 內 有 許 多 船 。 EOS
+Translation: 這 場 光 线 代 表 风 安 全 。
+
+BOS i 've worn holes in my socks . EOS
+BOS 我 把 襪 子 穿 破 了 。 EOS
+Translation: 我 对 自 己 的 衣 服 有 內 建 的 温 。
+
+BOS our team lost all of its games . EOS
+BOS 我 們 的 隊 伍 輸 了 所 有 的 比 賽 。 EOS
+Translation: 我 们 的 队 打 了 所 有 的 预 定 。
+
+BOS it may or may not be true . EOS
+BOS 這 可 能 是 真 的 ， 也 可 能 不 是 。 EOS
+Translation: 它 可 能 还 是 真 的 。
+
+BOS the path UNK up the UNK UNK . EOS
+BOS 這 條 小 路 沿 著 UNK UNK 的 UNK 坡 UNK UNK 而 上 。 EOS
+Translation: 把 七 名 椅 子 放 在 一 條 路 上 。
+
+BOS his parents expect too much of him . EOS
+BOS 他 父 母 对 他 期 望 过 高 。 EOS
+Translation: 他 的 父 母 曾 以 他 對 他 說 得 太 多 。
+
+BOS we just do n't have enough time . EOS
+BOS 我 们 没 有 足 够 的 时 间 了 。 EOS
+Translation: 我 们 还 有 足 够 的 。
+
+BOS i want tom to let mary finish . EOS
+BOS 我 希 望 汤 姆 让 玛 丽 完 成 。 EOS
+Translation: 我 想 让 汤 姆 做 完 。
+
+BOS i 'm tired of eating fast food . EOS
+BOS 我 受 够 吃 快 餐 了 。 EOS
+Translation: 我 厌 倦 吃 快 餐 了 。
+
+BOS she asked me where i was going . EOS
+BOS 她 問 了 我 要 去 哪 裡 。 EOS
+Translation: 她 問 我 我 去 哪 裡 。
+
+BOS i anticipate that there will be trouble . EOS
+BOS 我 預 料 會 有 麻 煩 。 EOS
+Translation: 我 会 到 那 里 来 的 麻 煩 了 。
+
+BOS fish can not live out of water . EOS
+BOS 魚 離 開 水 就 無 法 生 存 。 EOS
+Translation: 鱼 不 可 以 生 活 費 長 。
+
+BOS our problems are nothing compared to hers . EOS
+BOS 我 们 的 问 题 和 她 的 比 起 来 不 算 什 么 。 EOS
+Translation: 我 们 的 问 题 和 她 什 么 样 的 没 有 。
+
+BOS he 's three years older than me . EOS
+BOS 他 比 我 大 三 歲 。 EOS
+Translation: 他 比 我 大 三 岁 。
+
+BOS i had a feeling this might happen . EOS
+BOS 我 早 有 一 種 感 覺 這 可 能 會 發 生 。 EOS
+Translation: 我 早 就 有 感 覺 到 這 可 能 會 發 生 的 事 。
+
+BOS i was born in UNK in 1945 . EOS
+BOS 我 在 1 9 4 5 年 出 生 於 廣 島 。 EOS
+Translation: 我 出 生 於 1 9 4 5 2 月 1 4 2 日 。
+
+BOS how about going out to eat tonight ? EOS
+BOS 今 晚 出 去 吃 怎 么 样 ？ EOS
+Translation: 今 晚 出 去 吃 怎 么 样 ？
+
+BOS i guess that would be all right . EOS
+BOS 我 猜 那 應 該 可 以 的 。 EOS
+Translation: 我 想 那 應 該 沒 有 。
+
+BOS may i speak to you a minute ? EOS
+BOS 我 可 以 和 你 講 一 下 話 嗎 ? EOS
+Translation: 我 要 跟 你 說 一 個 時 間 嗎 ？
+
+BOS what do you think of this sweater ? EOS
+BOS 你 觉 得 这 件 毛 衣 怎 么 样 ？ EOS
+Translation: 你 觉 得 怎 么 做 这 件 衣 服 ？
+
+BOS he often stays up late at night . EOS
+BOS 他 經 常 在 晚 上 熬 夜 。 EOS
+Translation: 他 常 在 晚 上 很 晚 光 睡 覺 。
+
+BOS his office is very close to mine . EOS
+BOS 他 的 辦 公 室 跟 我 的 非 常 近 。 EOS
+Translation: 他 的 辦 公 室 離 不 可 能 。
+
+BOS you can say whatever you want to . EOS
+BOS 你 可 以 說 你 想 說 的 話 。 EOS
+Translation: 你 可 以 些 想 提 供 任 何 的 事 。
+
+BOS tom doubled his investment in a year . EOS
+BOS 汤 姆 一 年 内 增 加 了 一 倍 的 投 资 。 EOS
+Translation: 湯 姆 的 年 輕 鬆 得 很 多 。
+
+BOS the path UNK up the UNK UNK . EOS
+BOS UNK UNK 的 小 路 爬 上 了 UNK 坡 。 EOS
+Translation: 在 那 條 路 上 把 七 歲 的 路 上 誤 。
+
+BOS tom 's french is already rather good . EOS
+BOS 汤 姆 的 发 育 已 经 很 好 了 。 EOS
+Translation: 汤 姆 现 在 真 是 很 好 的 英 语 。
+
+BOS everyone in the class climbed the hill . EOS
+BOS 班 上 每 個 人 都 爬 上 了 這 個 山 坡 。 EOS
+Translation: 每 個 人 都 在 開 空 堂 上 班 。
+
+BOS a man suddenly appeared in the UNK . EOS
+BOS 一 个 男 的 突 然 出 现 在 门 口 。 EOS
+Translation: 人 突 然 在 前 都 中 央 停 下 來 。
+
+BOS rome has a lot of UNK buildings . EOS
+BOS 罗 马 有 很 多 古 建 筑 。 EOS
+Translation: 羅 馬 上 有 一 多 大 建 筑 。
+
+BOS arabic is read from right to left . EOS
+BOS 阿 拉 伯 语 要 从 右 往 左 读 。 EOS
+Translation: 進 來 的 路 程 容 易 地 被 請 了 。
+
+BOS i had a terrible dream last night . EOS
+BOS 昨 晚 我 作 了 一 個 可 怕 的 夢 。 EOS
+Translation: 昨 晚 ， 我 做 了 个 可 怕 的 。
+
+BOS there are many people in the park . EOS
+BOS 公 园 里 有 很 多 人 。 EOS
+Translation: 公 園 裡 有 许 多 人 。
+
+BOS i borrowed this comic from his sister . EOS
+BOS 我 向 他 的 妹 妹 借 了 這 個 漫 畫 。 EOS
+Translation: 我 跟 他 爸 爸 话 。
+
+BOS how long will this rain go on ? EOS
+BOS 雨 会 下 多 久 ？ EOS
+Translation: 这 要 下 多 久 ？
+
+BOS i have one brother and two sisters . EOS
+BOS 我 有 一 个 兄 弟 和 两 个 姐 妹 。 EOS
+Translation: 我 有 一 个 姐 妹 。
+
+BOS he is in london on business now . EOS
+BOS 他 現 在 在 倫 敦 洽 公 。 EOS
+Translation: 他 现 在 在 在 调 大 吧 。
+
+BOS i could n't agree with you more . EOS
+BOS 我 非 常 同 意 你 。 EOS
+Translation: 我 再 同 意 你 不 過 了 。
+
+BOS he goes to the office by car . EOS
+BOS 他 開 車 去 辦 公 室 。 EOS
+Translation: 他 走 路 車 去 。
+
+BOS he gave a nice present to me . EOS
+BOS 他 送 给 我 一 份 漂 亮 的 礼 物 。 EOS
+Translation: 他 给 了 我 一 份 不 错 。
+
+BOS i was in the garden all afternoon . EOS
+BOS 我 整 个 下 午 都 在 花 园 里 。 EOS
+Translation: 我 整 个 晚 都 在 花 园 里 。
+
+BOS he was sitting between mary and tom . EOS
+BOS 他 坐 在 瑪 麗 和 湯 姆 之 間 。 EOS
+Translation: 他 之 前 坐 在 汤 姆 。
+
+BOS he tried to speak french to us . EOS
+BOS 他 試 著 跟 我 們 講 法 語 。 EOS
+Translation: 他 努 力 学 我 们 说 法 语 。
+
+BOS i 'm coming to see you tomorrow . EOS
+BOS 我 明 天 會 來 看 你 。 EOS
+Translation: 我 明 天 来 看 见 你 。
+
+BOS the police will put you behind bars . EOS
+BOS 警 察 會 把 你 關 在 牢 裡 。 EOS
+Translation: 警 方 會 把 你 關 在 牢 裡 二 十 間 。
+
+BOS you may choose any book you like . EOS
+BOS 你 可 以 選 擇 任 何 你 喜 歡 的 書 。 EOS
+Translation: 你 可 以 選 擇 任 何 你 喜 歡 的 書 。
+
+BOS i wish i were a good singer . EOS
+BOS 但 願 我 是 一 個 好 歌 手 。 EOS
+Translation: 但 願 我 很 好 看 菜 。
+
+BOS they were busy working for social UNK . EOS
+BOS 他 们 忙 于 社 会 改 革 。 EOS
+Translation: 他 们 在 全 体 速 作 步 。
+
+BOS we receive many telephone calls from abroad . EOS
+BOS 我 們 接 到 許 多 來 自 國 外 的 電 話 。 EOS
+Translation: 我 们 在 国 外 面 接 电 话 。
+
+BOS i 'm not used to spicy food . EOS
+BOS 我 不 習 慣 辛 辣 的 食 物 。 EOS
+Translation: 我 没 过 任 何 食 物 。
+
+BOS how much does he spend per month ? EOS
+BOS 他 一 個 月 花 費 多 少 ？ EOS
+Translation: 他 一 個 月 上 多 少 時 間 ？
+
+BOS i have n't eaten anything since yesterday . EOS
+BOS 我 從 昨 天 起 沒 有 吃 任 何 東 西 。 EOS
+Translation: 我 從 昨 天 開 始 就 沒 有 吃 东 西 。
+
+BOS he has a good knowledge of french . EOS
+BOS 她 很 懂 法 語 。 EOS
+Translation: 他 有 一 个 法 语 幸 的 法 语 。
+
+BOS we moved to new york last fall . EOS
+BOS 我 們 去 年 秋 天 搬 到 了 紐 約 。 EOS
+Translation: 我 们 终 于 洗 了 六 次 的 新 布 响 了 。
+
+BOS i have n't heard that story yet . EOS
+BOS 我 還 沒 有 聽 過 那 個 故 事 。 EOS
+Translation: 我 還 沒 聽 到 那 個 故 事 。
+
+BOS this is the only book i have . EOS
+BOS 这 是 我 仅 有 的 一 本 书 。 EOS
+Translation: 這 是 我 一 本 書 。
+
+BOS i 'd like to see a doctor . EOS
+BOS 我 要 看 病 。 EOS
+Translation: 我 想 看 醫 生 。
+
+BOS that 's my younger sister 's photograph . EOS
+BOS 那 是 我 妹 妹 的 照 片 。 EOS
+Translation: 那 是 我 妹 妹 的 照 片 。
+
+BOS how did you get back so soon ? EOS
+BOS 你 怎 么 回 来 得 这 么 快 ？ EOS
+Translation: 你 多 麼 快 點 回 來 的 ?
+
+BOS that was you , was n't it ? EOS
+BOS 那 就 是 你 ， 不 是 么 ？ EOS
+Translation: 那 你 很 了 ， 没 有 吗 ？
+
+BOS she made a mess of the work . EOS
+BOS 她 把 工 作 弄 得 一 團 糟 。 EOS
+Translation: 她 工 作 做 得 亂 七 一 工 作 。
+
+BOS i have been warned against going there . EOS
+BOS 我 已 經 被 警 告 過 不 要 去 那 裡 。 EOS
+Translation: 我 從 那 裡 以 前 警 過 那 裡 。
+
+BOS i 'm just looking , thank you . EOS
+BOS 我 只 是 看 看 , 謝 謝 你 。 EOS
+Translation: 我 只 是 谢 ， 谢 你 。
+
+BOS i always get along well with him . EOS
+BOS 我 跟 他 總 是 相 處 得 很 好 。 EOS
+Translation: 我 跟 他 同 意 。
+
+BOS he made the best of the opportunity . EOS
+BOS 他 善 用 了 這 個 機 會 。 EOS
+Translation: 他 為 這 次 機 會 盡 力 而 為 。
+
+BOS i bought it at a department store . EOS
+BOS 我 在 百 貨 公 司 買 了 它 。 EOS
+Translation: 我 買 了 它 是 個 門 的 自 門 外 。
+
+BOS tom pushed his way through the crowd . EOS
+BOS 汤 姆 从 人 群 中 拥 出 来 。 EOS
+Translation: 汤 姆 在 建 立 了 他 的 群 式 。
+
+BOS which group do you want to join ? EOS
+BOS 你 想 加 入 哪 一 組 ？ EOS
+Translation: 你 想 进 来 的 路 ， 以 来 主 要 南 ?
+
+BOS i 'm glad to see you again . EOS
+BOS 很 高 興 再 次 見 到 你 。 EOS
+Translation: 我 很 高 興 再 次 見 到 你 。
+
+BOS what did you say your name was ? EOS
+BOS 你 說 你 叫 什 麼 名 字 ？ EOS
+Translation: 你 叫 什 麼 名 字 ?
+
+BOS i grew up in this small town . EOS
+BOS 我 在 這 個 小 鎮 上 長 大 的 。 EOS
+Translation: 我 在 這 個 鎮 上 長 大 。
+
+BOS have you bought a UNK ticket yet ? EOS
+BOS 你 买 彩 票 了 吗 ？ EOS
+Translation: 你 還 買 一 張 票 了 嗎 ？
+
+BOS he asked me if i was busy . EOS
+BOS 他 问 我 是 否 很 忙 ？ EOS
+Translation: 他 问 我 是 我 很 忙 ？
+
+BOS there are four people in my family . EOS
+BOS 我 家 有 四 個 人 。 EOS
+Translation: 我 家 的 人 在 我 的 等 。
+
+BOS i want to brush up my english . EOS
+BOS 我 要 溫 習 一 下 我 的 英 文 。 EOS
+Translation: 我 想 复 习 英 语 。
+
+BOS would you mind saying that once more ? EOS
+BOS 你 可 以 再 說 一 次 嗎 ？ EOS
+Translation: 你 要 再 說 一 次 好 嗎 ？
+
+BOS i 'm not as tall as you . EOS
+BOS 我 沒 有 你 高 。 EOS
+Translation: 我 不 跟 你 一 樣 高 。
+
+BOS i finished writing the letter by noon . EOS
+BOS 我 中 午 前 寫 完 這 封 信 了 。 EOS
+Translation: 我 完 成 了 閱 讀 英 國 的 。
+
+BOS he got UNK out of the house . EOS
+BOS 他 被 趕 出 了 這 棟 房 子 。 EOS
+Translation: 他 離 開 了 房 子 。
+
+BOS my father helped me with my homework . EOS
+BOS 我 爸 爸 幫 我 做 作 業 。 EOS
+Translation: 我 爸 爸 帮 我 做 了 我 的 作 业 。
+
+BOS he managed to make both ends meet . EOS
+BOS 他 設 法 使 收 支 平 UNK 。 EOS
+Translation: 他 設 法 长 得 主 出 。
+
+BOS you can call me anytime you like . EOS
+BOS 你 喜 欢 什 么 时 候 打 给 我 就 什 么 时 候 打 。 EOS
+Translation: 你 隨 時 可 以 打 電 話 給 我 。
+
+BOS there is enough light to read by . EOS
+BOS 有 足 夠 的 光 線 讀 書 。 EOS
+Translation: 遊 客 於 東 西 。
+
+BOS i am going to major in french . EOS
+BOS 我 將 主 修 法 文 。 EOS
+Translation: 我 要 学 习 法 语 。
+
+BOS it is absolutely impossible to do so . EOS
+BOS 絕 對 不 可 能 這 樣 做 的 。 EOS
+Translation: 這 樣 做 是 不 可 能 的 事 情 。
+
+BOS where is the bus stop for downtown ? EOS
+BOS 到 市 區 的 公 車 站 牌 在 哪 裡 ？ EOS
+Translation: 市 中 心 的 车 站 要 了 吗 ？
+
+BOS he UNK that he did not know . EOS
+BOS 他 回 答 说 他 不 知 道 。 EOS
+Translation: 他 不 知 道 他 是 这 事 。
+
+BOS will you live in sasayama next year ? EOS
+BOS 你 明 年 會 住 在 筱 山 嗎 ？ EOS
+Translation: 明 年 你 会 生 活 几 号 ？
+
+BOS he was scared you would shoot him . EOS
+BOS 他 害 怕 你 會 開 槍 打 他 。 EOS
+Translation: 他 被 你 会 怕 掉 他 的 威 胁 要 。
+
+BOS generally , men run faster than women . EOS
+BOS 一 般 來 說 , 男 人 比 女 人 跑 得 快 。 EOS
+Translation: 大 约 ， 一 个 月 光 和 女 性 跑 得 快 。
+
+BOS your behavior leaves much to be UNK . EOS
+BOS 你 的 行 为 离 要 求 的 太 远 了 。 EOS
+Translation: 你 的 行 光 榮 。
+
+BOS please call a taxi for this lady . EOS
+BOS 请 为 这 位 女 士 叫 辆 出 租 车 。 EOS
+Translation: 這 輛 計 程 車 載 手 你 去 看 禮 行 。
+
+BOS he has a remarkable UNK for music . EOS
+BOS 他 有 非 凡 的 音 樂 天 份 。 EOS
+Translation: 他 有 多 怪 日 文 子 。
+
+BOS i do n't trust him any more . EOS
+BOS 我 不 再 相 信 他 了 。 EOS
+Translation: 我 不 相 信 他 。
+
+BOS a boy is walking across the street . EOS
+BOS 一 个 男 孩 正 沿 着 街 走 。 EOS
+Translation: 他 是 一 个 穿 街 道 。
+
+BOS tom can swim as fast as you . EOS
+BOS 湯 姆 游 泳 可 以 游 得 跟 你 一 樣 快 。 EOS
+Translation: T o m 能 游 得 跟 你 一 樣 快 。
+
+BOS we do n't think it 's serious . EOS
+BOS 我 们 认 为 这 不 严 肃 。 EOS
+Translation: 我 们 不 起 认 为 这 个 怕 的 是 真 的 。
+
+BOS he asked if i liked chinese food . EOS
+BOS 他 問 我 是 否 喜 歡 中 國 菜 。 EOS
+Translation: 他 问 我 是 不 是 网 站 的 中 餐 。
+
+BOS we had a rest in the shade . EOS
+BOS 我 們 在 樹 蔭 下 休 息 。 EOS
+Translation: 我 们 休 息 一 下 降 落 下 。
+
+BOS we have many rainy days in june . EOS
+BOS 六 月 下 了 很 多 天 的 雨 。 EOS
+Translation: 我 们 在 六 月 间 很 多 雨 。
+
+BOS he is not ashamed of being poor . EOS
+BOS 他 不 因 貧 窮 而 感 到 羞 愧 。 EOS
+Translation: 他 不 害 羞 。
+
+BOS do your best in anything you do . EOS
+BOS 你 做 任 何 事 都 要 尽 全 力 。 EOS
+Translation: 做 你 最 好 任 何 事 情 。
+
+BOS i paid five dollars for the book . EOS
+BOS 我 花 了 五 元 買 這 本 書 。 EOS
+Translation: 我 付 了 五 塊 美 元 買 這 本 書 。
+
+BOS can you write a letter in english ? EOS
+BOS 你 會 用 英 語 寫 一 封 信 嗎 ？ EOS
+Translation: 你 能 写 信 吗 ？
+
+BOS this clock loses three minutes a day . EOS
+BOS 这 个 钟 每 天 慢 三 分 钟 。 EOS
+Translation: 這 個 時 兒 一 張 十 分 鐘 時 鐘 了 。
+
+BOS she thought that he was wasting electricity . EOS
+BOS 她 認 為 他 是 在 浪 費 電 。 EOS
+Translation: 她 认 为 他 在 外 面 。
+
+BOS i feel like taking a bath now . EOS
+BOS 我 現 在 想 洗 澡 。 EOS
+Translation: 我 想 現 在 想 洗 澡 。
+
+BOS would you like another glass of wine ? EOS
+BOS 你 想 再 来 杯 酒 吗 ？ EOS
+Translation: 你 要 再 來 一 杯 酒 嗎 ？
+
+BOS i helped my mother in the kitchen . EOS
+BOS 我 在 廚 房 裡 幫 媽 媽 。 EOS
+Translation: 我 幫 我 媽 媽 媽 在 廚 房 裡 。
+
+BOS it 's only a matter of time . EOS
+BOS 這 只 是 時 間 的 問 題 。 EOS
+Translation: 它 是 时 间 中 午 十 个 问 题 。
+
+BOS we left the final decision to him . EOS
+BOS 我 們 讓 他 做 最 後 的 決 定 。 EOS
+Translation: 我 们 终 于 达 了 他 的 决 定 。
+
+BOS this UNK is too small for me . EOS
+BOS 這 件 T UNK 太 小 了 。 EOS
+Translation: 這 個 比 我 來 說 太 小 了 。
+
+BOS i 'm at narita airport right now . EOS
+BOS 我 現 在 在 成 田 機 場 。 EOS
+Translation: 我 现 在 是 世 界 上 了 士 业 。
+
+BOS let us know when you 'll arrive . EOS
+BOS 讓 我 們 知 道 你 什 麼 時 候 會 到 。 EOS
+Translation: 我 们 到 你 场 学 会 吧 。
+
+BOS there used to be a bridge here . EOS
+BOS 以 前 這 裡 有 一 座 橋 。 EOS
+Translation: 這 裡 有 一 座 橋 在 这 儿 。
+
+BOS you must make up for the loss . EOS
+BOS 您 必 须 弥 补 损 失 。 EOS
+Translation: 你 应 该 干 活 。
+
+BOS i enjoyed driving on the new highway . EOS
+BOS 我 很 喜 歡 在 新 的 高 速 公 路 上 開 車 。 EOS
+Translation: 我 喜 歡 搭 新 飛 機 行 。
+
+BOS look at that picture on the desk . EOS
+BOS 看 看 桌 上 的 那 張 相 片 。 EOS
+Translation: 看 那 張 桌 子 。
+
+BOS how many times have you seen this ? EOS
+BOS 你 看 这 看 了 多 少 次 ？ EOS
+Translation: 你 覺 得 這 個 東 西 多 少 ?
+
+BOS what do you think i was doing ? EOS
+BOS 你 觉 得 我 在 干 吗 呢 ？ EOS
+Translation: 你 为 什 么 在 做 我 在 做 这 些 事 ？
+
+BOS wherever you go , i will follow . EOS
+BOS 無 論 你 到 哪 裡 ， 我 都 會 跟 著 你 。 EOS
+Translation: 無 論 你 去 哪 裡 ， 我 就 會 跟 著 你 。
+
+BOS how is it going with your family ? EOS
+BOS 你 打 算 和 你 的 家 人 去 做 什 么 ？ EOS
+Translation: 你 的 家 人 怎 麼 了 ？
+
+BOS i usually got to bed about eleven . EOS
+BOS 我 通 常 約 十 一 點 鐘 上 床 睡 覺 。 EOS
+Translation: 我 通 常 在 十 一 點 上 床 睡 覺 。
+
+BOS my car burns a lot of gas . EOS
+BOS 我 的 車 子 很 耗 油 。 EOS
+Translation: 我 的 車 子 爬 了 很 多 。
+
+BOS i always catch colds in the winter . EOS
+BOS 我 在 冬 季 總 是 感 冒 。 EOS
+Translation: 我 总 是 感 冒 持 感 冒 持 油 。
+
+BOS i have some pictures to show you . EOS
+BOS 我 有 一 些 照 片 給 你 看 。 EOS
+Translation: 我 必 须 事 你 要 再 看 一 些 图 片 。
+
+BOS tom is used to getting up early . EOS
+BOS 汤 姆 习 惯 早 起 。 EOS
+Translation: 汤 姆 習 得 很 早 。
+
+BOS pick up your things and go away . EOS
+BOS 收 好 你 的 东 西 ， 滚 出 去 。 EOS
+Translation: 你 走 路 以 后 同 意 。
+
+BOS tom spoke about the problem with mary . EOS
+BOS 汤 姆 跟 玛 丽 说 了 这 问 题 。 EOS
+Translation: 汤 姆 跟 玛 丽 说 了 什 么 ， 玛 丽 跟 玛 丽 讲 丽 在 问 题 。
+
+BOS how about going out for a walk ? EOS
+BOS 出 去 散 步 怎 麼 樣 ？ EOS
+Translation: 走 路 怎 麼 要 去 散 步 ？
+
+BOS visiting a foreign country must be expensive . EOS
+BOS 到 外 國 一 定 很 貴 。 EOS
+Translation: 參 觀 一 个 國 外 的 成 功 。
+
+BOS i caught the man stealing the money . EOS
+BOS 我 抓 到 了 這 個 男 人 正 在 偷 錢 。 EOS
+Translation: 我 抓 到 那 个 男 人 偷 了 钱 。
+
+BOS she can play the piano very well . EOS
+BOS 她 可 以 把 鋼 琴 彈 得 很 好 。 EOS
+Translation: 她 舞 鋼 琴 可 以 彈 得 很 好 。
+
+BOS do you know how to use this ? EOS
+BOS 你 知 道 怎 么 使 用 吗 ？ EOS
+Translation: 我 知 道 如 何 使 用 這 個 嗎 ？
+
+BOS she got very angry with her children . EOS
+BOS 她 对 她 的 孩 子 非 常 生 气 。 EOS
+Translation: 她 對 孩 子 很 生 氣 。
+
+BOS i 'm as hungry as a horse . EOS
+BOS 我 饿 得 跟 饿 虎 扑 羊 似 的 。 EOS
+Translation: 我 餓 得 像 匹 馬 。
+
+BOS they made their way toward the town . EOS
+BOS 他 們 往 小 鎮 方 向 去 了 。 EOS
+Translation: 他 們 走 進 了 他 們 的 參 加 派 對 。
+
+BOS no one 's going to find you . EOS
+BOS 没 有 人 要 去 找 你 。 EOS
+Translation: 你 没 有 找 到 你 。
+
+BOS it is becoming warmer day by day . EOS
+BOS 一 天 天 热 起 来 了 。 EOS
+Translation: 天 日 渐 回 暖 。
+
+BOS she promised not to go out alone . EOS
+BOS 她 答 應 不 單 獨 外 出 。 EOS
+Translation: 她 仍 然 别 信 守 一 個 人 走 。
+
+BOS he UNK a lot more than before . EOS
+BOS 他 比 以 前 重 得 多 。 EOS
+Translation: 他 比 以 前 比 以 前 更 多 。
+
+BOS how do you like your eggs done ? EOS
+BOS 您 要 什 麼 樣 的 蛋 ？ EOS
+Translation: 你 的 蛋 要 怎 麼 做 ?
+
+BOS he hit his head against a rock . EOS
+BOS 他 的 頭 撞 到 了 一 塊 岩 石 。 EOS
+Translation: 他 的 头 撞 掉 在 一 块 岩 石 。
+
+BOS mary is going to help us tomorrow . EOS
+BOS 瑪 麗 明 天 會 幫 我 們 。 EOS
+Translation: 瑪 麗 明 天 要 幫 助 我 們 。
+
+BOS he 's very UNK in his dress . EOS
+BOS 他 穿 着 上 很 不 讲 究 。 EOS
+Translation: 他 在 他 的 衣 服 上 很 熟 。
+
+BOS i was brought up by my grandmother . EOS
+BOS 我 被 我 的 祖 母 撫 養 長 大 。 EOS
+Translation: 我 是 我 到 了 我 祖 母 的 。
+
+BOS why did he do such a thing ? EOS
+BOS 为 什 么 他 会 做 这 样 的 事 呢 ？ EOS
+Translation: 他 為 什 麼 會 這 樣 做 事 ？
+
+BOS i want to talk to your uncle . EOS
+BOS 我 想 和 你 的 舅 舅 谈 一 谈 。 EOS
+Translation: 我 想 跟 你 叔 叔 叔 叔 。
+
+BOS he was afraid of being laughed at . EOS
+BOS 他 怕 被 嘲 笑 。 EOS
+Translation: 他 怕 面 以 前 怕 笑 笑 。
+
+BOS i ca n't imagine life without you . EOS
+BOS 我 無 法 想 像 沒 有 你 的 生 活 。 EOS
+Translation: 我 没 有 想 象 给 你 。
+
+BOS `` trust me , '' he said . EOS
+BOS “ 相 信 我 。 ” 他 说 。 EOS
+Translation: `` 誰 ， 我 相 信 了 。 ``
+
+BOS i bought it for about twelve dollars . EOS
+BOS 我 用 1 2 美 元 买 的 。 EOS
+Translation: 我 花 了 1 2 0 美 元 。
+
+BOS do you want to have sushi tonight ? EOS
+BOS 你 今 晚 想 吃 壽 司 嗎 ？ EOS
+Translation: 你 今 晚 想 要 壽 司 了 吗 ？
+
+BOS tom admitted that he had killed mary . EOS
+BOS 汤 姆 承 认 他 杀 死 了 玛 丽 。 EOS
+Translation: 認 為 他 愛 過 了 瑪 麗 。
+
+BOS my father takes a bath before supper . EOS
+BOS 我 的 父 親 在 晚 飯 前 洗 澡 。 EOS
+Translation: 我 爸 爸 在 浴 室 前 洗 了 个 澡 。
+
+BOS everybody knew she could speak english well . EOS
+BOS 大 家 都 知 道 她 的 英 语 说 得 很 好 。 EOS
+Translation: 大 家 都 知 道 她 能 說 英 語 。
+
+BOS japan is not rich in natural resources . EOS
+BOS 日 本 並 不 擁 有 豐 富 的 自 然 資 源 。 EOS
+Translation: 日 本 不 是 富 有 的 天 生 活 。
+
+BOS i got up at six this morning . EOS
+BOS 我 今 天 早 上 六 點 起 床 。 EOS
+Translation: 我 整 個 上 六 點 起 床 。
+
+BOS he lived in the center of london . EOS
+BOS 他 住 在 倫 敦 市 中 心 。 EOS
+Translation: 他 住 在 倫 敦 。
+
+BOS i had my bicycle stolen last night . EOS
+BOS 昨 晚 我 的 自 行 车 被 偷 了 。 EOS
+Translation: 昨 晚 我 的 自 行 车 被 偷 了 。
+
+BOS you are not coming , are you ? EOS
+BOS 你 不 會 來 ， 是 嗎 ？ EOS
+Translation: 你 不 是 ， 是 嗎 ？
+
+BOS japan depends on foreign countries for oil . EOS
+BOS 日 本 依 賴 外 國 的 石 油 。 EOS
+Translation: 日 本 的 國 民 主 油 漆 。
+
+BOS what do you usually do on sundays ? EOS
+BOS 你 週 日 通 常 做 什 麼 ? EOS
+Translation: 你 星 期 天 的 什 麼 時 候 一 下 班 ?
+
+BOS give this book to whoever wants it . EOS
+BOS 把 這 本 書 給 想 要 的 人 。 EOS
+Translation: 把 这 本 书 叫 。
+
+BOS she pulled him out of the mud . EOS
+BOS 她 把 他 从 烂 泥 中 UNK 出 来 了 。 EOS
+Translation: 她 把 他 清 楚 脱 口 了 這 裡 。
+
+BOS i 've finally got the whole set ! EOS
+BOS 我 終 於 擁 有 了 一 整 套 ! EOS
+Translation: 我 終 於 一 整 個 熱 了 。
+
+BOS did you make that mistake on purpose ? EOS
+BOS 你 故 意 犯 那 個 錯 的 嗎 ? EOS
+Translation: 你 做 错 了 那 个 故 事 吗 ？
+
+BOS she is busy preparing for the trip . EOS
+BOS 她 正 忙 著 準 備 這 次 旅 行 。 EOS
+Translation: 她 作 正 忙 著 旅 遊 式 。
+
+BOS i 'm glad to see you back . EOS
+BOS 很 高 兴 再 见 到 你 。 EOS
+Translation: 我 很 高 兴 见 到 您 。
+
+BOS they have been married for four years . EOS
+BOS 他 们 结 婚 已 经 四 年 了 。 EOS
+Translation: 他 們 已 經 結 四 十 年 了 。
+
+BOS only UNK did n't accept the invitation . EOS
+BOS 只 有 UNK 內 沒 有 接 受 邀 請 。 EOS
+Translation: 答 案 無 法 接 受 。
+
+BOS you 're drinking out of my cup . EOS
+BOS 你 正 在 把 我 杯 子 里 的 东 西 喝 掉 。 EOS
+Translation: 你 酒 後 她 做 了 我 的 事 。
+
+BOS i waited for her a long time . EOS
+BOS 我 等 她 好 长 时 间 了 。 EOS
+Translation: 我 等 她 很 長 的 時 間 。
+
+BOS why did she go to the station ? EOS
+BOS 為 什 麼 她 去 了 車 站 ? EOS
+Translation: 她 为 什 么 去 车 站 ？
+
+BOS every one of her songs was a hit . EOS
+BOS 她 的 每 首 歌 都 长 期 备 受 欢 迎 。 EOS
+Translation: 她 每 首 歌 都 长 期 备 受 欢 迎 。
+
+BOS i wonder if i hurt tom 's feelings . EOS
+BOS 我 不 知 道 我 是 不 是 伤 害 了 汤 姆 的 感 情 。 EOS
+Translation: 我 不 知 道 我 对 汤 姆 感 受 兴 趣 ， 这 感 觉 感 觉 。
+
+BOS i 'd like to work at the cafeteria . EOS
+BOS 我 想 在 餐 廳 工 作 。 EOS
+Translation: 我 要 自 助 餐 拜 堂 。
+
+BOS this is the best restaurant that i know . EOS
+BOS 这 是 我 所 知 道 的 最 好 的 餐 厅 。 EOS
+Translation: 这 是 我 知 道 的 最 好 的 餐 。
+
+BOS many UNK have english as a common language . EOS
+BOS 許 多 亞 洲 人 以 英 語 作 為 共 用 的 語 言 。 EOS
+Translation: 许 多 英 语 有 许 多 共 同 点 。
+
+BOS he could n't hold his temper any longer . EOS
+BOS 他 再 也 忍 不 住 气 了 。 EOS
+Translation: 他 没 有 抓 更 快 的 话 。
+
+BOS i want to go wherever you 're going . EOS
+BOS 我 想 去 你 要 去 的 地 方 。 EOS
+Translation: 我 想 要 你 去 哪 。
+
+BOS tom 's eyes were UNK to the UNK . EOS
+BOS T o m 的 眼 睛 被 UNK 幕 吸 引 住 了 。 EOS
+Translation: 汤 姆 在 看 上 了 你 的 眼 睛 。
+
+BOS the UNK UNK looked like a large UNK . EOS
+BOS 小 老 虎 看 起 來 像 隻 大 貓 。 EOS
+Translation: 它 看 起 了 一 個 大 樹 。
+
+BOS i am getting off at the next station . EOS
+BOS 我 下 一 站 下 车 。 EOS
+Translation: 我 下 一 站 的 路 车 。
+
+BOS it was dark when i reached the hotel . EOS
+BOS 我 到 旅 馆 的 时 候 ， 天 已 经 黑 了 。 EOS
+Translation: 我 天 然 後 的 候 候 就 是 这 个 国 家 。
+
+BOS i think you should take the test again . EOS
+BOS 我 的 意 见 是 ， 你 该 再 次 参 加 测 试 。 EOS
+Translation: 我 认 为 你 应 该 再 考 试 。
+
+BOS my uncle had me act as a UNK . EOS
+BOS 我 叔 叔 讓 我 擔 任 翻 譯 。 EOS
+Translation: 我 叔 叔 让 我 行 李 丢 了 行 。
+
+BOS i have no particular reason to do so . EOS
+BOS 我 没 有 特 别 的 理 由 去 做 。 EOS
+Translation: 我 对 这 事 没 有 做 什 么 。
+
+BOS i 'm not accustomed to getting up early . EOS
+BOS 我 不 習 慣 早 起 。 EOS
+Translation: 我 不 習 慣 早 起 。
+
+BOS i have ten pens more than you do . EOS
+BOS 我 比 你 多 1 0 支 钢 笔 。 EOS
+Translation: 我 比 你 有 5 支 筆 。
+
+BOS what i want is some peace and quiet . EOS
+BOS 我 所 想 要 的 是 一 点 平 和 和 安 静 。 EOS
+Translation: 我 想 要 可 爱 和 安 静 的 ， 别 多 少 。
+
+BOS what time did he say he 'd come ? EOS
+BOS 他 說 他 幾 點 鐘 會 來 ? EOS
+Translation: 他 說 了 什 麼 時 候 會 來 ？
+
+BOS you lied to me , did n't you ? EOS
+BOS 你 對 我 說 了 謊 , 沒 有 嗎 ? EOS
+Translation: 你 欺 騙 了 我 沒 有 買 過 你 。
+
+BOS are you going to visit any other countries ? EOS
+BOS 你 会 去 访 问 其 他 国 家 吗 ？ EOS
+Translation: 你 要 致 力 子 去 。
+
+BOS strictly speaking , the earth is not round . EOS
+BOS 嚴 格 來 說 ， 地 球 不 是 圓 的 。 EOS
+Translation: 要 是 波 士 顿 ， 不 是 现 在 。
+
+BOS he is not interested in art at all . EOS
+BOS 他 對 藝 術 一 點 也 不 感 興 趣 。 EOS
+Translation: 他 一 整 个 玩 具 是 很 有 兴 趣 。
+
+BOS i am a member of the tennis club . EOS
+BOS 我 是 网 球 俱 乐 部 的 会 员 。 EOS
+Translation: 我 是 网 球 俱 乐 部 的 会 员 。
+
+BOS we do n't have class on wednesday UNK . EOS
+BOS 我 们 周 三 下 午 没 课 。 EOS
+Translation: 我 们 周 三 周 。
+
+BOS do n't worry . you 'll make it . EOS
+BOS 不 要 擔 心 。 你 辦 得 到 的 。 EOS
+Translation: 别 擔 心 你 。
+
+BOS she kept me waiting for half an hour . EOS
+BOS 她 让 我 等 了 半 小 时 。 EOS
+Translation: 她 让 我 等 了 半 小 时 。
+
+BOS what would you think if i did that ? EOS
+BOS 如 果 我 那 么 做 你 会 怎 么 想 ？ EOS
+Translation: 那 你 想 我 做 了 什 麼 ?
+
+BOS tom does n't think this is a coincidence . EOS
+BOS 汤 姆 不 认 为 这 是 一 个 巧 合 。 EOS
+Translation: 汤 姆 可 认 为 这 是 个 巧 。
+
+BOS those records are not UNK to the public . EOS
+BOS 這 些 記 錄 不 對 公 眾 開 放 。 EOS
+Translation: 那 些 国 家 不 在 公 开 。
+
+BOS mary is the youngest of the three sisters . EOS
+BOS 玛 丽 是 三 姐 妹 中 的 老 UNK 。 EOS
+Translation: 玛 丽 最 后 的 姐 三 岁 。
+
+BOS he placed UNK on the importance of education . EOS
+BOS 他 强 调 了 教 育 的 重 要 性 。 EOS
+Translation: 他 把 长 信 亚 在 教 堂 大 。
+
+BOS i do n't want to go there again . EOS
+BOS 我 不 想 再 次 去 那 儿 。 EOS
+Translation: 我 不 想 再 去 那 儿 。
+
+BOS what time will the train get to yokohama ? EOS
+BOS 火 车 什 么 时 候 到 横 滨 ？ EOS
+Translation: 火 车 什 么 时 候 到 横 滨 ？
+
+BOS we ca n't get close to the enemy . EOS
+BOS 我 们 无 法 接 近 敌 人 。 EOS
+Translation: 我 们 不 能 乘 敌 人 的 水 。
+
+BOS let 's go and swim in the river . EOS
+BOS 讓 我 們 去 河 裡 游 泳 吧 。 EOS
+Translation: 我 們 去 河 裡 游 泳 。
+
+BOS have you ever seen such a nice film ? EOS
+BOS 你 看 过 这 么 好 看 的 电 影 吗 ？ EOS
+Translation: 你 看 過 這 部 分 一 場 很 好 奇 。
+
+BOS do you have a table on the patio ? EOS
+BOS 你 院 子 裡 有 桌 子 嗎 ? EOS
+Translation: 你 身 上 有 铅 笔 吗 ？
+
+BOS i 've decided to go a little further . EOS
+BOS 我 准 备 再 前 进 一 点 。 EOS
+Translation: 我 决 定 不 走 得 再 去 。
+
+BOS i saw a cat running after the dog . EOS
+BOS 我 见 一 只 猫 追 着 狗 跑 。 EOS
+Translation: 我 看 见 了 猫 在 门 后 。
+
+BOS he told me that he was busy then . EOS
+BOS 他 告 诉 我 他 那 时 很 忙 。 EOS
+Translation: 他 告 诉 我 他 很 忙 。
+
+BOS tom knows a lot of stuff about mary . EOS
+BOS 汤 姆 知 道 玛 丽 的 很 多 事 。 EOS
+Translation: 汤 姆 知 道 玛 丽 很 重 要 。
+
+BOS let 's wait here until he comes back . EOS
+BOS 讓 我 們 在 這 裡 等 他 直 到 他 回 來 。 EOS
+Translation: 从 这 儿 等 到 他 回 来 为 止 吧 。
+
+BOS why do n't you give it another try ? EOS
+BOS 你 為 什 麼 不 再 試 一 次 ? EOS
+Translation: 你 为 什 么 没 有 把 它 ？
+
+BOS she does n't know how to play golf . EOS
+BOS 她 不 知 道 怎 麼 打 高 爾 夫 球 。 EOS
+Translation: 她 不 知 道 怎 么 玩 游 戏 。
+
+BOS you really are lucky , are n't you ? EOS
+BOS 你 真 的 很 幸 運 ， 不 是 嗎 ？ EOS
+Translation: 你 真 高 興 ， 不 是 么 ？
+
+BOS i know that you know that i know . EOS
+BOS 我 知 道 你 知 道 我 知 道 。 EOS
+Translation: 我 知 道 你 知 道 我 知 道 我 知 道 。
+
+BOS it 's on the tip of my tongue . EOS
+BOS 它 在 我 的 舌 尖 上 。 EOS
+Translation: 我 所 有 的 假 思 都 是 我 的 。
+
+BOS tom will be there , wo n't he ? EOS
+BOS 汤 姆 会 去 那 里 ， 不 是 么 ？ EOS
+Translation: T o m 了 ， 他 不 会 在 这 里 吗 ？
+
+BOS i do n't want to fail my exams . EOS
+BOS 我 不 想 落 榜 。 EOS
+Translation: 我 不 想 考 试 失 败 。
+
+BOS i waited for my friend for an hour . EOS
+BOS 我 等 我 的 一 个 朋 友 等 了 一 小 时 。 EOS
+Translation: 我 等 我 的 一 个 朋 友 。
+
+BOS for that reason , he lost his job . EOS
+BOS 因 為 那 個 原 因 ， 他 失 去 了 工 作 。 EOS
+Translation: 對 他 的 工 作 是 ， 他 做 的 那 事 。
+
+BOS it 's about time we went to bed . EOS
+BOS 差 不 多 是 我 們 就 寢 的 時 間 了 。 EOS
+Translation: 我 们 正 睡 觉 了 。
+
+BOS i ca n't understand how tom could know . EOS
+BOS 我 不 懂 汤 姆 怎 么 知 道 的 。 EOS
+Translation: 我 不 知 道 怎 麼 能 不 能 了 解 汤 姆 。
+
+BOS there 's a place called UNK in UNK . EOS
+BOS 廣 島 有 一 個 地 方 叫 口 和 。 EOS
+Translation: 打 電 話 裡 有 一 個 地 球 。
+
+BOS i managed to repair my car by myself . EOS
+BOS 我 自 己 搞 定 ， 修 好 了 我 的 车 。 EOS
+Translation: 我 經 理 我 的 車 讓 我 幫 助 。
+
+BOS he was not able to open the box . EOS
+BOS 他 沒 有 能 力 打 開 箱 子 。 EOS
+Translation: 他 还 没 能 打 开 门 。
+
+BOS i want to climb mt . fuji again . EOS
+BOS 我 又 去 爬 了 一 次 富 士 山 。 EOS
+Translation: 我 想 再 試 一 次 富 士 山 。
+
+BOS we did n't have much rain last month . EOS
+BOS 上 個 月 我 們 這 兒 沒 有 下 很 多 雨 。 EOS
+Translation: 我 們 上 個 月 沒 有 很 多 。
+
+BOS i work for three hours every sunday morning . EOS
+BOS 我 每 个 周 末 早 上 工 作 三 小 时 。 EOS
+Translation: 我 每 天 早 上 工 作 三 個 小 時 。
+
+BOS this place has a mysterious atmosphere to it . EOS
+BOS 这 个 地 方 的 气 氛 很 神 秘 。 EOS
+Translation: 这 个 地 方 有 一 种 神 秘 的 气 氛 。
+
+BOS could i see you a minute , please ? EOS
+BOS 讓 我 看 你 一 會 兒 好 嗎 ? EOS
+Translation: 請 你 見 再 看 一 點 嗎 ？
+
+BOS do n't distract me while i am studying . EOS
+BOS 当 我 学 习 的 时 候 不 要 打 扰 我 。 EOS
+Translation: 我 学 习 的 时 候 不 要 打 扰 我 。
+
+BOS i 'll have to find a part-time job . EOS
+BOS 我 得 找 一 份 兼 職 工 作 。 EOS
+Translation: 我 要 找 一 份 兼 職 的 工 作 。
+
+BOS when i heard the news , i cried . EOS
+BOS 當 我 聽 到 這 個 消 息 ， 我 哭 了 。 EOS
+Translation: 當 我 听 到 了 消 息 ， 我 常 哭 消 哭 。
+
+BOS you really are tall , are n't you ? EOS
+BOS 你 真 的 很 高 ， 不 是 嗎 ？ EOS
+Translation: 你 真 高 了 ， 不 是 么 ？
+
+BOS we saw the child get on the bus . EOS
+BOS 我 们 看 见 孩 子 上 了 车 。 EOS
+Translation: 我 们 看 到 公 交 车 上 了 直 到 达 公 交 车 。
+
+BOS the man you saw yesterday was my uncle . EOS
+BOS 你 昨 天 看 到 的 那 个 男 人 是 我 叔 叔 。 EOS
+Translation: 你 昨 天 看 到 的 那 个 男 人 。
+
+BOS tom wants children , but mary does n't . EOS
+BOS 汤 姆 想 要 孩 子 ， 但 玛 丽 不 想 。 EOS
+Translation: 汤 姆 想 ， 但 玛 丽 不 个 孩 子 。
+
+BOS i do n't know where he comes from . EOS
+BOS 我 不 知 道 他 從 哪 裡 來 。 EOS
+Translation: 我 不 知 道 他 来 这 里 。
+
+BOS we 're getting a new car next month . EOS
+BOS 下 个 月 我 们 会 有 辆 新 车 。 EOS
+Translation: 我 們 下 個 月 要 搭 新 車 。
+
+BOS he UNK a large fortune before he died . EOS
+BOS 他 死 前 累 積 了 UNK 大 的 財 富 。 EOS
+Translation: 他 在 一 大 笔 前 往 他 一 大 阪 。
+
+BOS i have been a teacher for UNK years . EOS
+BOS 我 當 老 師 已 經 1 5 年 了 。 EOS
+Translation: 我 已 經 作 高 個 老 師 。
+
+BOS do n't ask questions . just follow me . EOS
+BOS 别 问 问 题 。 跟 着 我 就 行 。 EOS
+Translation: 不 要 問 題 。
+
+BOS you can do it , ca n't you ? EOS
+BOS 你 可 以 做 到 ， 不 是 嗎 ？ EOS
+Translation: 你 能 不 能 做 ， 不 是 吗 ？
+
+BOS i guess i 'll have to leave now . EOS
+BOS 我 想 我 現 在 得 走 了 。 EOS
+Translation: 我 想 我 现 在 得 走 了 。
+
+BOS would you pass me the salt , please ? EOS
+BOS 請 你 把 鹽 遞 給 我 好 嗎 ? EOS
+Translation: 請 你 把 鹽 遞 給 我 好 嗎 ？
+
+BOS you do n't want to be an UNK ? EOS
+BOS 你 不 想 做 编 辑 ？ EOS
+Translation: 你 不 想 是 事 ？
+
+BOS we will begin the party when he comes . EOS
+BOS 他 来 了 ， 我 们 就 开 始 派 对 。 EOS
+Translation: 当 我 们 开 始 他 从 行 开 始 。
+
+BOS i 'm not sure of the exact date . EOS
+BOS 我 不 知 道 確 切 的 日 期 。 EOS
+Translation: 我 确 定 当 然 不 确 实 。
+
+BOS doing that is a waste of your time . EOS
+BOS 做 那 事 是 浪 费 你 的 时 间 。 EOS
+Translation: 做 那 个 时 间 在 你 们 浪 费 时 间 。
+
+BOS he lived abroad for much of his life . EOS
+BOS 他 大 半 生 都 住 在 国 外 。 EOS
+Translation: 他 的 生 活 使 命 多 少 事 。
+
+BOS a parrot can UNK a person 's voice . EOS
+BOS 鸚 鵡 會 模 仿 人 的 聲 音 。 EOS
+Translation: 一 隻 覆 至 有 一 口 地 震 摧 毀 了 。
+
+BOS tom and mary UNK places on the bench . EOS
+BOS 汤 姆 和 玛 丽 在 长 凳 上 交 换 了 位 置 。 EOS
+Translation: 汤 姆 和 玛 丽 在 长 大 里 放 在 英 语 。
+
+BOS are there any english magazines in this library ? EOS
+BOS 這 間 圖 書 館 有 任 何 英 語 雜 誌 嗎 ? EOS
+Translation: 這 個 咖 啡 裡 有 任 何 英 文 書 嗎 ？
+
+BOS that student runs fast , does n't he ? EOS
+BOS 那 个 学 生 跑 得 很 快 ， 不 是 吗 ？ EOS
+Translation: 那 學 生 跑 了 ， 不 是 嗎 ?
+
+BOS i do n't want to hurt his feelings . EOS
+BOS 我 並 不 想 傷 害 他 的 感 情 。 EOS
+Translation: 我 不 想 ， 听 受 到 他 的 感 情 况 。
+
+BOS how are we going to pay for that ? EOS
+BOS 我 们 怎 么 付 钱 ？ EOS
+Translation: 那 我 们 该 往 那 个 ？
+
+BOS here is your dog . where is mine ? EOS
+BOS 这 是 你 的 狗 。 我 的 呢 ？ EOS
+Translation: 你 在 哪 儿 的 狗 ？
+
+BOS you can use my car if you like . EOS
+BOS 如 果 你 喜 歡 你 可 以 用 我 的 車 。 EOS
+Translation: 如 果 你 可 以 使 你 用 我 的 車 。
+
+BOS i did n't go to school last monday . EOS
+BOS 上 周 一 我 没 去 上 学 。 EOS
+Translation: 周 一 我 没 去 上 学 。
+
+BOS tom got first prize , did n't he ? EOS
+BOS 湯 姆 得 了 第 一 名 ， 不 是 嗎 ? EOS
+Translation: 汤 姆 又 成 了 信 ， 不 是 自 己 ？
+
+BOS he is not a doctor but a teacher . EOS
+BOS 他 不 是 医 生 ， 他 是 教 师 。 EOS
+Translation: 他 不 是 一 名 教 一 个 人 而 生 。
+
+BOS this chair is really comfortable to sit on . EOS
+BOS 这 个 椅 子 坐 着 真 舒 服 。 EOS
+Translation: 这 把 椅 子 放 着 很 舒 服 。
+
+BOS you can stay as long as you like . EOS
+BOS 你 想 要 待 多 久 就 待 多 久 。 EOS
+Translation: 你 想 待 多 久 ？
+
+BOS she 's good at UNK the price down . EOS
+BOS 她 很 善 于 砍 价 。 EOS
+Translation: 她 的 生 故 障 了 。
+
+BOS the teacher said that the earth is round . EOS
+BOS 老 師 說 地 球 是 圓 的 。 EOS
+Translation: 老 師 跟 一 個 老 師 。
+
+BOS i do n't really use facebook that much . EOS
+BOS 我 並 沒 有 花 那 麼 多 時 間 在 F a c e b o o k 上 。 EOS
+Translation: 我 不 是 很 用 F a c e b o o o k 这 份 F a c e b o o o k 的 那 么 代 。
+
+BOS how far is it from here to ueno ? EOS
+BOS 從 這 裡 到 上 野 有 多 遠 ? EOS
+Translation: 從 這 裡 到 下 個 下 雨 中 的 多 少 ？
+
+BOS my mother gets up early in the morning . EOS
+BOS 我 妈 妈 早 上 早 起 。 EOS
+Translation: 我 媽 媽 媽 早 起 床 。
+
+BOS would you please wait for a few minutes ? EOS
+BOS 请 您 等 几 分 钟 好 吗 ？ EOS
+Translation: 能 不 要 请 你 等 几 分 钟 吗 ？
+
+BOS tom 's good , but not good enough . EOS
+BOS 汤 姆 好 ， 但 不 够 好 。 EOS
+Translation: 汤 姆 很 好 ， 但 是 不 是 玛 丽 不 好 。
+
+BOS you should make an effort to stop smoking . EOS
+BOS 你 應 該 努 力 去 戒 煙 。 EOS
+Translation: 你 應 該 要 再 抽 菸 ， 你 必 须 停 止 。
+
+BOS the fuel UNK in the car is full . EOS
+BOS 汽 車 油 箱 是 滿 的 。 EOS
+Translation: 汽 车 挤 满 了 火 。
+
+BOS he became more obstinate as he grew older . EOS
+BOS 他 年 紀 越 大 變 得 越 UNK 固 。 EOS
+Translation: 他 更 长 大 地 方 5 岁 。
+
+BOS he 's going to have a heart attack . EOS
+BOS 他 的 心 臟 病 要 發 作 了 。 EOS
+Translation: 他 一 次 選 擇 得 知 标 。
+
+BOS it 's almost time for the cherry blossoms . EOS
+BOS 幾 乎 是 櫻 花 UNK 放 的 時 候 了 。 EOS
+Translation: 花 了 很 多 时 间 请 花 光 花 。
+
+BOS i 'm looking for a room for rent . EOS
+BOS 我 在 找 一 間 出 租 的 房 間 。 EOS
+Translation: 我 正 在 找 一 个 租 车 。
+
+BOS i thought that you wanted to see me . EOS
+BOS 我 以 为 你 想 见 我 呢 。 EOS
+Translation: 我 認 為 你 想 我 看 看 。
+
+BOS i envy the UNK tom and mary have . EOS
+BOS 我 羨 慕 T o m 和 M a r y 之 間 的 友 誼 。 EOS
+Translation: 我 嫉 妒 汤 姆 和 玛 丽 有 一 个 。
+
+BOS a woman visited us while you were sleeping . EOS
+BOS 您 睡 觉 的 时 候 ， 一 个 女 人 来 看 过 我 们 。 EOS
+Translation: 你 睡 觉 的 时 候 ， 一 个 女 人 来 看 过 我 们 。
+
+BOS i met him while i was coming home . EOS
+BOS 當 我 回 家 時 ， 我 遇 見 了 他 。 EOS
+Translation: 我 在 回 家 的 时 候 見 了 他 。
+
+BOS i 'm going to visit him next week . EOS
+BOS 下 禮 拜 我 要 去 拜 訪 她 一 下 。 EOS
+Translation: 我 下 周 一 去 看 他 。
+
+BOS i have n't made up my mind yet . EOS
+BOS 我 還 沒 有 下 定 決 心 。 EOS
+Translation: 我 還 沒 有 拿 定 主 意 。
+
+BOS you made the same mistake as last time . EOS
+BOS 你 犯 了 跟 上 次 相 同 的 錯 誤 。 EOS
+Translation: 你 做 得 和 的 时 候 起 来 。
+
+BOS tom was excited to go to the concert . EOS
+BOS 汤 姆 为 去 音 乐 会 而 激 动 。 EOS
+Translation: 汤 姆 在 音 乐 会 的 。
+
+BOS he has no sense of right and wrong . EOS
+BOS 他 是 非 不 分 。 EOS
+Translation: 他 沒 有 作 所 得 通 。
+
+BOS there used to be a store right here . EOS
+BOS 这 里 以 前 有 个 商 店 。 EOS
+Translation: 這 裡 以 前 有 一 家 旅 館 。
+
+BOS i do n't like the way he talks . EOS
+BOS 我 不 喜 歡 他 講 話 的 樣 子 。 EOS
+Translation: 我 不 喜 歡 他 險 。
+
+BOS my room is twice as big as his . EOS
+BOS 我 的 房 間 是 他 的 兩 倍 大 。 EOS
+Translation: 我 的 房 間 兩 個 大 兩 個 小 房 間 。
+
+BOS that music is worth listening to many times . EOS
+BOS 这 音 乐 值 得 听 许 多 次 。 EOS
+Translation: 那 個 音 樂 會 聽 到 厭 煩 的 歌 。
+
+BOS did n't you write a letter to him ? EOS
+BOS 你 沒 寫 信 給 他 嗎 ？ EOS
+Translation: 你 沒 寫 信 嗎 ?
+
+BOS would you leave the door open , please ? EOS
+BOS 請 你 讓 門 開 著 好 嗎 ? EOS
+Translation: 請 你 把 門 打 開 。
+
+BOS you do n't believe tom , do you ? EOS
+BOS 你 不 信 任 汤 姆 ， 对 吗 ？ EOS
+Translation: 你 相 信 汤 姆 ， 不 是 吗 ？
+
+BOS i want to UNK this point in particular . EOS
+BOS 我 想 特 别 强 调 这 一 点 。 EOS
+Translation: 我 想 要 这 药 方 面 很 想 要 。
+
+BOS i 'd like to stay for one night . EOS
+BOS 我 想 待 一 夜 。 EOS
+Translation: 我 要 在 晚 上 呆 一 个 呆 。
+
+BOS according to the newspaper , he committed suicide . EOS
+BOS 據 報 紙 上 說 ， 他 自 殺 了 。 EOS
+Translation: 报 纸 i 的 报 纸 放 到 了 ， 他 自 己 杀 了 。
+
+BOS how many hours a day do you sleep ? EOS
+BOS 你 每 天 睡 几 个 小 时 ？ EOS
+Translation: 你 睡 多 少 天 床 ？
+
+BOS we 'll change trains at the next station . EOS
+BOS 我 們 會 在 下 一 站 換 火 車 。 EOS
+Translation: 我 們 下 一 站 換 火 車 。
+
+BOS a fire broke out the day before yesterday . EOS
+BOS 前 天 發 生 了 火 災 。 EOS
+Translation: 昨 天 晚 上 發 生 了 一 天 。
+
+BOS the prisoner was behind bars for two months . EOS
+BOS 那 個 囚 犯 在 牢 裡 待 了 兩 個 月 。 EOS
+Translation: 囚 犯 重 獲 了 两 个 月 中 的 足 。
+
+BOS you have lovely eyes , do n't you ? EOS
+BOS 你 有 一 雙 可 愛 的 眼 睛 ， 不 是 嗎 ? EOS
+Translation: 你 有 很 多 眼 睛 ， 不 是 吗 ？
+
+BOS you had better be careful not to UNK . EOS
+BOS 你 最 好 小 心 不 要 吃 過 量 。 EOS
+Translation: 你 最 好 不 要 一 點 。
+
+BOS may i have a road map , please ? EOS
+BOS 請 給 我 一 張 路 線 圖 。 EOS
+Translation: 我 可 以 在 哪 裡 一 張 地 圖 ？
+
+BOS there 's no use crying over spilt milk . EOS
+BOS 為 打 翻 的 牛 奶 而 哭 泣 是 沒 用 的 。 EOS
+Translation: 為 濺 出 的 牛 奶 哭 也 沒 用 。
+
+BOS UNK ’ t forget where you put it . EOS
+BOS 不 要 忘 記 你 放 在 哪 裡 。 EOS
+Translation: 你 在 忘 记 把 你 之 后 把 它 放 在 清 的 。
+
+BOS the UNK discovered a UNK in the cave . EOS
+BOS 探 险 家 们 在 洞 UNK 里 发 现 了 骸 骨 。 EOS
+Translation: 發 展 在 演 發 展 玩 。
+
+BOS you should n't tell him anything about her . EOS
+BOS 你 不 應 該 告 訴 他 任 何 關 於 她 的 事 。 EOS
+Translation: 你 不 该 告 诉 他 任 何 事 情 的 事 情 。
+
+BOS i do n't like to sing in public . EOS
+BOS 我 不 喜 歡 在 公 共 場 合 唱 歌 。 EOS
+Translation: 我 开 车 不 喜 欢 大 学 。
+
+BOS i never thought something like that could happen . EOS
+BOS 我 从 来 没 想 到 会 发 生 那 种 事 。 EOS
+Translation: 我 从 没 想 到 会 发 生 那 种 事 。
+
+BOS he is up to his ears in debt . EOS
+BOS 他 UNK 身 是 债 。 EOS
+Translation: 他 打 厌 倦 了 他 呼 吸 放 酒 。
+
+BOS i do n't know anything about his past . EOS
+BOS 我 不 知 道 任 何 有 關 他 過 去 的 事 。 EOS
+Translation: 我 不 知 道 任 何 事 。
+
+BOS i 'd like to go to the UNK . EOS
+BOS 我 想 去 商 场 。 EOS
+Translation: 我 想 去 。
+
+BOS there was a lot of snow last winter . EOS
+BOS 去 年 冬 天 下 了 好 多 雪 。 EOS
+Translation: 去 年 冬 天 很 多 雪 。
+
+BOS the same thing is happening here in boston . EOS
+BOS 同 樣 的 事 在 這 － 波 士 頓 發 生 。 EOS
+Translation: 这 里 的 主 意 在 波 士 顿 。
+
+BOS do you know whether she can speak english ? EOS
+BOS 你 知 道 她 是 否 會 講 英 語 嗎 ？ EOS
+Translation: 你 知 道 她 是 否 會 講 英 語 嗎 ？
+
+BOS the end does not always UNK the means . EOS
+BOS 為 了 正 當 目 的 並 非 總 是 可 以 不 擇 手 段 . EOS
+Translation: 顧 光 星 期 的 未 是 不 可 能 的 。
+
+BOS i have nothing to do with this matter . EOS
+BOS 我 跟 這 件 事 無 關 。 EOS
+Translation: 我 对 这 问 题 没 有 什 么 事 。
+
+BOS i can see you 're good at this . EOS
+BOS 我 看 你 擅 长 做 这 事 。 EOS
+Translation: 我 能 看 到 你 能 看 这 个 。
+
+BOS cherry trees are now in bloom in washington . EOS
+BOS 华 盛 顿 的 UNK 花 现 在 开 放 。 EOS
+Translation: 櫻 花 光 在 花 區 裡 的 時 候 盛 開 。
+
+BOS this is the church where we got married . EOS
+BOS 這 裡 是 我 們 結 婚 的 教 堂 。 EOS
+Translation: 這 是 我 們 的 座 教 堂 的 位 老 師 。
+
+BOS the children go to school in the morning . EOS
+BOS 孩 子 们 早 上 去 学 校 。 EOS
+Translation: 照 顾 小 孩 走 上 周 末 。
+
+BOS i 'm a member of the swimming club . EOS
+BOS 我 是 游 泳 俱 樂 部 的 會 員 。 EOS
+Translation: 我 是 游 泳 社 的 成 員 。
+
+BOS it 's about the size of an egg . EOS
+BOS 它 的 大 小 就 像 雞 蛋 。 EOS
+Translation: 蛋 是 一 个 美 丽 的 美 元 。
+
+BOS the internet is an UNK UNK of information . EOS
+BOS 互 联 网 是 一 种 无 法 估 量 的 信 息 资 源 。 EOS
+Translation: 流 利 的 網 路 是 一 份 有 用 的 信 息 。
+
+BOS someday i will buy a UNK candy machine . EOS
+BOS 有 一 天 我 买 了 一 台 UNK 花 糖 机 。 EOS
+Translation: 我 要 买 一 台 M a r y 的 灯 台 机 。
+
+BOS his house is n't far from this store . EOS
+BOS 他 家 离 这 间 商 店 不 远 。 EOS
+Translation: 他 家 離 這 兒 不 遠 。
+
+BOS can you tell me a little about yourself ? EOS
+BOS 你 能 稍 微 告 诉 我 关 于 自 己 的 事 情 吗 ？ EOS
+Translation: 你 能 告 诉 我 一 点 吗 ？
+
+BOS it 's UNK to park your car here . EOS
+BOS 把 車 停 在 這 裡 是 違 法 的 。 EOS
+Translation: 在 這 裡 是 你 的 車 站 。
+
+BOS please remind me to mail the report tomorrow . EOS
+BOS 请 提 醒 我 明 天 把 报 告 寄 了 。 EOS
+Translation: 請 讓 我 清 掃 報 告 。
+
+BOS i love you more than you love me . EOS
+BOS 我 愛 你 多 於 你 愛 我 。 EOS
+Translation: 我 愛 你 愛 我 。
+
+BOS what we need is a little more time . EOS
+BOS 我 们 就 需 要 再 多 一 点 时 间 。 EOS
+Translation: 我 们 需 要 更 多 时 间 。
+
+BOS she saw a young man at the entrance . EOS
+BOS 她 在 入 口 看 到 一 個 年 輕 男 人 。 EOS
+Translation: 她 在 睡 觉 的 路 上 看 到 了 九 十 名 字 。
+
+BOS do n't let her go out after dark . EOS
+BOS 天 黑 後 不 要 讓 她 出 門 。 EOS
+Translation: 後 天 她 不 要 出 门 。
+
+BOS we were just about to enter the room . EOS
+BOS 我 们 正 要 进 房 间 。 EOS
+Translation: 我 们 正 要 达 理 房 间 。
+
+BOS i wrote the wrong address on the envelope . EOS
+BOS 我 在 信 封 上 写 错 了 地 址 。 EOS
+Translation: 我 把 地 放 了 地 址 設 法 。
+
+BOS he told me to be kind to others . EOS
+BOS 他 叫 我 对 别 人 好 一 点 。 EOS
+Translation: 他 告 诉 我 不 好 他 別 人 。
+
+BOS do you take part in any UNK activities ? EOS
+BOS 你 参 加 社 团 活 动 吗 ？ EOS
+Translation: 你 们 的 预 期 一 部 分 享 受 吗 ？
+
+BOS our UNK does n't give us any milk . EOS
+BOS 我 們 的 乳 牛 沒 有 給 我 們 任 何 牛 奶 。 EOS
+Translation: 我 们 没 有 给 我 们 的 牛 奶 。
+
+BOS tom did it the same way i did . EOS
+BOS 汤 姆 我 按 我 做 的 办 法 做 了 。 EOS
+Translation: 汤 姆 是 我 同 样 的 。
+
+BOS the trip will take at least a week . EOS
+BOS 这 次 旅 行 至 少 得 花 一 星 期 时 间 。 EOS
+Translation: 旅 行 一 週 要 接 至 少 有 時 。
+
+BOS i want to marry a girl like her . EOS
+BOS 我 想 和 一 个 像 她 那 样 的 女 孩 结 婚 。 EOS
+Translation: 我 想 和 她 妈 姐 姐 。
+
+BOS i 'll bring my sister to the party . EOS
+BOS 我 會 帶 我 妹 妹 去 派 對 。 EOS
+Translation: 我 要 我 帶 我 姐 妹 會 。
+
+BOS tom ca n't go home until after 2:30 . EOS
+BOS 汤 姆 在 2 ： 3 0 之 后 才 能 回 家 。 EOS
+Translation: T o m 三 後 ， 不 能 回 家 。
+
+BOS i worked three years as tom 's assistant . EOS
+BOS 我 给 汤 姆 当 了 三 年 助 手 。 EOS
+Translation: 我 一 次 工 作 得 加 拿 大 了 汤 姆 的 帮 助 。
+
+BOS you have the same racket as i have . EOS
+BOS 你 的 球 拍 跟 我 的 一 樣 。 EOS
+Translation: 你 有 和 我 同 一 樣 的 拍 照 。
+
+BOS i could n't bear to look at her . EOS
+BOS 我 无 法 忍 受 看 着 她 。 EOS
+Translation: 我 忍 受 不 了 她 的 丈 夫 。
+
+BOS he often goes with her to watch movies . EOS
+BOS 他 常 和 她 一 起 去 看 电 影 。 EOS
+Translation: 他 经 常 让 她 去 看 電 影 。
+
+BOS close your eyes , and count to ten . EOS
+BOS 閉 上 你 的 眼 睛 ， 然 後 數 到 十 。 EOS
+Translation: 闭 上 你 的 眼 睛 ， 十 分 数 目 。
+
+BOS he does n't know how to play golf . EOS
+BOS 他 不 知 道 如 何 打 高 爾 夫 球 。 EOS
+Translation: 他 不 知 道 如 何 打 高 爾 夫 球 。
+
+BOS i want it to be different this time . EOS
+BOS 我 想 让 这 次 变 得 不 一 样 。 EOS
+Translation: 我 想 是 时 间 。
+
+BOS he wo n't go on to graduate school . EOS
+BOS 他 不 會 繼 續 去 上 研 究 所 。 EOS
+Translation: 他 不 會 去 學 校 。
+
+BOS both of her sons died during the war . EOS
+BOS 她 的 孩 子 都 死 于 战 乱 。 EOS
+Translation: 她 的 两 个 儿 子 都 成 了 她 的 两 个 儿 。
+
+BOS you ca n't build buildings on UNK UNK . EOS
+BOS 你 不 能 在 UNK 澤 地 上 建 造 建 築 物 。 EOS
+Translation: 你 不 能 建 筑 。
+
+BOS tom ca n't sleep without a light on . EOS
+BOS T o m 没 办 法 在 没 有 亮 灯 的 时 候 入 睡 。 EOS
+Translation: T o m 没 能 睡 下 。
+
+BOS that was n't so hard , was it ? EOS
+BOS 那 不 难 ， 是 吧 ？ EOS
+Translation: 那 太 难 了 ， 不 是 吗 ？
+
+BOS this is the worst movie i have ever seen . EOS
+BOS 这 是 我 看 过 的 最 差 劲 的 电 影 了 。 EOS
+Translation: 這 是 我 見 過 的 電 影 。
+
+BOS these three pretty girls are all UNK of mine . EOS
+BOS 这 三 个 漂 亮 的 女 孩 都 是 我 的 UNK 女 。 EOS
+Translation: 這 些 花 中 的 任 何 其 他 的 女 生 都 是 我 的 其 中 一 朵 。
+
+BOS the space race was an exciting time in history . EOS
+BOS 太 空 跑 步 是 历 史 上 激 动 人 心 的 时 刻 。 EOS
+Translation: 這 架 飛 機 器 是 一 架 飛 夠 的 時 間 。
+
+BOS neptune is the eighth planet of the solar system . EOS
+BOS 海 王 星 是 太 阳 系 第 八 个 行 星 。 EOS
+Translation: 在 光 系 火 上 的 火 车 场 是 员 。
+
+BOS i did not expect it to be that big . EOS
+BOS 我 没 想 到 它 有 那 么 大 。 EOS
+Translation: 我 没 必 期 望 得 到 那 么 大 。
+
+BOS the police assembled a lot of UNK against him . EOS
+BOS 警 察 收 集 了 很 多 对 他 不 利 的 证 据 。 EOS
+Translation: 警 察 抓 第 一 個 麻 煩 給 他 打 領 帶 。
+
+BOS tom came to see if mary needed any help . EOS
+BOS 汤 姆 过 来 看 看 玛 丽 有 没 有 什 么 需 要 帮 忙 的 。 EOS
+Translation: 如 果 玛 丽 送 起 来 帮 助 ， 汤 姆 需 要 帮 助 。
+
+BOS this carpet is UNK to that one in quality . EOS
+BOS 这 地 毯 在 质 量 上 比 那 个 好 得 多 。 EOS
+Translation: 這 批 貨 物 是 那 隻 線 從 前 面 手 油 。
+
+BOS i think i 'm coming down with a fever . EOS
+BOS 我 覺 得 我 有 點 要 發 燒 了 。 EOS
+Translation: 我 认 为 我 来 找 出 发 了 。
+
+BOS it is imperative for you to act at once . EOS
+BOS 你 必 须 马 上 行 动 。 EOS
+Translation: 汽 车 旅 行 你 立 刻 行 。
+
+BOS i 've always wanted to learn how to swim . EOS
+BOS 我 一 直 想 学 习 如 何 游 泳 。 EOS
+Translation: 我 一 直 想 学 会 游 泳 。
+
+BOS he will be a good husband to my sister . EOS
+BOS 他 会 是 我 妹 妹 的 好 丈 夫 的 。 EOS
+Translation: 他 会 丈 夫 我 的 妹 。
+
+BOS tom does n't look like his father at all . EOS
+BOS 汤 姆 和 他 的 父 亲 长 得 一 点 也 不 像 。 EOS
+Translation: 汤 姆 像 个 父 亲 一 起 。
+
+BOS the poor young man finally became a great artist . EOS
+BOS 这 个 可 怜 的 年 轻 人 最 后 成 为 了 一 个 了 不 起 的 艺 术 家 。 EOS
+Translation: 這 個 男 人 折 美 的 禮 物 。
+
+BOS i do n't know if i still have it . EOS
+BOS 我 不 知 道 我 还 有 没 有 。 EOS
+Translation: 我 不 知 道 我 有 点 。
+
+BOS i could not keep the tears from my eyes . EOS
+BOS 我 没 法 忍 住 我 的 眼 泪 。 EOS
+Translation: 我 泪 不 能 让 我 的 眼 睛 。
+
+BOS he does nothing but complain from morning till night . EOS
+BOS 他 从 早 到 晚 只 是 在 抱 怨 。 EOS
+Translation: 他 不 在 早 上 ， 未 看 到 夜 晚 的 。
+
+BOS the nurse will tell you how to do it . EOS
+BOS 护 士 会 告 诉 你 怎 么 做 。 EOS
+Translation: 護 士 親 怎 麼 做 , 你 就 會 做 什 麼 。
+
+BOS i studied in the morning during the summer vacation . EOS
+BOS 我 在 暑 假 里 早 晨 学 习 。 EOS
+Translation: 暑 假 期 间 ， 我 去 上 班 假 。
+
+BOS there is no denying that she is very UNK . EOS
+BOS 无 可 否 认 她 非 常 有 能 力 。 EOS
+Translation: 這 是 她 的 感 到 很 漂 亮 的 。
+
+BOS she has changed UNK since i last saw her . EOS
+BOS 她 和 以 前 比 起 來 變 了 很 多 EOS
+Translation: 自 她 從 我 起 來 就 像 從 她 看 出 去 。
+
+BOS i 'm not one hundred percent convinced of that . EOS
+BOS 我 不 是 百 分 之 百 确 定 。 EOS
+Translation: 那 種 語 之 一 點 十 分 之 前 我 的 信 。
+
+BOS i did n't go , but stayed at home . EOS
+BOS 我 沒 去 ， 但 我 留 在 家 裡 。 EOS
+Translation: 我 不 去 住 在 家 里 ， 但 我 房 子 里 。
+
+BOS my room is three times as large as yours . EOS
+BOS 我 的 房 間 是 你 的 三 倍 大 。 EOS
+Translation: 我 的 房 间 号 是 三 倍 。
+
+BOS all the UNK are that she is getting better . EOS
+BOS 所 有 迹 象 表 明 她 好 起 来 了 。 EOS
+Translation: 她 所 有 她 所 有 的 好 地 方 。
+
+BOS i swear i will never do such a thing . EOS
+BOS 我 发 誓 我 不 会 做 这 种 事 。 EOS
+Translation: 我 甚 至 以 做 這 樣 子 的 事 。
+
+BOS one million people lost their lives in the war . EOS
+BOS 1 0 0 万 人 在 战 争 中 失 去 了 生 命 。 EOS
+Translation: 1 万 马 是 人 们 失 战 争 的 争 制 度 。
+
+BOS you should make better use of your free time . EOS
+BOS 你 要 更 好 地 利 用 闲 UNK 时 间 。 EOS
+Translation: 你 最 好 盡 快 用 了 你 的 還 是 有 足 。
+
+BOS he is not a singer , but an actor . EOS
+BOS 他 不 是 歌 手 ， 但 是 个 演 员 。 EOS
+Translation: 他 不 是 個 歌 手 ， 但 是 一 個 歌 手 。
+
+BOS one man 's meat is another man 's UNK . EOS
+BOS 對 某 人 有 利 的 對 另 外 的 人 未 必 有 利 。 EOS
+Translation: 一 个 人 都 是 外 衣 服 。
+
+BOS i hurried in order to catch the first train . EOS
+BOS 我 匆 匆 忙 忙 ， 为 的 是 能 赶 上 第 一 班 火 车 。 EOS
+Translation: 我 加 了 个 第 一 班 火 车 。
+
+BOS our children like dogs , but i prefer cats . EOS
+BOS 我 们 的 孩 子 喜 欢 狗 ， 但 我 更 喜 欢 猫 。 EOS
+Translation: 我 们 的 狗 喜 欢 狗 ， 电 话 也 喜 欢 猫 。
+
+BOS this is the worst book i 've ever read . EOS
+BOS 这 是 我 读 过 的 书 里 面 写 的 最 差 的 一 本 了 。 EOS
+Translation: 這 是 我 讀 過 這 本 書 的 。
+
+BOS i would like to have a cup of coffee . EOS
+BOS 我 想 要 一 杯 咖 啡 。 EOS
+Translation: 我 想 要 一 杯 咖 啡 。
+
+BOS much of london was destroyed in the seventeenth century . EOS
+BOS 倫 敦 許 多 部 份 在 十 七 世 紀 時 被 摧 毀 。 EOS
+Translation: 倫 敦 的 頭 到 欧 洲 ， 7 岁 的 女 生 活 。
+
+BOS this case might not get UNK for a while . EOS
+BOS 這 個 案 件 可 能 不 會 在 短 時 間 內 就 解 決 。 EOS
+Translation: 要 找 时 可 能 会 有 一 个 时 候 的 。
+
+BOS i do n't know any of the five ladies . EOS
+BOS 这 五 个 女 人 我 一 个 都 不 认 识 。 EOS
+Translation: 我 不 知 道 五 十 位 了 士 頓 。
+
+BOS you should pay more attention to what he says . EOS
+BOS 你 應 該 多 注 意 他 說 的 話 。 EOS
+Translation: 你 應 該 多 注 意 他 說 的 話 。
+
+BOS he seldom , if ever , goes to church . EOS
+BOS 他 很 少 ， 如 果 有 的 話 ， 去 教 堂 。 EOS
+Translation: 他 很 少 ， 并 且 以 上 教 堂 歌 而 并 且 去 。
+
+BOS i like may the best of all the months . EOS
+BOS 所 有 月 份 中 我 最 喜 歡 五 月 。 EOS
+Translation: 我 喜 歡 牛 问 题 的 天 。
+
+BOS i wish you had told me the truth then . EOS
+BOS 但 願 你 那 時 候 就 告 訴 我 真 相 。 EOS
+Translation: 我 希 望 你 告 诉 我 真 相 了 。
+
+BOS our eyes take time to adjust to the UNK . EOS
+BOS 我 们 的 眼 睛 需 要 时 间 来 适 应 黑 暗 。 EOS
+Translation: 我 们 的 眼 睛 需 要 时 间 来 适 应 任 何 时 间 。
+
+BOS tom was n't smiling when he entered the room . EOS
+BOS 汤 姆 进 房 间 时 没 有 微 笑 。 EOS
+Translation: 汤 姆 当 着 他 走 进 房 间 的 时 候 。
+
+BOS you will not be able to catch the train . EOS
+BOS 你 將 無 法 趕 上 火 車 。 EOS
+Translation: 你 不 能 抓 入 火 车 。
+
+BOS tom is waiting for you in the conference room . EOS
+BOS 汤 姆 在 会 议 室 等 你 。 EOS
+Translation: 汤 姆 在 等 你 们 的 房 间 里 等 着 。
+
+BOS UNK is the largest planet in the solar system . EOS
+BOS 木 星 是 太 陽 系 中 最 大 的 行 星 。 EOS
+Translation: 最 大 的 立 場 行 政 策 还 是 第 一 班 的 。
+
+BOS i 'll call for you at eight tomorrow morning . EOS
+BOS 我 明 早 八 点 来 接 你 。 EOS
+Translation: 我 明 天 早 上 7 点 会 与 你 来 。
+
+BOS you are a good UNK , are n't you ? EOS
+BOS 你 是 個 很 棒 的 畫 家 ， 不 是 嗎 ？ EOS
+Translation: 你 很 愉 快 ， 不 是 吗 ？
+
+BOS tom probably knows someone who can teach us french . EOS
+BOS 湯 姆 應 該 知 道 有 誰 可 以 教 我 們 法 文 。 EOS
+Translation: 汤 姆 可 能 知 道 我 们 会 的 法 语 。
+
+BOS i 'm looking forward to seeing you next week . EOS
+BOS 我 期 盼 著 下 週 見 到 你 。 EOS
+Translation: 我 期 待 下 周 四 开 着 电 视 。
+
+BOS she came here as soon as she heard it . EOS
+BOS 她 一 來 這 裡 就 聽 到 了 。 EOS
+Translation: 她 一 直 很 快 來 這 裡 。
+
+BOS it 's rare to meet nice people like you . EOS
+BOS 很 少 能 见 到 像 你 那 么 好 的 人 。 EOS
+Translation: 很 高 興 你 喜 歡 隨 時 就 會 再 多 。
+
+BOS he spent the night at his uncle 's place . EOS
+BOS 他 在 他 舅 舅 那 裏 過 夜 。 EOS
+Translation: 他 在 他 家 的 角 处 。
+
+BOS i was very nervous as the plane took off . EOS
+BOS 飛 機 起 飛 的 時 候 我 很 緊 張 。 EOS
+Translation: 我 看 上 了 床 。
+
+BOS tell tom that i do n't need his help . EOS
+BOS 告 诉 汤 姆 我 不 需 要 他 的 帮 助 ！ EOS
+Translation: 告 诉 T o m 我 不 必 这 个 帮 助 。
+
+BOS do n't speak unless you have something worth saying . EOS
+BOS 除 非 你 有 什 么 值 得 说 的 话 要 说 ， 否 则 就 别 UNK 声 。 EOS
+Translation: 除 非 你 想 说 什 么 你 方 式 服 对 什 么 。
+
+BOS tom was n't going to do anything to you . EOS
+BOS 汤 姆 不 打 算 给 你 做 任 何 事 。 EOS
+Translation: 汤 姆 什 么 都 别 做 。 你 做 。
+
+BOS this is a good place to pitch a tent . EOS
+BOS 这 是 搭 UNK 篷 的 好 地 方 。 EOS
+Translation: 这 个 博 物 馆 一 个 好 处 。
+
+BOS her house is at the foot of a mountain . EOS
+BOS 她 家 在 一 座 山 的 山 脚 下 。 EOS
+Translation: 她 的 山 在 你 的 座 山 上 。
+
+BOS to put it briefly , i do not agree . EOS
+BOS 简 而 言 之 ， 我 不 同 意 。 EOS
+Translation: 很 快 地 方 ， 我 不 成 。
+
+BOS it 's no use your UNK him for help . EOS
+BOS 你 求 他 帮 忙 没 有 用 。 EOS
+Translation: 帮 助 他 用 你 不 用 。
+
+BOS the house stood out because of its unusual shape . EOS
+BOS 那 房 子 因 为 其 少 有 的 形 状 被 突 显 出 来 。 EOS
+Translation: 房 子 从 久 后 发 生 了 。
+
+BOS there was a cold wind blowing from the north . EOS
+BOS 有 一 阵 从 北 边 吹 来 的 冷 风 。 EOS
+Translation: 两 条 航 里 有 股 寒 冷 。
+
+BOS tom picked up the jar and read the UNK . EOS
+BOS 汤 姆 拿 起 罐 子 读 标 签 。 EOS
+Translation: 汤 姆 要 裤 子 。
+
+BOS you continue making the same mistakes time after time . EOS
+BOS 你 每 次 都 继 续 犯 同 样 的 错 误 。 EOS
+Translation: 你 跟 你 同 時 。
+
+BOS what time did you get to bed last night ? EOS
+BOS 你 昨 天 甚 麼 時 候 睡 覺 ？ EOS
+Translation: 你 昨 天 晚 上 做 什 麼 ?
+
+BOS the storm had a serious effect on the economy . EOS
+BOS 这 场 暴 风 雪 已 经 对 经 济 造 成 了 很 严 重 的 影 响 。 EOS
+Translation: 风 梨 生 依 然 依 然 看 了 严 重 的 依 然 气 。
+
+BOS he was made a fool of by his neighbors . EOS
+BOS 他 被 他 的 邻 居 们 愚 弄 了 。 EOS
+Translation: 他 是 个 扔 子 的 所 有 他 的 球 物 。
+
+BOS what 's your favorite game to play with friends ? EOS
+BOS 你 最 喜 歡 和 朋 友 玩 什 麼 遊 戲 ？ EOS
+Translation: 你 最 喜 欢 的 朋 友 怎 么 玩 耍 。
+
+BOS i 'd like to pay the check , please . EOS
+BOS 我 想 付 帳 ， 謝 謝 。 EOS
+Translation: 我 想 付 一 下 帳 單 。
+
+BOS you should set a good example for your children . EOS
+BOS 你 应 该 给 你 的 孩 子 们 树 立 好 榜 样 。 EOS
+Translation: 你 应 该 给 你 的 孩 子 们 的 榜 样 。
+
+BOS i do n't want to hear any more excuses . EOS
+BOS 我 不 想 再 听 到 其 他 借 口 了 。 EOS
+Translation: 我 不 想 听 解 释 。
+
+BOS she seems to be in love with my brother . EOS
+BOS 她 似 乎 喜 歡 上 了 我 哥 哥 。 EOS
+Translation: 她 似 乎 比 我 想 的 兄 弟 住 。
+
+BOS i do n't want to talk about the weather . EOS
+BOS 我 不 想 談 論 天 氣 。 EOS
+Translation: 我 不 想 流 利 气 。
+
+BOS tom did n't know what mary thought about it . EOS
+BOS 汤 姆 不 知 道 玛 丽 对 它 怎 么 想 。 EOS
+Translation: 汤 姆 知 道 玛 丽 的 关 系 它 。
+
+BOS i 'm saving up to buy a new car . EOS
+BOS 我 在 省 钱 买 新 车 。 EOS
+Translation: 我 為 一 輛 新 車 買 了 新 車 。
+
+BOS she was in a hurry to see her father . EOS
+BOS 她 急 于 见 她 的 父 亲 。 EOS
+Translation: 她 在 看 到 她 像 很 快 就 只 遇 见 。
+
+BOS it is stupid of you to believe in him . EOS
+BOS 你 相 信 他 真 是 太 愚 蠢 了 。 EOS
+Translation: 你 比 他 相 信 他 们 相 当 教 他 多 。
+
+BOS generally speaking , the climate of japan is mild . EOS
+BOS 总 体 上 说 ， 日 本 的 气 候 温 和 。 EOS
+Translation: 經 國 飛 機 流 行 時 ， 天 非 常 重 要 。
+
+BOS let 's talk about what you did in boston . EOS
+BOS 让 我 们 谈 谈 你 在 波 士 顿 做 的 事 。 EOS
+Translation: 你 说 的 话 给 我 们 。
+
+BOS i have n't decided which job to apply for . EOS
+BOS 我 还 没 确 定 找 哪 份 工 作 。 EOS
+Translation: 我 决 定 不 符 时 候 别 了 。
+
+BOS english is a language spoken all over the world . EOS
+BOS 英 語 是 一 種 全 世 界 通 用 的 語 言 。 EOS
+Translation: 世 界 各 的 人 所 有 英 語 言 。
+
+BOS i walk my dog in the park every morning . EOS
+BOS 我 每 天 早 上 到 公 园 里 遛 狗 。 EOS
+Translation: 我 把 我 的 狗 早 晨 晚 上 。
+
+BOS a great number of UNK went into the army . EOS
+BOS 許 多 老 百 姓 加 入 了 軍 隊 。 EOS
+Translation: 要 长 度 决 定 要 爆 炸 和 别 的 困 难 。
+
+BOS tom wants to pay back the money he owes . EOS
+BOS 汤 姆 想 去 还 欠 的 钱 。 EOS
+Translation: 汤 姆 想 还 清 贷 款 。
+
+BOS this company is UNK on the paris stock exchange . EOS
+BOS 这 家 公 司 在 巴 黎 证 UNK 交 易 所 上 市 了 。 EOS
+Translation: 這 家 公 司 比 巴 黎 。
+
+BOS it 's because of you that we were late . EOS
+BOS 因 为 你 我 们 才 迟 了 。 EOS
+Translation: 那 是 因 为 什 么 门 的 。
+
+BOS i am sorry . i am not from here . EOS
+BOS 抱 歉 ， 我 不 是 本 地 人 。 EOS
+Translation: 我 很 抱 歉 我 不 在 这 里 。
+
+BOS it was her little sister that broke her toy . EOS
+BOS 她 的 玩 具 是 被 她 妹 妹 弄 壞 的 。 EOS
+Translation: 她 给 她 妹 妹 打 大 的 时 候 ， 这 个 玩 耍 。
+
+BOS well , girls , it 's time to go . EOS
+BOS 那 么 ， 女 孩 们 ， 是 时 候 出 发 了 。 EOS
+Translation: 对 夫 女 孩 很 高 兴 。
+
+BOS she will give her picture to whoever wants it . EOS
+BOS 她 会 把 她 的 照 片 给 想 要 的 人 。 EOS
+Translation: 她 會 把 她 的 照 片 給 她 想 要 的 人 。
+
+BOS you are the man i 've been looking for . EOS
+BOS 你 就 是 我 一 直 要 找 的 人 。 EOS
+Translation: 你 在 看 来 的 那 个 男 人 在 我 处 。
+
+BOS UNK surgery is not covered by most insurance plans . EOS
+BOS 大 部 份 的 保 險 計 劃 不 包 含 整 容 手 術 。 EOS
+Translation: 工 具 是 手 举 办 公 平 社 的 。
+
+BOS i invited him to the party and he accepted . EOS
+BOS 我 邀 请 他 去 派 对 ， 他 接 受 了 。 EOS
+Translation: 我 接 受 了 他 接 受 乐 会 的 派 对 。
+
+BOS he is very UNK in the world of medicine . EOS
+BOS 他 在 医 学 界 有 很 大 的 影 响 力 。 EOS
+Translation: 他 是 世 界 上 最 小 任 的 藥 。
+
+BOS my guess is that it will be fine tomorrow . EOS
+BOS 我 猜 明 天 会 是 好 天 气 。 EOS
+Translation: 我 想 那 條 证 明 天 是 很 快 。
+
+BOS i 'm sorry , i ca n't stay long . EOS
+BOS 对 不 起 ， 我 不 能 待 很 久 。 EOS
+Translation: 对 不 起 , 我 很 久 就 不 能 呆 在 。
+
+BOS tom is no longer a member of this club . EOS
+BOS 汤 姆 不 再 是 俱 乐 部 的 成 员 了 。 EOS
+Translation: 汤 姆 还 是 不 再 这 个 俱 乐 部 的 会 。
+
+BOS scientists have n't found a UNK for cancer yet . EOS
+BOS 科 学 家 们 还 没 有 找 到 癌 症 的 治 疗 方 法 。 EOS
+Translation: 我 们 的 科 學 金 ， 还 不 会 找 到 考 试 。
+
+BOS tom came up with an answer to our problem . EOS
+BOS 汤 姆 给 我 们 的 问 题 想 出 了 个 答 案 。 EOS
+Translation: 汤 姆 给 我 们 的 问 题 。
+
+BOS that house is the place where i was born . EOS
+BOS 那 房 子 是 我 出 生 的 地 方 。 EOS
+Translation: 我 出 国 的 那 个 住 处 。
+
+BOS i do n't think my life is very interesting . EOS
+BOS 我 不 認 為 我 的 人 生 很 有 趣 。 EOS
+Translation: 我 不 認 為 我 的 生 性 意 。
+
+BOS he had hoped to succeed , but he did n't . EOS
+BOS 他 本 希 望 可 以 成 功 ， 但 是 他 没 有 。 EOS
+Translation: 他 希 望 他 也 没 有 成 。 ``
+
+BOS i think it 's time for you to grow up . EOS
+BOS 我 觉 得 你 是 时 候 该 懂 事 了 。 EOS
+Translation: 我 认 为 你 持 不 走 。
+
+BOS if you hurry , you will catch up with him . EOS
+BOS 如 果 你 快 一 点 ， 还 能 赶 上 他 。 EOS
+Translation: 如 果 你 抓 住 紧 ， 你 就 抓 住 他 。
+
+BOS all of my friends got asked to dance except me . EOS
+BOS 除 了 我 ， 其 他 人 都 被 邀 请 去 跳 舞 了 。 EOS
+Translation: 我 所 有 的 朋 友 都 可 以 跟 我 問 得 问 题 。
+
+BOS we have to put off the game till next sunday . EOS
+BOS 我 们 不 得 不 把 游 戏 搁 到 下 周 日 了 。 EOS
+Translation: 我 们 要 下 周 日 要 赶 上 第 一 班 比 聚 会 。
+
+BOS tom told me that he does n't like UNK drinks . EOS
+BOS 汤 姆 告 诉 我 他 不 喜 欢 UNK 酸 饮 料 。 EOS
+Translation: 汤 姆 告 诉 我 他 不 喜 欢 午 饭 。
+
+BOS you should n't talk back to your parents like that . EOS
+BOS 你 不 應 該 對 你 父 母 那 樣 頂 嘴 。 EOS
+Translation: 你 不 该 听 说 你 父 母 的 父 母 了 。
+
+BOS a true scientist would not UNK the question this way . EOS
+BOS 真 正 的 科 学 家 不 会 这 样 去 思 考 。 EOS
+Translation: 一 個 科 學 家 都 不 是 这 个 问 题 的 英 语 。
+
+BOS you 'll get used to living here in no time . EOS
+BOS 你 很 快 就 会 习 惯 住 在 这 里 。 EOS
+Translation: 你 不 是 任 何 時 候 就 會 生 活 。
+
+BOS the man is UNK the moving truck on his own . EOS
+BOS 這 個 男 人 獨 自 把 東 西 搬 上 搬 家 卡 車 上 。 EOS
+Translation: 那 个 男 人 是 一 扇 他 的 同 班 。
+
+BOS having a slight headache , i went to bed early . EOS
+BOS 因 為 我 有 點 頭 疼 ， 所 以 我 早 早 上 床 睡 覺 。 EOS
+Translation: 輕 下 床 的 時 候 ， 我 很 棒 。
+
+BOS tom does n't know the difference between UNK and UNK . EOS
+BOS 汤 姆 不 知 道 伊 拉 克 和 伊 朗 有 什 么 区 别 。 EOS
+Translation: T o m 并 不 清 楚 。
+
+BOS i 'm not asking you . i 'm UNK you . EOS
+BOS 我 不 是 要 求 你 ， 我 是 UNK 请 你 。 EOS
+Translation: 我 问 你 没 有 我 你 。
+
+BOS i met tom for the first time three days ago . EOS
+BOS 我 三 天 前 第 一 次 见 汤 姆 。 EOS
+Translation: 第 三 次 我 见 到 了 汤 姆 第 三 次 。
+
+BOS do you know the concert schedule of london UNK UNK ? EOS
+BOS 你 知 道 伦 敦 交 响 乐 团 的 演 奏 会 行 程 吗 ？ EOS
+Translation: 你 知 道 伦 敦 吗 ？
+
+BOS we are looking for a nice house to live in . EOS
+BOS 我 们 在 找 一 个 漂 亮 的 屋 子 住 。 EOS
+Translation: 我 们 在 看 着 不 错 。
+
+BOS she asked me whether i liked the plan or not . EOS
+BOS 她 问 我 喜 不 喜 欢 这 个 计 划 。 EOS
+Translation: 她 问 我 喜 歡 我 喜 歡 它 的 計 劃 。
+
+BOS i do n't believe the child came to tokyo alone . EOS
+BOS 我 不 相 信 孩 子 能 独 自 到 东 京 。 EOS
+Translation: 我 不 相 信 小 孩 的 想 念 东 京 。
+
+BOS you remind me of a boy i used to know . EOS
+BOS 你 让 我 想 起 我 过 去 认 识 的 一 个 男 孩 。 EOS
+Translation: 你 讓 我 想 知 道 我 想 起 個 大 男 孩 的 想 法 。
+
+BOS my son is going to leave for france next week . EOS
+BOS 我 儿 子 下 周 要 去 法 国 了 。 EOS
+Translation: 我 的 兒 子 要 友 要 去 美 国 。
+
+BOS i 'll come and see you one of these days . EOS
+BOS 这 些 天 我 会 抽 一 天 来 看 你 的 。 EOS
+Translation: 你 几 天 后 来 看 ， 我 送 你 一 些 。
+
+BOS kissing a person who smokes is like UNK an UNK . EOS
+BOS 亲 吻 一 个 抽 烟 的 人 就 像 在 UNK 烟 灰 缸 。 EOS
+Translation: 這 個 個 人 真 正 常 抽 菸 。
+
+BOS tom poured cold water over himself to wake himself up . EOS
+BOS 汤 姆 给 自 己 UNK 凉 水 以 清 醒 过 来 。 EOS
+Translation: 汤 姆 又 冷 了 个 顯 然 后 ， 让 人 来 接 得 像 自 己 。
+
+BOS nobody understood why the elephant suddenly turned on its owner . EOS
+BOS 没 有 人 明 白 为 什 么 大 象 突 然 攻 击 了 它 的 主 人 。 EOS
+Translation: 未 人 管 發 生 什 麼 事 的 故 的 情 况 。
+
+BOS tom did n't need to finish that work by today . EOS
+BOS 汤 姆 不 必 今 天 就 完 成 那 工 作 。 EOS
+Translation: 汤 姆 今 天 不 需 要 搭 工 作 。
+
+BOS he is on goods UNK with all of his classmates . EOS
+BOS 他 和 他 所 有 的 同 学 相 处 融 洽 。 EOS
+Translation: 他 和 他 所 有 的 同 学 法 生 们 。
+
+BOS i kept the $ 20 i found in the street . EOS
+BOS 我 留 着 在 街 上 发 现 的 2 0 美 元 。 EOS
+Translation: 我 把 头 发 现 在 在 新 流 行 的 牆 上 。
+
+BOS the baby was sound asleep in her mother 's arms . EOS
+BOS 孩 子 在 母 亲 的 怀 中 熟 睡 。 EOS
+Translation: 當 她 在 懷 弟 的 時 候 ， 這 樣 子 上 睡 著 。
+
+BOS we enjoyed watching the fireworks on a bridge last summer . EOS
+BOS 去 年 夏 天 ， 我 们 在 桥 上 看 焰 火 看 得 很 过 UNK 。 EOS
+Translation: 去 年 輕 鬆 取 得 很 灰 的 。
+
+BOS a new UNK will be opened in chicago next month . EOS
+BOS 新 的 分 店 下 个 月 在 芝 加 哥 开 张 。 EOS
+Translation: 一 個 新 星 期 在 5 月 開 始 将 飛 行 。
+
+BOS his mother sat up all night waiting for her son . EOS
+BOS 他 的 妈 妈 坐 了 一 整 夜 ， 等 她 的 儿 子 。 EOS
+Translation: 他 媽 媽 坐 在 她 的 晚 上 打 她 。
+
+BOS i do n't want to be involved in that matter . EOS
+BOS 我 不 想 被 UNK 扯 到 这 件 事 里 。 EOS
+Translation: 我 不 想 承 认 有 没 有 想 。
+
+BOS there was a cottage on the side of the hill . EOS
+BOS 山 坡 上 有 一 间 村 屋 。 EOS
+Translation: 山 坡 上 有 一 个 茅 屋 。
+
+BOS tom does n't pay much attention to how he dresses . EOS
+BOS T o m 没 有 花 费 精 力 去 打 扮 自 己 。 EOS
+Translation: 汤 姆 清 楚 要 多 少 钱 ？
+
+BOS it is said that UNK is buried in this area . EOS
+BOS 据 说 这 个 区 域 埋 着 财 宝 。 EOS
+Translation: 说 谎 是 被 安 全 着 的 。
+
+BOS this shirt does n't go with that tie at all . EOS
+BOS 這 件 襯 衫 跟 那 條 領 帶 不 搭 。 EOS
+Translation: 這 襯 衫 要 一 隻 解 釋 放 , 那 麼 不 要 下 去 。
+
+BOS i ca n't put up with that noise any longer . EOS
+BOS 我 无 法 再 忍 受 那 噪 音 了 。 EOS
+Translation: 我 不 能 再 忍 受 那 噪 音 了 。
+
+BOS he was moved to tears when he heard the news . EOS
+BOS 当 他 听 到 那 个 新 闻 的 时 候 ， 他 感 动 得 哭 了 。 EOS
+Translation: 他 過 兩 次 听 到 他 的 消 息 后 都 会 被 惊 吓 到 了 。
+
+BOS it is a lot of fun to drive a car . EOS
+BOS 開 車 很 好 玩 。 EOS
+Translation: 車 開 得 很 有 趣 。
+
+BOS when i heard the news , i wanted to cry . EOS
+BOS 当 我 听 到 这 个 消 息 时 ， 我 想 哭 。 EOS
+Translation: 當 我 听 到 新 闻 见 的 时 候 ， 我 想 想 哭 。
+
+BOS if you have something to say , just say it . EOS
+BOS 如 果 你 想 说 ， 就 说 。 EOS
+Translation: 如 果 你 说 的 话 ， 你 想 要 说 吗 ？
+
+BOS english is spoken by more people than any other language . EOS
+BOS 說 英 語 的 人 比 說 任 何 其 他 語 言 的 人 多 。 EOS
+Translation: 許 多 種 語 言 就 語 言 語 言 。
+
+BOS i 'm not as stupid as you think i am . EOS
+BOS 我 不 像 你 想 的 那 么 傻 。 EOS
+Translation: 我 不 认 为 你 傻 。
+
+BOS the boy who lives next door often comes home late . EOS
+BOS 隔 壁 的 男 孩 常 常 晚 回 家 。 EOS
+Translation: 这 个 男 孩 子 们 晚 上 会 来 。
+
+BOS she 's busy now and ca n't speak to you . EOS
+BOS 她 現 在 忙 ， 沒 有 辦 法 跟 您 說 話 。 EOS
+Translation: 她 现 在 忙 ， 不 能 跟 你 说 话 。
+
+BOS do you think you could make a little less noise ? EOS
+BOS 你 觉 得 你 能 少 发 点 噪 音 吗 ？ EOS
+Translation: 你 认 为 如 何 噪 音 吗 ？
+
+BOS it is not good for a scientist to get emotional . EOS
+BOS 對 一 個 科 學 家 來 說 ， 情 緒 化 是 不 好 的 。 EOS
+Translation: 為 一 個 科 學 家 來 不 好 的 科 目 是 一 點 科 學 家 科 家 。
+
+BOS having lived in tokyo , i know the city well . EOS
+BOS 因 为 住 过 东 京 ， 我 对 这 个 城 市 非 常 了 解 。 EOS
+Translation: 我 住 在 東 京 , 但 是 兩 個 好 的 城 市 。
+
+BOS my uncle 's company launched a new product last month . EOS
+BOS 舅 舅 的 公 司 上 个 月 推 出 了 一 项 新 产 品 。 EOS
+Translation: 我 叔 叔 的 长 度 過 了 一 個 月 。
+
+BOS we will have learned english for five years next year . EOS
+BOS 到 明 年 我 们 学 英 语 就 有 5 年 了 。 EOS
+Translation: 我 們 明 年 學 習 英 國 。
+
+BOS i 'm sorry , but it 's just not possible . EOS
+BOS 我 很 抱 歉 , 但 它 就 是 不 可 能 的 。 EOS
+Translation: 我 很 抱 歉 ， 但 我 只 是 不 可 能 。
+
+BOS i 'd love to find out why she said so . EOS
+BOS 我 很 想 找 出 她 为 什 么 这 么 说 的 原 因 。 EOS
+Translation: 我 想 知 道 她 能 不 会 说 什 么 。
+
+BOS i as well as you was late for school yesterday . EOS
+BOS 我 跟 你 一 样 昨 天 上 学 迟 到 了 。 EOS
+Translation: 我 和 昨 天 晚 上 同 学 迟 到 。
+
+BOS you do your part and i 'll do the rest . EOS
+BOS 你 做 你 的 部 份 , 其 他 的 我 來 做 。 EOS
+Translation: 我 立 刻 而 且 以 后 你 休 息 。
+
+BOS it looks like he 'll be coming here next month . EOS
+BOS 看 来 他 会 在 下 个 月 来 。 EOS
+Translation: 他 下 个 月 来 这 儿 。
+
+BOS what number bus do i take to get to UNK ? EOS
+BOS 我 乘 几 路 车 去 怀 基 基 ？ EOS
+Translation: 我 要 怎 么 办 公 車 ？
+
+BOS i know him by sight , but not by name . EOS
+BOS 我 知 道 他 的 样 子 ， 但 不 知 道 他 的 名 字 。 EOS
+Translation: 我 知 道 他 的 名 字 ， 但 不 知 道 他 长 什 么 样 。
+
+BOS this has been the UNK six months in thirty years . EOS
+BOS 這 是 三 十 年 代 以 來 最 乾 UNK 的 六 月 。 EOS
+Translation: 這 次 六 十 三 個 月 前 已 經 下 午 十 年 了 。
+
+BOS why did n't you tell tom that you were married ? EOS
+BOS 你 为 什 么 不 告 诉 汤 姆 你 已 经 结 婚 了 ？ EOS
+Translation: 你 为 什 么 没 有 告 诉 T o m ？
+
+BOS you 'd better keep your money for a rainy day . EOS
+BOS 你 最 好 未 雨 UNK UNK 。 EOS
+Translation: 你 最 好 立 下 一 天 ， 然 助 下 着 諾 言 。
+
+BOS because she is twenty-five years old , she gets married . EOS
+BOS 她 2 5 岁 就 结 婚 了 。 EOS
+Translation: 她 五 年 轻 了 床 。
+
+BOS man is the only animal that can make use of fire . EOS
+BOS 人 是 唯 一 会 使 用 火 的 动 物 。 EOS
+Translation: 人 类 是 唯 一 能 够 彼 此 交 去 火 。
+
+BOS he drove the car , listening to music on the radio . EOS
+BOS 他 一 面 開 車 一 面 聽 收 音 機 的 音 樂 。 EOS
+Translation: 他 開 車 ， 电 视 反 对 票 反 听 收 音 机 。
+
+BOS i am in the habit of taking some exercise before breakfast . EOS
+BOS 我 在 吃 早 餐 前 有 運 動 的 習 慣 。 EOS
+Translation: 我 早 餐 之 前 很 想 便 的 时 候 电 话 。
+
+BOS more often than not , she had to go in person . EOS
+BOS 很 多 時 候 她 要 親 自 去 。 EOS
+Translation: 更 容 易 上 的 人 际 ， 她 更 愿 意 去 。
+
+BOS no less than three hundred dollars was needed for the work . EOS
+BOS 这 个 工 作 需 要 不 低 于 3 0 0 美 金 。 EOS
+Translation: 不 有 三 个 价 上 班 由 肉 。
+
+BOS if you pass this test , you could graduate next month . EOS
+BOS 如 果 你 通 過 這 個 考 試 ， 你 下 個 月 就 可 以 畢 業 了 。 EOS
+Translation: 如 果 你 尝 试 的 话 ， 你 可 以 给 我 下 一 个 月 间 。
+
+BOS there was a minute of silence and then everybody started UNK . EOS
+BOS 有 一 分 钟 的 沉 默 ， 然 后 每 个 人 都 开 始 尖 叫 。 EOS
+Translation: 由 子 並 且 大 ， 再 , 村 卻 一 點 。
+
+BOS put this jacket on , and you 'll be much warmer . EOS
+BOS 穿 上 外 套 吧 ！ 你 會 暖 一 些 。 EOS
+Translation: 这 件 夾 克 连 衣 裙 还 是 “ 你 很 想 待 哪 里 。
+
+BOS we are all looking forward to seeing you and your family . EOS
+BOS 我 们 都 期 待 看 到 你 和 你 的 家 人 。 EOS
+Translation: 我 们 2 点 都 能 见 到 你 ， 你 的 家 人 都 会 看 过 面 。
+
+BOS let 's wait for a while and see how you do . EOS
+BOS 讓 我 們 等 一 會 兒 看 看 你 怎 麼 做 。 EOS
+Translation: 来 看 吧 ？
+
+BOS tom is in the living room , sleeping on the couch . EOS
+BOS 汤 姆 在 客 厅 ， 躺 在 长 沙 发 上 睡 觉 。 EOS
+Translation: 汤 姆 在 长 沙 发 上 的 房 间 呆 在 看 车 后 ， 所 有 动 上 放 下 周 圍 。
+
+BOS the weather report says we 'll get three inches of snow . EOS
+BOS 天 气 预 报 说 会 下 三 英 寸 雪 。 EOS
+Translation: 我 们 学 校 的 报 告 要 三 倍 。
+
+BOS my father will come home at the end of this week . EOS
+BOS 我 爸 爸 会 在 这 周 末 回 家 。 EOS
+Translation: 我 父 親 下 週 將 來 。
+
+BOS how many books do you think you 've read so far ? EOS
+BOS 到 目 前 为 止 ， 你 认 为 你 阅 读 过 多 少 书 籍 ？ EOS
+Translation: 你 覺 得 这 本 书 如 何 书 要 多 少 ？
+
+BOS would it be UNK to UNK one person to save many ? EOS
+BOS 为 了 救 许 多 人 UNK 牲 一 个 人 是 否 道 德 ？ EOS
+Translation: 要 一 個 人 可 以 其 他 的 小 時 候 一 個 地 方 法 穿 交 流 嗎 ?
+
+BOS the bus will take you to the center of the city . EOS
+BOS 巴 士 会 把 你 们 带 到 市 中 心 。 EOS
+Translation: 你 们 班 是 目 前 为 市 学 。
+
+BOS it seems to me that she has a UNK to UNK . EOS
+BOS 在 我 看 來 ， 她 有 一 種 UNK 張 的 傾 向 。 EOS
+Translation: 她 看 來 沒 有 發 生 了 我 。
+
+BOS he never gave up hope that he would reach that goal . EOS
+BOS 他 從 沒 放 棄 達 成 那 個 目 標 的 希 望 。 EOS
+Translation: 他 從 不 會 再 給 這 個 機 會 。
+
+BOS i 'm going to stop trying to be friendly with you . EOS
+BOS 我 不 跟 你 要 好 了 。 EOS
+Translation: 我 试 别 想 靠 你 有 兴 友 看 点 。
+
+BOS this is the place where the battle of UNK took place . EOS
+BOS 這 裡 是 黑 斯 廷 斯 戰 役 發 生 的 地 方 。 EOS
+Translation: 这 是 战 斗 发 生 的 地 方 。
+
+BOS this was the most interesting book that she had ever read . EOS
+BOS 這 是 她 讀 過 最 有 趣 的 書 。 EOS
+Translation: 這 本 書 值 得 很 有 興 趣 ， 她 去 看 看 。
+
+BOS a UNK amount of time and effort have been spent already . EOS
+BOS 已 經 花 費 了 很 多 的 時 間 和 精 力 。 EOS
+Translation: 一 提 高 没 有 时 间 已 经 过 。
+
+BOS i had never seen a UNK until i visited the UNK . EOS
+BOS 在 我 去 荷 兰 之 前 ， 我 从 没 见 过 风 车 。 EOS
+Translation: 我 从 没 见 过 到 我 去 过 而 到 最 后 一 个 。
+
+BOS i 'll let you know when i 've figured it out . EOS
+BOS 我 搞 明 白 了 会 告 诉 你 。 EOS
+Translation: 我 不 知 道 你 是 什 么 时 候 ， 民 里 发 现 这 里 。
+
+BOS in order to do that , you have to take risks . EOS
+BOS 要 这 么 做 ， 你 需 要 冒 险 。 EOS
+Translation: 吃 饭 对 于 它 ， 让 你 丢 了 更 有 疑 的 。
+
+BOS do n't worry . we have plenty of water and food . EOS
+BOS 别 担 心 。 我 们 有 大 量 水 和 食 物 。 EOS
+Translation: 我 们 不 担 心 所 有 钱 的 食 物 ， 谢 。
+
+BOS i do n't see any reason why i have to apologize . EOS
+BOS 我 没 发 现 任 何 我 该 道 歉 的 理 由 。 EOS
+Translation: 我 不 知 道 任 何 以 我 对 什 么 它 。
+
+BOS his record is a new world record in the UNK UNK . EOS
+BOS 他 刷 新 了 百 米 短 跑 的 世 界 紀 錄 。 EOS
+Translation: 他 的 新 演 文 十 分 是 一 岁 并 新 的 新 的 新 聞 。
+
+BOS had i known about it , i would have told you . EOS
+BOS 如 果 我 知 道 的 话 ， 我 早 就 已 经 告 诉 你 了 。 EOS
+Translation: 我 知 道 如 何 ， 有 失 败 了 。
+
+BOS it 's really dark here . i ca n't see anything . EOS
+BOS 這 裡 真 的 很 暗 ， 我 什 麼 都 看 不 到 。 EOS
+Translation: 这 儿 看 看 看 来 不 像 的 。
+
+BOS if possible , i 'd like to travel around the world . EOS
+BOS 如 果 可 能 的 话 ， 我 想 环 游 世 界 。 EOS
+Translation: 如 果 我 尽 问 世 界 ， 我 想 去 旅 行 。
+
+BOS we 'll get a phone call from him tonight for sure . EOS
+BOS 今 晚 我 們 肯 定 會 接 到 他 的 電 話 。 EOS
+Translation: 我 们 今 晚 会 来 接 受 他 们 今 晚 的 电 话 。
+
+BOS i get the feeling you 're trying to tell me something . EOS
+BOS 我 感 觉 你 想 告 诉 我 什 么 事 。 EOS
+Translation: 我 觉 得 说 试 图 事 情 况 你 觉 得 有 什 么 。
+
+BOS i bought a UNK at that store for a low price . EOS
+BOS 我 在 上 商 店 花 低 价 买 了 录 像 机 。 EOS
+Translation: 我 买 了 一 个 买 花 钱 的 生 物 。
+
+BOS i ran as fast as possible to catch up with her . EOS
+BOS 我 尽 快 跑 以 赶 上 她 。 EOS
+Translation: 我 跑 得 尽 可 能 快 给 她 。
+
+BOS let 's go and see as many things as we can . EOS
+BOS 我 们 走 ， 尽 可 能 多 看 点 东 西 。 EOS
+Translation: 让 我 们 想 去 看 看 更 多 ， 后 都 会 可 以 我 们 。
+
+BOS if he knew her phone number , he could call her . EOS
+BOS 如 果 他 知 道 她 的 电 话 ， 他 会 打 给 她 。 EOS
+Translation: 如 果 她 的 電 話 , 他 有 希 望 她 會 叫 她 。
+
+BOS it may sound strange , but what she said is true . EOS
+BOS 聽 起 來 或 許 有 點 怪 ， 但 她 說 的 是 真 的 。 EOS
+Translation: 她 很 怪 ， 情 况 只 是 真 的 。
+
+BOS if you have a question , please raise your right hand . EOS
+BOS 如 果 有 问 题 ， 请 举 起 你 的 右 手 。 EOS
+Translation: 如 果 你 有 一 個 聚 集 的 問 題 ， 請 你 一 样 。
+
+BOS it 's next to impossible to finish it in a day . EOS
+BOS 在 一 天 之 内 完 成 它 几 乎 是 不 可 能 的 。 EOS
+Translation: 在 下 一 次 完 成 就 完 成 。
+
+BOS the poet UNK his burning UNK for the woman he loved . EOS
+BOS 詩 人 對 他 愛 的 女 人 表 達 了 他 火 熱 的 激 情 。 EOS
+Translation: 為 了 他 的 詩 人 感 到 和 他 愛 慕 他 成 功 。
+
+BOS i need a pencil . can i use one of yours ? EOS
+BOS 我 需 要 一 支 铅 笔 ， 我 能 用 你 的 其 中 一 支 吗 ？ EOS
+Translation: 我 得 给 你 的 东 西 了 我 能 使 我 能 借 你 的 手 呢 ？
+
+BOS how could i be a robot ? UNK ca n't dream . EOS
+BOS 我 怎 么 可 能 是 机 器 人 呢 ？ 机 器 人 不 会 做 梦 。 EOS
+Translation: 我 怎 样 报 名 得 到 的 那 个 无 法 ？
+
+BOS you gain more than you spend when you go to college . EOS
+BOS 上 大 學 的 時 候 ， 你 得 到 的 比 付 出 的 還 多 。 EOS
+Translation: 通 过 你 多 少 时 候 要 学 校 的 地 去 上 大 学 。
+
+BOS english is a UNK language and is used all over the world . EOS
+BOS 英 語 是 一 種 世 界 性 的 語 言 ， 用 於 世 界 各 地 。 EOS
+Translation: 英 语 是 一 门 世 界 上 世 界 上 的 语 言 。
+
+BOS according to newspaper reports , there was an airplane accident last evening . EOS
+BOS 根 據 報 載 ， 有 一 架 飛 機 昨 天 晚 上 發 生 了 意 外 。 EOS
+Translation: 根 据 那 打 报 告 ， 门 有 分 鐘 的 意 思 。
+
+BOS since he did n't know what to say , he remained silent . EOS
+BOS 自 从 他 不 知 道 该 说 什 么 的 时 候 ， 便 一 直 沉 默 着 。 EOS
+Translation: 他 后 悔 不 知 道 ， 不 好 什 么 都 好 。
+
+BOS i 'm very tired , but i ca n't get to sleep . EOS
+BOS 我 很 累 ， 但 我 还 是 没 办 法 入 睡 。 EOS
+Translation: 我 很 累 ， 但 是 我 睡 不 了 。
+
+BOS i do n't love her , not even if she loves me . EOS
+BOS 即 使 她 愛 我 ， 我 也 不 愛 她 。 EOS
+Translation: 我 不 是 爱 她 ， 那 么 热 情 。
+
+BOS i do n't even know if tom went to college or not . EOS
+BOS 我 甚 至 不 知 道 汤 姆 有 没 有 上 过 大 学 。 EOS
+Translation: 我 甚 至 不 知 道 去 大 学 。
+
+BOS the UNK , unlike the dog , has never dreamed of flying . EOS
+BOS 不 像 狗 , 這 隻 鶴 從 來 沒 有 夢 想 過 飛 翔 。 EOS
+Translation: 狗 的 嗅 到 它 ， 没 有 看 到 狗 ， 没 有 的 唯 一 礼 而 閃 电 视 。
+
+BOS all you need is ignorance and confidence and the success is sure . EOS
+BOS 要 想 成 功 只 需 要 无 知 和 自 信 。 EOS
+Translation: 你 所 有 的 知 ， 這 個 學 習 得 不 同 意 想 要 的 是 相 当 。
+
+BOS tom did n't tell me he did n't know how to swim . EOS
+BOS 汤 姆 没 有 告 诉 我 他 不 会 游 泳 。 EOS
+Translation: 汤 姆 没 告 诉 我 他 们 知 道 怎 么 游 泳 。
+
+BOS i would really like to know why he did something like that . EOS
+BOS 我 真 的 很 想 知 道 他 為 什 麼 做 了 像 那 樣 的 事 。 EOS
+Translation: 我 真 的 想 要 知 道 他 為 什 麼 我 做 的 事 。
+
+BOS if it 's raining tomorrow , we 'll go there by car . EOS
+BOS 如 果 明 天 下 雨 ， 我 们 就 坐 车 去 那 儿 。 EOS
+Translation: 如 果 明 天 下 雨 的 话 ， 我 们 就 去 那 里 。
+
+BOS he UNK UNK a large sum of money to the red cross . EOS
+BOS 他 UNK 名 向 红 十 字 捐 了 大 笔 钱 。 EOS
+Translation: 他 想 要 成 為 一 件 大 衣 , 比 T o m 成 大 衣 。
+
+BOS you had better take an umbrella with you in case it rains . EOS
+BOS 以 防 下 雨 你 最 好 带 把 伞 。 EOS
+Translation: 你 最 好 把 傘 當 下 雨 成 金 一 把 傘 。
+
+BOS you will get into trouble if your girlfriend finds out the truth . EOS
+BOS 如 果 你 女 朋 友 发 现 真 相 的 话 ， 你 会 有 麻 烦 的 。 EOS
+Translation: 如 果 你 有 成 人 會 抓 到 你 的 话 ， 你 母 亲 。
+
+BOS tom still drinks , but not as much as he used to . EOS
+BOS 汤 姆 还 是 喝 ， 但 不 像 以 前 那 么 多 了 。 EOS
+Translation: 汤 姆 还 在 玛 丽 ， 但 他 还 没 有 一 样 。
+
+BOS the only sound to be heard was the UNK of the clock . EOS
+BOS 唯 一 能 听 到 的 声 音 是 钟 的 滴 答 声 。 EOS
+Translation: 聽 到 這 次 第 二 次 到 期 見 ， 第 二 次 。
+
+BOS when he UNK , the UNK in his UNK stood out clearly . EOS
+BOS 当 他 咆 哮 时 ， 他 UNK 子 上 青 筋 暴 起 。 EOS
+Translation: 他 走 的 时 候 ， 他 的 清 楚 了 。
+
+BOS the eiffel tower is in the same city as the UNK museum . EOS
+BOS 埃 菲 尔 铁 塔 和 卢 浮 UNK 在 同 一 座 城 市 。 EOS
+Translation: 2 C D 在 2 个 周 馆 的 时 候 2 乐 位 子 。
+
+BOS there is a man at the door who wants to see you . EOS
+BOS 门 口 有 个 男 人 想 见 你 。 EOS
+Translation: 见 有 人 要 的 男 人 是 真 想 要 的 。
+
+BOS the third quarter UNK growth was UNK % over the UNK quarter . EOS
+BOS 第 三 季 國 民 生 產 總 值 較 上 一 季 成 長 了 1 ％ 。 EOS
+Translation: 第 二 次 翻 譯 成 玫 瑰 花 很 容 易 第 九 名 。
+
+BOS it was not until i reached home that i missed my purse . EOS
+BOS 那 是 在 我 到 家 以 后 ， 我 才 不 见 了 我 的 钱 包 。 EOS
+Translation: 直 到 我 的 钱 离 开 了 我 ， 我 认 为 我 想 念 的 钱 。
+
+BOS we looked out the window , but we did n't see anything . EOS
+BOS 我 们 看 了 窗 外 ， 但 什 么 都 没 看 见 。 EOS
+Translation: 我 们 看 出 了 这 扇 窗 ， 但 是 我 们 没 看 见 。
+
+BOS a barber is a man who shaves and UNK men 's hair . EOS
+BOS 理 髮 師 是 為 男 人 刮 鬍 子 和 剪 頭 髮 的 人 。 EOS
+Translation: 一 家 船 理 发 是 因 為 其 他 人 在 五 點 鐘 的 手 。
+
+BOS let me remind you again that UNK UNK is the due date . EOS
+BOS 讓 我 再 次 提 醒 你 3 月 3 1 日 是 到 期 日 。 EOS
+Translation: 讓 我 清 看 看 清 想 要 什 麼 , 那 麼 你 并 不 會 。
+
+BOS with your approval , i would like to offer him the job . EOS
+BOS 如 果 您 同 意 , 我 想 給 他 這 份 工 作 。 EOS
+Translation: 我 要 你 的 交 報 告 ， 我 想 認 識 他 。
+
+BOS do n't throw out this magazine . i have n't read it yet . EOS
+BOS 这 本 杂 志 不 要 扔 。 我 还 没 看 呢 。 EOS
+Translation: 我 還 沒 有 太 清 楚 這 輛 理 。
+
+BOS a female friend of mine loves to go to gay bars with me . EOS
+BOS 我 的 一 个 女 性 朋 友 喜 欢 跟 我 一 起 去 同 志 酒 吧 。 EOS
+Translation: 一 位 母 有 我 的 市 长 ， 我 不 知 任 何 或 者 是 惊 讶 。
+
+BOS i do not like tea , so i generally drink coffee for breakfast . EOS
+BOS 我 不 喜 欢 茶 ， 所 以 我 早 餐 大 致 上 都 喝 咖 啡 。 EOS
+Translation: 我 什 麼 後 並 不 喜 歡 牛 奶 。 我 也 没 有 办 法 喝 茶 。
+
+BOS do n't throw away this magazine . i have n't read it yet . EOS
+BOS 这 本 杂 志 不 要 扔 。 我 还 没 看 呢 。 EOS
+Translation: 你 還 不 放 棄 這 本 雜 誌 了 。
+
+BOS tom did n't doubt that there would be a lot of people there . EOS
+BOS 汤 姆 确 定 那 里 会 有 很 多 人 。 EOS
+Translation: 汤 姆 没 有 很 多 人 这 里 的 地 方 。
+
+BOS tom ca n't come to work today because he does n't feel well . EOS
+BOS 汤 姆 今 天 不 舒 服 所 以 没 来 上 班 。 EOS
+Translation: 汤 姆 今 天 无 法 来 工 作 ， 他 感 觉 不 清 楚 。
+
+BOS i do n't really like him , in fact , i hate him . EOS
+BOS 我 不 太 喜 欢 他 ， 其 实 我 讨 厌 他 。 EOS
+Translation: 我 不 喜 歡 他 , 那 麼 愛 他 或 輕 鬆 。
+
+BOS most americans do not object to my calling them by their first names . EOS
+BOS 大 多 数 美 国 人 似 乎 不 反 对 我 直 呼 其 名 。 EOS
+Translation: 大 部 份 的 时 候 ， 我 别 的 大 家 都 不 能 收 集 手 。
+
+BOS how many times a day do you look at yourself in the mirror ? EOS
+BOS 你 一 天 照 几 次 镜 子 ？ EOS
+Translation: 你 自 己 拿 多 少 天 晚 上 做 6 次 ?
+
+BOS that 's the same story as i heard when i was a child . EOS
+BOS 那 跟 當 我 是 個 孩 子 時 所 聽 到 的 是 同 樣 的 故 事 。 EOS
+Translation: 那 是 我 同 的 年 龄 中 的 一 个 生 物 的 小 孩 。
+
+BOS i should be studying english , but i want to watch a movie . EOS
+BOS 我 真 的 應 該 學 英 語 , 但 是 我 想 看 電 影 。 EOS
+Translation: 我 应 该 在 研 上 这 个 电 影 想 ， 但 是 我 想 去 了 。
+
+BOS mary said that she loved me , but i did n't believe her . EOS
+BOS 玛 丽 说 她 爱 我 ， 但 是 我 并 不 相 信 她 所 说 的 话 。 EOS
+Translation: 瑪 麗 的 愛 我 ， 但 她 愛 我 愛 她 。
+
+BOS everybody is supposed to know the law , but few people really do . EOS
+BOS 每 一 个 人 都 应 该 知 法 懂 法 ， 但 是 真 正 能 做 到 的 人 却 很 少 。 EOS
+Translation: 大 家 都 ， 許 知 道 能 不 知 道 这 些 事 实 。
+
+BOS `` does he like music ? '' `` yes , he does . '' EOS
+BOS `` 他 喜 歡 音 樂 嗎 ? `` `` 是 的 , 他 喜 歡 。 `` EOS
+Translation: `` 他 喜 歡 音 樂 ， `` 他 也 是 。 `` ``
+
+BOS she lost her way and on top of that it began to rain . EOS
+BOS 她 迷 路 了 ， 紧 接 着 天 开 始 下 雨 了 。 EOS
+Translation: 她 走 了 ， 她 还 是 不 出 门 开 着 。
+
+BOS pizza is the kind of food that fits into today 's life style . EOS
+BOS 比 萨 是 种 适 合 现 在 的 生 活 方 式 的 食 物 。 EOS
+Translation: 比 其 德 即 老 的 生 活 的 其 有 更 有 纸 。
+
+BOS can you UNK to me the difference between black tea and green tea ? EOS
+BOS 你 能 告 诉 我 红 茶 和 绿 茶 的 区 别 吗 ？ EOS
+Translation: 你 和 我 间 不 区 别 的 差 别 吗 ？
+
+BOS from the look of the sky , it may rain in the afternoon . EOS
+BOS 從 天 色 看 起 來 ， 下 午 可 能 會 下 雨 。 EOS
+Translation: 從 下 午 看 列 不 在 下 午 ， 把 它 可 能 下 得 下 雨 。
+
+BOS i will have finished reading this novel by the time you come tomorrow . EOS
+BOS 你 明 天 来 的 时 候 ， 我 就 看 完 这 本 小 说 了 。 EOS
+Translation: 我 将 要 学 好 完 成 这 本 小 说 。
+
+BOS if he had taken his doctor 's advice , he might still be alive . EOS
+BOS 如 果 他 听 了 他 医 生 的 建 议 ， 他 可 能 还 活 着 。 EOS
+Translation: 如 果 他 的 话 ， 他 还 有 成 为 总 是 不 可 能 的 。
+
+BOS i miss you . i need to see you . could i come over ? EOS
+BOS 我 想 你 。 我 需 要 见 你 。 我 能 来 吗 ？ EOS
+Translation: 我 想 你 想 我 什 麼 時 候 可 以 見 過 你 。
+
+BOS tom ca n't account for his UNK on the day that mary was UNK . EOS
+BOS 汤 姆 不 能 说 明 玛 丽 遇 害 那 天 自 己 在 哪 里 。 EOS
+Translation: 汤 姆 不 能 把 我 的 解 释 玛 丽 那 天 上 同 意 玛 丽 。
+
+BOS i think you will find it convenient to put a UNK on the UNK . EOS
+BOS 我 想 你 迟 早 会 知 道 在 桌 面 建 立 一 个 快 UNK 方 式 是 有 多 方 便 。 EOS
+Translation: 我 想 你 找 到 外 面 會 看 看 报 纸 。
+
+BOS `` do you think he will come ? '' `` i hope not . '' EOS
+BOS `` 你 認 為 他 會 來 嗎 ? `` `` 我 希 望 不 會 。 `` EOS
+Translation: “ 你 认 为 我 不 想 和 他 一 起 来 ？ ” “ 我 不 知 道 。 ”
+
+BOS rather than live a hundred years as a rabbit , live one day as a UNK . EOS
+BOS 寧 可 當 隻 老 虎 活 一 天 ， 也 不 願 當 隻 兔 子 過 一 百 年 。 EOS
+Translation: 比 一 个 年 龄 大 ， 一 个 生 活 一 个 国 一 个 更 活 泼 。
+
+BOS i have n't seen you for ages . do you remember when i saw you last ? EOS
+BOS 好 久 不 见 了 。 记 得 上 次 我 什 么 时 候 看 见 你 的 吗 ？ EOS
+Translation: 我 好 久 不 见 你 ， 以 你 长 大 了 ？
+
+BOS you 're much less likely to get a good position if you do n't speak english . EOS
+BOS 如 果 你 不 会 说 英 语 ， 你 就 很 难 得 到 一 个 好 的 职 位 。 EOS
+Translation: 如 果 你 有 點 的 英 寸 ， 你 不 要 他 有 要 愿 意 跟 你 说 。
+
+BOS if tom does n't do what he 's supposed to do , please let me know . EOS
+BOS 如 果 汤 姆 没 有 做 他 应 当 做 的 事 ， 请 让 我 知 道 。 EOS
+Translation: 如 果 汤 姆 不 知 道 要 我 不 知 道 他 是 什 么 。
+
+BOS `` do you know when they will arrive ? '' `` at UNK this evening . '' EOS
+BOS 你 知 道 他 们 什 么 时 候 到 吗 ？ 今 晚 1 1 点 半 。 EOS
+Translation: “ 你 知 道 这 个 什 么 时 候 ， 来 接 着 门 不 住 。 ”
+
+BOS he took her in his arms to help her , but she UNK ’ t stand . EOS
+BOS 他 把 她 UNK 在 懷 裡 幫 助 她 , 但 她 不 能 忍 受 。 EOS
+Translation: 他 在 她 的 帮 助 中 ， 但 她 不 會 立 刻 打 算 流 露 。
+
+BOS `` the good die young '' is an old saying which may or may not be true . EOS
+BOS “ 好 人 不 长 命 ” 是 句 或 真 或 假 的 老 话 。 EOS
+Translation: “ 许 长 大 可 能 处 来 说 “ 我 是 一 个 类 数 字 。 ” 。 ”
+
+BOS i 'm a foreigner and i do n't know UNK very well . please , speak slowly . EOS
+BOS 我 是 外 国 人 ， 我 UNK 克 语 不 好 ， 请 说 慢 一 点 。 EOS
+Translation: 我 很 想 要 一 个 句 子 和 我 说 ， 不 太 好 。
+
+BOS why do n't we stop arguing over these UNK matters and get to the UNK at hand ? EOS
+BOS 为 什 么 我 们 不 停 止 为 细 枝 末 节 的 争 吵 而 进 入 正 题 呢 ？ EOS
+Translation: 为 什 么 我 们 不 这 些 政 府 要 了 ？
+
+BOS lonely people UNK to be afraid of meeting others , which UNK they will always be lonely . EOS
+BOS 孤 獨 的 人 會 孤 獨 ， 是 因 為 他 畏 懼 他 人 。 EOS
+Translation: 顯 然 的 人 議 一 直 很 害 羞 ， 他 们 会 立 清 怕 继 续 其 他 们 的 成 功 继 续 大 雨 。
+
+BOS `` shall i have him call you when he gets back ? '' `` yes , please . '' EOS
+BOS “ 等 他 回 来 ， 我 要 让 他 给 你 打 电 话 吗 ？ ” “ 是 的 ， 谢 谢 。 ” EOS
+Translation: “ 我 有 时 间 打 电 话 的 ？
+
+BOS if a man had 11 sheep and all but 9 died , how many sheep would he have left ? EOS
+BOS 如 果 一 个 人 有 1 1 只 羊 ， 除 了 9 只 之 外 ， 其 他 全 部 死 了 ， 那 么 他 还 剩 下 几 只 羊 呢 ？ EOS
+Translation: 如 果 一 个 人 都 会 快 过 一 点 ， 他 还 清 内 会 死 。
+
